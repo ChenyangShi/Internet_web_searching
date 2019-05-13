@@ -1,0 +1,1453 @@
+
+
+Björn Hartmann
+
+UC Berkeley
+EECS
+BiD Swarm Lab CITRIS
+Jacobs Institute
+
+
+
+Photo by Alex Greenspan
+
+News
+May 2018: CHI Papers
+We will present three papers on code examples, API visualization, and spatial awareness aids at CHI 2018 in Montreal.
+October 2016: Three UIST Papers
+Our group presented papers on VidCrit (video review), Toastboard (circuit debugging), and DemoDraw (motion illustration) at UIST in Tokyo.
+September 2016: Faculty Director
+I am now the Faculty Director of the Jacobs Institute for Design Innovation.
+May 2016: Teaching Award
+I received this year's Jim and Donna Gray Faculty Award for Excellence in Undergraduate Teaching from UC Berkeley's CS Division.
+May 2016: Best Paper Awards at CHI 2016
+Our work on multi-device storyboards received a Best Paper Award at CHI 2016, and our Drill Sergeant extended abstract received a Best Late Breaking Work Award.
+April 2016: Interim Director of Jacobs Institute
+I was appointed Interim Director of the Jacobs Institute for Design Innovation at UC Berkeley while we search for a permanent successor to David Dornfeld, who passed away unexpectedly at the end of March.
+November 2015: Baby!
+Welcome Harlan Johann Hartmann
+October 2015: Honorable Mention Award
+Our work on Tutorons receives an Honorable Mention Award at VL/HCC
+August 2015: Jacobs Hall opens
+The new home of the Jacobs Institute for Design Innovation opens its doors.
+August 2015: Article on Interactive Seating Class
+Berkeley Engineering: New course models design innovation education
+August 2015: Flashback to a prior career
+Guest DJed with DJ Noon on Berkeley's KALX radio.
+June 2015: Tenure!
+I was promoted to Associate Professor with Tenure effective July 1, 2015.
+June 2015: EICS Best Paper Award
+Will McGrath presents our fabryq platform for Bluetooth Low Energy prototyping at EICS in Germany and wins a best paper award.
+May 2015: Berkeley Engineer Story
+I'm featured in a story in the Berkeley Engineer magazine.
+May 2015: Teaching Award
+I received the Computer Science Divison's Diane S. McEntyre Award for Excellence in Teaching.
+
+Contact info
+Office: 220A Jacobs Hall
+		    Berkeley, CA 94720-1760
+Office Hours: Fall'17: Thursday, 3-4pm
+bjoern@eecs.berkeley.edu
+		t: @bjo3rn, p: +1-415-868-5720
+		Admin: Aleta Martinez,
+		aleta@berkeley.edu
+		RSO: Miriam Kader, mkader@berkeley.edu
+Materials
+
+Curriculum Vitae, Recent Talk Info
+Archived Faculty Application Materials
+
+
+
+
+
+I am an Associate Professor of Electrical Engineering and Computer Science at the University of California, Berkeley. My research in Human-Computer Interaction focuses on novel design, prototyping, and implementation tools for the era of post-personal computing. My group investigates how better software and hardware can facilitate the exploration of interactive devices that leverage novel form factors and technologies (e.g., sensors and actuators). We also investigate how software can help students, designers, and makers to learn and share their expertise online. Methodologically, my group predominantly focuses on systems research: we contribute complex, working interactive systems that embody our research ideas and enable us to test specific hypotheses. However, I also appreciate (and we conduct) careful, controlled experiments. I am a Qualcomm Faculty Fellow and have received an NSF CAREER award, Sloan fellowship, and Okawa research award. My group predominantly publishes at the top HCI conferences UIST, CHI and CSCW. We also publish in more topic-specific venues like DIS, ICSE, VL/HCC, and Learning@Scale. Our work has received multiple best paper prizes at these conferences.
+					
+				
+I am the Faculty Director of the Jacobs Institute for Design Innovation, a new undergraduate teaching institute focused on hands-on, human-centered design. Previously, I co-founded the CITRIS Invention Lab, a lab equipped with many digital fabrication and rapid prototyping tools. The lab serves as inspiration and testbed for many our research projects.  I am also involved in the Berkeley Institute of Design and the Swarm Lab. I spend time with  great colleagues at the Berkeley Center for New Media, and the Visual Computing Lab.
+				  I received my PhD from the Stanford Computer Science department in 2009 where I worked with Scott Klemmer (dissertation). I received an MSE in Computer and Information Science as well as Undergraduate Degrees in Digital Media Design and Communication from the University of Pennsylvania in 2002.
+Thinking about applying for a PhD/Masters/Internship/PostDoc in HCI at Berkeley?
+
+ Do not email me directly about your application or request - I cannot respond to every message. Read this advice instead.
+
+					I am looking for strong PhD and postdocs students in the areas of programming tools, programming education, design tools for digital fabrication, and IOT systems. Berkeley's graduate application deadline is 15 Dec 2016.  Postdoc candidates should get in touch with me directly via email.  If you are from Germany, you can apply as a DAAD-sponsored postdoc working with me through ICSI.
+
+Undergraduate Cal Student interested in (Interface) Design?
+					  The Course Thread in Human-Centered Design which I co-initiated lists relevant courses across the university as well as reading materials. You may also want to get involved in Berkeley Innovation, a student-run design group. In Computer Science, you should take CS160. If you did well and want to deepen your understanding of HCI research and practice, sign up for CS260B or CS294-84 (Interactive Device Design). If you have completed either of these courses with outstanding results, come to my office hours to talk about undergraduate research opportunities. You can also look for projects my group has posted on Beehive.
+		   
+
+
+
+Recent Papers
+
+All
+Framework
+ Fab&Devices
+Tutorials&MOOCs
+Code
+Crowds
+
+
+For a full list, see my profiles on: Google Scholar, ACM DL, or Microsoft Academic Search.
+
+
+Recent Press
+
+New To The Wood Shop? These Smart Power Tools Coach You Through It (FastCompany, Aug 31 2016)
+Computer programming made easier: Harnessing automated program synthesis allows non-programmers to create working code. (ScienceDaily, 15 August 2016.)
+UC Berkeley and UC San Diego Explore Engineering Education of the Future through Making (California Council on Science and Technology, June 30, 2016)
+Democratizing the Maker Movement (Huffington Post, September 08, 2015)
+Engineering for All (NSF, June 17, 2014)
+The Future Is 3D-Printed (UC TV, Jan 2013) features interviews with me and Ron Rael (Architecture).
+Google Glass mod gives you control over home appliances with one touch pairing (Engadget, Dec 2013) Educating a Maker: The Berkeley Perspective (Forbes.com, Nov 2013)
+Hacked Vending Machine Trades Snacks For Skills (Tech News Daily. Apr 2012)
+
+
+
+Teaching
+
+Students & Collaborators
+Advisees
+PostDocs: Elena Glassman
+PhD: Jeremy Warner, Eldon Schoop, Andrew Head, 
+			Amy Pavel (w/ M. Agrawala), Julie Newcomb (UW, w/ R. Bodik), Will McGrath (Stanford CS)
+
+Undergraduate: Tomas Vega, Corten Singer, Michelle Chang, Mitchell Karchemsky
+
+Alumni
+PostDoc: Gustavo Soares'17 (@Campina Grande), David Mellis'16 (@Autodesk), John MacCallum'16 (@INRIA), Mozziyar Etemadi'14 (w/ Shuvo Roy, MD PhD, @Northwestern)
+				PhD: Valkyrie Savage'16 (Dissertation,Startup), Peggy Chi'16 (Dissertation, Research Scientist at 
+Google), Lora Oehlberg
+			'12 (ME, w/ A. Agogino, Asst Prof, Calgary), Kenrick Kin'12 (EECS, 
+w/ 
+M. Agrawala, @Oculus)
+Master's:  Michelle Nguyen'16 (@Trifacta), Alvin Yuan'15 (@Shopkick), Manas Mittal'14 (@Google), Wei Wu'13 (@Yelp), Philipp Gutheim'12 (@MobileWorks,Google), Drew Fisher'12 (w/ D. Wagner, @AeroFS)
+Other grad: Ben Zhang (EECS, primary: E. Lee), D Coetzee'15 (EECS, primary: A. Fox), Kurtis Heimerl (EECS, primary: E. Brewer), Shiry Ginosar (now PhD w/ A. Efros), Anand Kulkarni (IEOR, primary: J. Shewchuck, CEO @MobileWorks)
+Undergraduates:  Jingyi Li'16, Eldon Schoop'16, Claire Tuna, Mark Dhillon (@Madison MS), Matthew Chan (@Irvine PhD), Matthew Can (@Stanford PhD), Vidya Ramesh (@Stanford MS), Brandon Liu (@Square), Charlie Hsu (@Twilio), Kyu Simm (@LifeCheck)
+External: Manuel Kallenbach'11 (RWTH Aachen, MS, w/ Jan Borchers), Denis Bouchinet'12 (Paris Sud, w/ Michel Beaudouin-Lafon)
+SUPERB: Mary Beth Kery'13 (Wellesley), Christie Dierk'13 (Elon, now @Berkeley PhD), Jasmine Jones'11 (UMBC, now @Michigan PhD), Kehontas Rowe'11 (Mills College), Bella Manoim'10 (Bard College)
+In Memoriam
+Tim Campbell, Floraine Berthouzoz, David Dornfeld, David Wessel.
+Recent Collaborators
+Maneesh Agrawala (Stanford), Paul Wright (Berkeley), Tapan Parikh (Berkeley), Alice Agogino (Berkeley), Ras Bodik (Washington), Armando Fox (Berkeley), Marti Hearst (Berkeley), Tovi Grossman (Autodesk), George Fitzmaurice (Autodesk), Jan Borchers (RWTH Aachen), Steven Dow (CMU), Yang Li (Google), Kurt Luther (CMU), Scott Klemmer (PhD advisor - Stanford),  Tony DeRose (Pixar), Michel Beaudouin-Lafon (Univ. Paris), Wendy Mackay (INRIA), Lora Oehlberg (INRIA), Wesley Willett (INRIA), Mira Dontcheva (Adobe), Wilmot Li (Adobe), Gautham Mysore (Adobe), Dan Goldman (Adobe), Sean Follmer (Stanford), Loris D'Antoni (Madison), Rajeev Alur (UPenn), Mahesh Viswanathan (UIUC), Sumit Gulwani (MSR).
+
+
+
+Copyright © UC Berkeley HCI · css design: Luka Cvrk.My group is grateful for financial support from Adobe, Google, Intel, the Okawa Foundation, the Sloan Foundation, and the National Science Foundation.
+
+
+ 
+
+	function toggle(showHideDiv, switchTextDiv) {
+		var ele = document.getElementById(showHideDiv);
+		var text = document.getElementById(switchTextDiv);
+		if(ele.style.display == "block") {
+	    		ele.style.display = "none";
+
+			text.innerHTML = "show video";
+	  	}
+		else {
+			//ele is our div; iframe is its child
+			var iframe = ele.getElementsByTagName("iframe")[0];
+			var url = iframe.getAttribute('data-youtube-url');
+			//load video only when iframe is shown
+			iframe.setAttribute('src', url);			
+			ele.style.display = "block"; 
+			text.innerHTML = "hide video";
+		}
+	} 
+	
+
+		{{each papers}}
+	    <p class="pub">
+		{{if pdf}}<a href="${pdf}" class="pubtitle">${title}</a>{{else}}<span class="pubtitle">${title}</span>{{/if}}<br>
+	    <span class="pubauth">${authors}<!--br--></span>&nbsp;
+	    <span class="pubvenue">${venue} - ${type}<br></span>
+		</p>
+		{{/each}}
+	
+
+		<h4>${year}</h4>
+		<table>
+		{{each papers}}
+	    {{if tags}}<tr class="paper-tr ${tags}">{{else}}<tr class="paper-tr">{{/if}}<td width="106" valign="top">{{if thumb}}<img src="images/paperthumbs/${thumb}" />{{else}}&nbsp;{{/if}}</td><td valign="top">
+			<p class="pub">
+		{{if pdf}}<a href="${pdf}" class="pubtitle">${title}</a>{{else}}<span class="pubtitle">${title}</span>{{/if}}<br>
+	    <span class="pubauth">${authors}<br></span>
+	    <span class="pubvenue">${venue}<br></span>
+		{{if summary}}<span class="pubsumm">${summary}{{if accrate}} (acceptance rate: ${accrate}){{/if}}<br></span>{{/if}}
+		<span class="pubvenue">${type}</span>
+
+		{{if award}}&nbsp;&nbsp;<span class="pubaward">${award}</span>&nbsp;&nbsp;{{/if}}
+		<span class="publinks">{{if pdf}}<a href="${pdf}">local pdf</a>{{/if}}{{if bib}}, <a href="${bib}">bibtex</a>{{/if}}{{if doi}}, <a href="${doi}">doi</a>{{/if}}{{if site}}, <a href="${site}">project page</a>{{/if}}{{if video}}, <a id="vlink_${year}_${$index}" href="javascript:toggle('vdiv_${year}_${$index}','vlink_${year}_${$index}');">show video</a>{{/if}}</span>
+
+		{{if video}}<div id="vdiv_${year}_${$index}" style="display: none"><iframe title="YouTube video player" class="youtube-player" type="text/html" width="400" height="255" data-youtube-url="${video}" src="about:blank" frameborder="0"></iframe></div>{{/if}}
+		</p></td></tr>
+		{{/each}}
+		</table>
+	
+
+		<h4>${semester}</h4>
+		{{each courses}}
+	    <p class="course"><a href="${url}">${title}</a><br/>
+	    ${time}; ${location}; ${other}
+		{{if coteachers}}<br>Co-teachers: ${coteachers}{{/if}}
+		{{if gsis}}<br>GSIs: ${gsis}{{/if}}
+		</p>
+		{{/each}}
+	
+
+	var wips = [
+	{ year: "2014", papers:[
+	{title:"CrowdCrit: Crowdsourcing and Aggregating Visual Design Critique",
+	authors:"Kurt Luther, Amy Pavel, Wei Wu, Jari-lee Tolentino, Maneesh Agrawala, Björn Hartmann¸ and Steven Dow",
+	venue:"CSCW 2014",
+	type:"Demo",
+	pdf:"",
+	summary:""},
+	{title:"Initial Experiences with Small Group Discussions in MOOCs",
+	authors:"Seongtaek Lim, Derrick Coetzee, Björn Hartmann, Armando Fox, and Marti Hearst",
+	venue:"L@S 2014",
+	type:"Poster",
+	pdf:"",
+	summary:""},
+	]},
+	{ year: "2013", papers:[
+	{title:"Body-Tracking Camera Control for Demonstration Videos",
+	authors:"Derrick Cheng, Pei-yu Chi, Taeil Kwak, Björn Hartmann and Paul Wright",
+	venue:"CHI 2013",
+	type:"Poster",
+	pdf:"papers/cheng-kinectograph-chi2013wip.pdf",
+	summary:""},
+	{title:"Prototyping Tangible Input Devices with Digital Fabrication",
+	authors:"Valkyrie Savage and Björn Hartmann",
+	venue:"Fab at CHI Workshop 2013",
+	type:"Workshop Abstract",
+	pdf:"papers/savage-fabatchi2013.pdf",
+	summary:""},
+	{title:"Remote Collaborative Fabrication",
+	authors:"Lora Oehlberg and Björn Hartmann",
+	venue:"Fab at CHI Workshop 2013",
+		type:"Workshop Abstract",
+		pdf:"papers/oehlberg-fabatchi2013.pdf",
+	summary:""},
+	]},
+	{ year: "2012", papers:[
+	{title:"MixT: Automatic Generation of Step-by-Step Mixed Media Tutorials",
+	authors:"Pei-yu Chi, Sally Ahn, Amanda Ren, Björn Hartmann, Mira Dontcheva, and Wilmot Li",
+	venue:"CHI 2012",
+	type:"Poster",
+	pdf:"papers/chi-mixt-chi2012-wip.pdf",
+	summary:""},
+	{title:"Dazzle: Supporting Framing in Co-Located Design Teams Through Remote Collaboration Tools",
+	authors:"Lora Oehlberg, Jasmine Jones, and Björn Hartmann",
+	venue:"CSCW 2012",
+	type:"Poster",
+	pdf:"papers/oehlberg-dazzle-cscw2012-poster.pdf",
+	summary:""},
+	{title:"Bribecaster: Documenting Bribes Through Community Participation",
+	authors:"Manas Mittal, Wei Wu, Steve Rubin, Sam Madden and Björn Hartmann",
+	venue:"CSCW 2012",
+		type:"Poster",
+		pdf:"papers/mittal-bribecaster-cscw2012-poster.pdf",
+	summary:""},
+	]},
+	{ year: "2011", papers:[
+	
+		{title:"Turkomatic: Automatic Recursive Task and Workflow Design for Mechanical Turk",
+		authors:"Anand Kulkarni, Matthew Can, and Björn Hartmann",
+		venue:"HCOMP2011",
+		type:"Poster",
+		pdf:"papers/kulkarni-turkomatic-hcomp2011-poster.pdf",
+		summary:""},
+		{title:"MobileWorks: A Mobile Crowdsourcing Platform for Workers at the Bottom of the Pyramid",
+		authors:"Prayag Narula, Philipp Gutheim, David Rolnitzky, Anand Kulkarni, and Björn Hartman",
+		venue:"HCOMP2011",
+		type:"Poster",
+		pdf:"papers/narula-mobileworks-hcomp2011-poster.pdf",
+		summary:""},
+		{title:"Crowdsourcing suggestions to programming problems for dynamic web development languages",
+		authors:"Dhawal Mujumdar, Manuel Kallenbach, Brandon Liu, and Björn Hartman",
+		venue:"CHI2011",
+		type:"Work-in-progress",
+		pdf:"papers/mujumdar-crowddebug-chi2011-wip.pdf",
+		summary:""},
+		{title:"Turkomatic: Automatic Recursive Task and Workflow Design for Mechanical Turk",
+		authors:"Anand Kulkarni, Matthew Can, and Björn Hartmann",
+		venue:"CHI2011",
+		type:"Work-in-progress",
+		pdf:"papers/kulkarni-turkomatic-chi2011-wip.pdf",
+		summary:""},
+		{title:"The Diversity Donut: Enabling Participant Control Over the Diversity of Recommended Responses",
+		authors:"David Wong, Siamak Faridani, Ephrat Bitton, Björn Hartmann, and Ken Goldberg",
+		venue:"CHI2011",
+		type:"Work-in-progress",
+		pdf:"papers/wong-diversity-chi2011-wip.pdf",
+		summary:""},
+		{title:"Shepherding the Crowd: Managing and Providing Feedback to Crowd Workers",
+		authors:"Steven Dow, Anand Kulkarni, Brie Bunge, Truc Nguyen, Scott Klemmer, and Björn Hartmann",
+		venue:"CHI 2011",
+		type:"Work-in-progress",
+		pdf:"papers/dow-shepherd-chi2011-wip.pdf",
+		summary:""},
+		{title:"CalmMeNow: Exploratory Research and Design of Stress Mitigating Mobile Interventions",
+		authors:"Pablo Paredes and Matthew Chan",
+		venue:"CHI2011",
+		type:"Work-in-progress",
+		pdf:"",
+		summary:""},
+	]}
+	];
+	    var papers = [
+	    { year: "2017", papers:[
+	    		{
+	    			title:"Bifröst : Visualizing and Checking Behavior of Embedded Systems across Hardware and Software",
+	    			authors: "Will McGrath, Daniel Drew, Jeremy Warner, Majeed Kazemitabaar, Mitchell Karchemsky, David Mellis, Björn Hartmann",
+	    			venue:"UIST 2017",
+	    			accrate:"22%",
+	    			type:"full paper",
+	    			tags:"codez makers",
+	    			summary:"This paper presents a new development environment designed to illuminate the boundary between embedded code and circuits. Bifröst automatically instruments and captures the progress of the user’s code, variable values, and the electrical and bus activity occurring at the interface between the processor and the circuit it operates in. This data is displayed in a linked visualization that allows navigation through time and program execution, enabling comparisons between variables in code and signals in circuits.",
+	    			thumb:"mcgrath-bifrost-uist2017.png",
+
+	       		},
+	    	    {
+	    	    	title: "Shot-Based Orientation Control for 360-Degree Video",
+	    	    	authors:"Amy Pavel, Björn Hartmann, Maneesh Agrawala",
+	    	    	venue:"UIST 2017",
+	    	    	accrate:"22%",
+	    	    	type:"short paper",
+	    	    	tags:"video",
+	    	    	summary:"We present new interactive shot orientation techniques that are designed to help viewers see all of the important content in 360-degree video stories.",
+	    	    	thumb:"pavel-orientation-uist2017.jpg",
+	    	    },
+	    	    {
+	    	    title:"Debugging Unexpected CodeBehavior Using Synthesized Code Corrections",
+	    	    authors:"Ryo Suzuki, Gustavo Soares, Andrew Head, Elena Glassman, Ruan Reis, Melina Mongiovi, Loris D’antoni and Björn Hartmann",
+	    	    venue:"VLHCC 2017",
+	    	    accrate:"29%",
+	    	    type:"full paper",
+	    	    tags:"codez",
+	    	    summary:"Introduces a novel interface to help novice programmers debug incorrect assignments by visualizing where execution diverges from the closest correct program.",
+	    	    thumb:"suzuki-tracediff-vlhcc2017.png",
+
+	    	    },
+	    	    {
+	    	    title:"Turning coders into makers: the promise of embedded design generation",
+	    	    authors:"Rohit Ramesh, Richard Lin, Antonio Iannopollo, Alberto Sangiovanni-Vincentelli, Björn Hartmann, Prabal Dutta",
+	    	    venue:"SCF 2017",
+	    	    type:"full paper",
+	    	    tags:"makers codez",
+	    	    summary:"We present a novel methodology for embedded design generation that allows the generation of complete designs from high-level specifications. Starting from user-specified requirements and a library of available components, our tool encodes the design space as a system of constraints. Constraint solvers then reason over these constraints to create a block diagram with sufficient information to generate the device firmware and circuit netlist.",
+	    	    thumb:"ramesh-edg-scf2017.png",
+	    	 
+	    	    pdf:"papers/ramesh-edg-scf2017.pdf",
+	    	    doi:"http://doi.acm.org/10.1145/3083157.3083159",
+	    	    video:"",
+	    	    bib:"papers/ramesh-edg-scf2017.bib"
+	    	    	},
+	    	    	{
+	    	    title:"Machine Learning for Makers: Interactive Sensor Data Classification Based on Augmented Code Examples",
+	    	    authors:"David Mellis, Ben Zhang, Audrey Leung, and Björn Hartmann",
+	    	    venue:"DIS 2017",
+	    	    type:"full paper",
+	    	    tags:"makers codez",
+	    	    summary:"ESP (Example-based Sensor Prediction) leverages expert-authored machine learning pipelines to drive an auto-generated interface that allows machine-learning novices to modify and adapt the pipelines for use in their own projects. ESP allows novices to visualize pipeline performance; manage training data; and configure pipeline parameters.",
+	    	    thumb:"mellis-esp-dis2017.jpg",
+	    	    accrate: "24%",
+	    	    pdf:"papers/mellis-esp-dis2017.pdf",
+	    	    doi:"http://doi.acm.org/10.1145/3064663.3064735",
+	    	    video:"",
+	    	    bib:"papers/mellis-esp-dis2017.bib",
+	    	    award:"Honorable Mention Award"
+	    	    	},
+	    	    	{
+	    		title:"Writing Reusable Code Feedback at Scale with Mixed-Initiative Program Synthesis",
+	    		authors:"Andrew Head, Elena Glassman, Gustavo Soares, Ryo Suzuki, Lucas Figueredo, Loris D'Antoni, Björn Hartmann",
+	    		venue:"Learning@Scale 2017",
+	    		type:"full paper",
+	    		tags:"mooc codez",
+	    		summary:"In large classes, teacher feedback on individual student coding mistakes is not typically feasible. We contribute a new mixed-initiative approach which combines the teacher’s judgement and expertise with data-driven program synthesis techniques that cluster buggy student solutions and learn code transformations from examples",
+	    		thumb:"head-mistakebrowser-las2017.png",
+	    		accrate: "13%",
+	    		pdf:"papers/head-mistakebrowser-las2017.pdf",
+	    		doi:"http://doi.acm.org/10.1145/3051457.3051467",
+	    		video:"",
+	    		bib:"papers/head-mistakebrowser-las2017.bib"
+	    	},
+	    	{
+	    		title:"Learning Syntactic Program Transformations from Examples",
+	    		authors:"Reudismam Rolim, Gustavo Soares, Björn Hartmann, Loris D’Antoni, Oleksandr Polozov, Sumit Gulwani, Rohit Gheyi, Ryo Suzuki",
+	    		venue:"ICSE 2017",
+	    		type:"full paper",
+	    		tags: "codez framework",
+	    		summary:"We present Refazer, a technique for automatically generating program transformations, building on the observation that code edits performed by developers can be used as input-output examples for learning program transformations. Our technique introduces a novel domain-specific language (DSL) for describing program transformations; domain-specific deductive algorithms for efficiently synthesizing transformations in the DSL; and functions for ranking the synthesized transformations.",
+	    		thumb:"rolim-refazer-icse2017.png",
+	    		accrate: "16%",
+	    		pdf:"papers/rolim-refazer-icse2017.pdf",
+	    		doi:"https://doi.org/10.1109/ICSE.2017.44",
+	    		video:"",
+	    		bib:"papers/rolim-refazer-icse2017.bib"
+	    	}
+
+	    			    	]
+	    },
+	    	{ year: "2016", papers:[
+	    	{
+	    		title:"A Research Agenda for Academic Makerspaces",
+	    		authors:"Björn Hartmann",
+	    		venue:"ISAM 2016",
+	    		type:"position paper (4 pages)",
+	    		tags: "fabrication",
+	    		summary:"This paper lays out a landscape of possible engagements between research and makerspaes in academia.",
+	    		thumb:"hartmann-makerspaces-isam2016.jpg",
+	    		pdf:"papers/hartmann-makerspaces-isam2016.pdf",
+	    	
+
+	    	},
+	    	{
+	    		title:"Authoring Illustrations of Human Movements by Iterative Physical Demonstration",
+	    		authors:"Pei-Yu (Peggy) Chi, Mira Dontcheva, Wilmot Li, Daniel Vogel, Björn Hartmann",
+	    		venue:"UIST 2016",
+	    		type:"full paper (10 pages)",
+	    		tags: "tutorial tool",
+	    		summary:"We introduce a multimodal approach for people to generate illustrations of human movements by physically demonstrating the movements.",
+	    		thumb:"chi-demodraw-uist2016.jpg",
+	    		pdf:"papers/chi-demodraw-uist2016.pdf",
+	    		doi:"http://doi.acm.org/10.1145/2984511.2984559",
+	    		video:"https://www.youtube.com/embed/94lWGzExpTM",
+	    		bib:"papers/chi-demodraw-uist2016.bib"
+
+
+	    	},
+	    	{
+	    		title:"The Toastboard: Ubiquitous Instrumentation and Automated Checking of Breadboarded Circuits",
+	    		authors: "Daniel Drew, Julie Newcomb, William McGrath, Filip Maksimovic, David Mellis, Björn Hartmann",
+	    		venue: "UIST 2016",
+	    		type: "full paper (8 pages)",
+	    		tags: "fab",
+	    		summary: "This paper presents a novel debugging tool for electronic design projects, the Toastboard, that aims to reduce debugging time by improving upon the standard paradigm of point-wise circuit measurements. Ubiquitous instrumentation allows for immediate visualization of an entire breadboard's state. Critical information is displayed visually on the circuit itself and quantitative data is displayed on the accompanying web interface. Software-based testing functions further lower the expertise threshold for efficient debugging by diagnosing classes of circuit errors automatically.",
+	    		thumb:"drew-toastboard-uist2016.jpg",
+	    		pdf:"papers/drew-toastboard-uist2016.pdf",
+	    		bib:"papers/drew-toastboard-uist2016.bib",
+	    		doi:"http://doi.acm.org/10.1145/2984511.2984566",
+	    		video:"https://www.youtube.com/embed/Tvkuqr5SYi4"
+
+	    	},
+	    	{
+	    		title:"Video-based Asynchronous Video Review",
+	    		authors:"Amy Pavel, Dan Goldman, Björn Hartmann, Maneesh Agrawala",
+	    		venue: "UIST 2016",
+	    		type: "full paper (10 pages)",
+	    		tags: "video",
+	    		summary: "We introduce VidCrit, a system for providing asynchronous feedback on drafts of edited video that incorporates favorable qualities of an in-person review. ",
+	    		thumb:"pavel-vidcrit-uist2016.jpg",
+	    		pdf:"papers/pavel-vidcrit-uist2016.pdf",
+	    		bib:"papers/pavel-vidcrit-uist2016.bib",
+	    		doi:"http://doi.acm.org/10.1145/2984511.2984552",
+	    		video:"https://www.youtube.com/embed/e9dUho_72Jg"
+	    	},
+	    	{
+	    		title:"Fiat Lux – Interactive Urban Lights for Combining Positive Emotion and Efficiency",
+	    		authors:"Pablo Paredes, Ryuka Ko, Eduaro Calle-Ortiz, Björn Hartmann, John Canny, Greg Niemeyer",
+	    		venue: "DIS 2016",
+	    		type: "full paper",
+	    		thumb: "paredes-fiatlux-dis2016.jpg",
+	    		pdf:"papers/paredes-fiatlux-dis2016.pdf",
+	    		bib:"papers/paredes-fiatlux-dis2016.bib",
+	    		doi:"http://dx.doi.org/10.1145/2901790.2901832",
+	    		summary: "Introduces a novel interactive urban light system focused on increasing positive affect for pedestrians."
+	    	},
+	    	{
+	    		title: "Engaging Amateurs in the Design, Fabrication and Assembly of Electronic Products",
+	    		authors: "David Mellis, Leah Buechley, Mitchel Resnick, and Björn Hartmann",
+	    		venue: "DIS 2016",
+	    		type: "full paper",
+	    		tags: "fab",
+	    		thumb: "mellis-devicefab-dis2016.jpg",
+	    		pdf: "papers/mellis-devicefab-dis2016.pdf",
+	    		bib: "papers/mellis-devicefab-dis2016.bib",
+	    		site:"http://web.media.mit.edu/~mellis/products/",
+	    		doi:"http://doi.acm.org/10.1145/2901790.2901833",
+	    		summary: "This paper explores personal fabrication as a means of engaging new audiences in the creation of electronic devices,  which play an ever-increasing role in our lives but which most people have little involvement in creating. We describe a six-session workshop in which participants made wifi-connected devices through the design and fabrication of custom printed circuit boards."
+	    	},
+	    	{
+	    		title:"Enhancing Cross-Device Interaction Scripting with Interactive Illustrations",
+	    		authors:"Pei-yu (Peggy) Chi, Yang Li, and Björn Hartmann",
+	    		venue: "CHI 2016",
+	    		type: "full paper (12 pages)",
+	    		tags: "codez",
+	    		thumb:"chi-demoscript-chi2016.jpg",
+	    		pdf:"papers/chi-demoscript-chi2016.pdf",
+	    		bib:"papers/chi-demoscript-chi2016.bib",
+	    		video:"https://www.youtube.com/embed/SNQ1a94ySf4",
+	    		doi:"http://dl.acm.org/authorize?N03126",
+	    		summary: "To assist developers in programming cross-device interactions, we created DemoScript, a technique that automatically analyzes a cross-device interaction program and visually illustrates the step-by-step execution of a selected portion with a novel, automatically generated cross-device storyboard visualization",
+	    		award: "Best Paper Award",
+	    	},
+	    	{
+	    		title:"Drill Sergeant: Supporting Physical Construction Projects Through an Ecosystem of Augmented Tools",
+	    		authors:"Schoop, Eldon and Nguyen, Michelle and Lim, Daniel and Savage, Valkyrie and Follmer, Sean and Hartmann, Björn",
+	    		venue: "CHI 2016 Late-Breaking Work",
+	    		type: "extended abstract",
+	    		tags: "fab",
+	    		thumb: "schoop-drillsergeant-chi2016ea.jpg",
+	    		award: "Best Late Breaking Work Award",
+	    		summary: "",
+	    		doi:"http://dx.doi.org/10.1145/2851581.2892429",
+	    		pdf:"papers/schoop-drillsergeant-chi2016ea.pdf",
+	    		bib:"papers/schoop-drillsergeant-chi2016ea.bib",
+
+	    	},
+	    	{
+	    		title: "Almost an Expert: The Effects of Rubrics and Expertise on Perceived Value of Crowdsourced Design Critiques",
+	    		authors: "Alvin Yuan, Kurt Luther, Markus Krause, Sophie Vennix, Steven P Dow, Björn Hartmann",
+	    		venue: "CSCW 2016: Computer-Supported Cooperative Work and Social Computing",
+	    		type: "full paper (12 pages)",
+	    		tags:"experiment crowd",
+	    		thumb:"yuan-crowdcrit-cscw2016.png",
+	    		pdf:"papers/yuan-crowdcrit-cscw2016.pdf",
+	    		bib:"papers/yuan-crowdcrit-cscw2016.bib",
+	    		doi:"http://dx.doi.org/10.1145/2818048.2819953",
+	    		site:"http://hci.berkeley.edu/crowdcrit",
+	    		summary:"Expert feedback is valuable but hard to obtain for many designers. Online crowds can provide a source of fast and affordable feedback, but workers may lack relevant domain knowledge and experience. Can expert rubrics address this issue and help novices provide expert-level feedback? To evaluate this, we conducted an experiment with a 2x2 factorial design.",
+	    	},
+	    	{
+	    		title: "Data-Driven Adaptive History List for Image Editing",
+	    		authors: "Hsiang-Ting Chen, Li-Yi Wei, Björn Hartmann, Maneesh Agrawala",
+	    		venue: "I3D 2016: ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games",
+	    		type: "full paper (9 pages)",
+	    		tags: "tutorial",
+	    		thumb:"chen-historylist-i3d2016.jpg",
+	    		pdf:"papers/chen-historylist-i3d2016.pdf",
+	    		bib:"papers/chen-historylist-i3d2016.bib",
+	    		doi:"http://dx.doi.org/10.1145/2856400.2856417",
+	    		site:"http://www.ht-timchen.com/research/data-driven-history-list-for-image-editing/",
+	    		video:"https://www.youtube.com/embed/Cb89iqSRBpw",
+	    		summary:"We introduce adaptive history, a UI mechanism that groups relevant operations together to reduce user workloads in image editing.",
+	       	}
+
+	    	]},
+	    	{ year: "2015", papers:[
+
+	    	{
+	    		title:"SceneSkim: Searching and Browsing Movies Using Synchronized Captions, Scripts and Plot Summaries",
+	    		authors:"Amy Pavel, Dan Goldman, Björn Hartmann, and Maneesh Agrawala",
+	    		venue:"UIST 2015: ACM Symposium on User Interface Software and Technology",
+	    		type:"full paper (10 pages)",
+	    		tags:"tool video",
+	    		thumb:"pavel-sceneskim-uist2015.png",
+	    		summary:"We introduce SceneSkim, a tool for search- ing and browsing movies using synchronized captions, scripts and plot summaries.",
+	    		doi:"http://dx.doi.org/10.1145/2807442.2807502",
+	    		pdf:"papers/pavel-sceneskim-uist2015.pdf",
+	    		bib:"papers/pavel-sceneskim-uist2015.bib",
+	    		video:"https://www.youtube.com/embed/umvD6TGwciE",
+	    		site:"http://vis.berkeley.edu/papers/sceneskim/",
+
+	    	},
+	    	{
+	    		title:"Makers’ Marks: Physical Markup for Designing and Fabricating Functional Objects",
+	    		authors:"Valkyrie Savage, Sean Follmer, Jingyi Li, and Björn Hartmann",
+	    		venue:"UIST 2015: ACM Symposium on User Interface Software and Technology",
+	    		type:"short paper (6 pages)",
+	    		tags:"fab tool",
+	    		thumb:"savage-mmarks-uist2015.jpg",
+	    		summary:"We aim to allow makers to design and 3D print functional mechanical and electronic assemblies. Makers’ Marks is a system based on physical authoring of assemblies using sculpting materials and annotation stickers.",
+	    		doi:"http://dx.doi.org/10.1145/2807442.2807508",
+	    		pdf:"papers/savage-mmarks-uist2015.pdf",
+	    		bib:"papers/savage-mmarks-uist2015.bib",
+	    		video:"https://www.youtube.com/embed/EM7bgipWy6g",
+
+	    	},
+	    	{
+	    		title:"Tutorons: Generating Context-Relevant, On-Demand Explanations and Demonstrations of Online Code",
+	    		authors: "Andrew Head, Codanda Appachu, Marti A. Hearst, Björn Hartmann",
+	    		venue: "VL/HCC 2015: Visual Languages and Human-Centered Computing",
+	    		type: "full paper (9 pages)",
+	    		tags:"codez tutorial",
+	    		thumb:"head-tutorons-vlhcc2015.png",
+	    		summary:"We propose language-specific routines called Tutorons that automatically generate on-demand, context-relevant micro-explanations of code. A Tutoron detects explainable code in webpages, parses it, and generates in-situ natural language explanations and demonstrations of code.",
+	    		pdf:"papers/head-tutorons-vlhcc2015.pdf",
+	    		award: "Honorary Mention",
+	    		site:"http://tutorons.com/",
+
+	    	},
+	    	{
+	    		title:"fabryq: Using Phones as Gateways to Prototype Internet of Things Applications using Web Scripting",
+	    		authors:"Will McGrath, Mozziyar Etemadi, Shuvo Roy and Björn Hartmann",
+	    		venue:"EICS 2015",
+	    		type:"full paper (10 pages)",
+	    		tags:"tool framework",
+	    		summary:"We present fabryq, a platform that simplifies the prototyping and deployment of MGC applications (embedded-gateway-cloud). fabryq uses smartphones as bridges that connect devices using the short range wireless technology, Bluetooth Low Energy (BLE), to the Internet.",
+	    		thumb:"mcgrath-fabryq-eics2015.png",
+	    		pdf:"papers/mcgrath-fabryq-eics2015.pdf",
+	    		doi:"http://dx.doi.org/10.1145/2774225.2774835",
+	    		bib:"papers/mcgrath-fabryq-eics2015.bib",
+	    		award:"Best Paper Award"
+	    	},
+	    	{
+	    		title:"Lamello: Passive Acoustic Sensing for Tangible Input Components",
+	    		authors: "Valkyrie Savage, Andrew Head, Björn Hartmann, Dan Goldman, Gautham Mysore and Wilmot Li",
+	    		venue: "CHI 2015",
+	    		type:"note (4 pages)",
+	    		tags:"fab",
+	    		summary:"We describe Lamello, an approach for creating tangible input components that recognize user interaction via passive acoustic sensing. Lamello generates tine structures undeneath components and predicts the fundamental frequency of each fabricated tine based on its geometry: thus, recognition does not require training.",
+	    		thumb:"savage-lamello-chi2015.jpg",
+	    		doi:"http://dx.doi.org/10.1145/2702123.2702207",
+	    		pdf:"papers/savage-lamello-chi2015.pdf",
+	    		bib:"papers/savage-lamello-chi2015.bib",
+
+	    	},
+	    	
+	    	{title:"How Can Automatic Feedback Help Students Construct Automata?",
+	    		authors:"Loris D'Antoni, Dileep Kini, Rajeev Alur, Sumit Gulwani, Mahesh Viswanathan, Björn Hartmann",
+	    		venue:"TOCHI: ACM Transactions on Computer-Human Interaction",
+	    		type: "journal paper",
+	    		tags: "learn mooc experiment",
+	    		summary:"We contribute a novel way to automatically compute conceptual hints for DFA constructions, and perform an evaluation of feedback types with 377 students. We find that providing either counterexamples or conceptual hints is judged as helpful, increases student perseverance, and can improve problem completion time.",
+	    		doi:"http://dx.doi.org/10.1145/2723163",
+	    		pdf:"papers/dantoni-automatatutor-tochi2015.pdf",
+	    		bib:"papers/dantoni-automatatutor-tochi2015.bib",
+	    		thumb:"dantoni-automatatutor-tochi2015.png",
+	    		site:"http://www.automatatutor.com/",
+	    	},
+
+	    	{title:"Structuring Interactions for Large-Scale Synchronous Peer Learning",
+	    		authors: "Derrick Coetzee, Seongtaek Lim, Armando Fox, Björn Hartmann, Marti Hearst",
+	    		venue: "CSCW 2015: Computer-Supported Cooperative Work and Social Computing",
+	    		type: "full paper (14 pages)",
+	    		accrate: "28%",
+	    		tags:"learn mooc experiment crowd",
+	    		summary: "Investigates how to introduce synchronous interactive peer learning into online settings appropriate for crowdworkers and students in massive open online courses.",
+	    		doi:"http://dx.doi.org/10.1145/2675133.2675251",
+				pdf:"papers/coetzee-peerlearning-cscw2015.pdf",
+				bib:"papers/coetzee-peerlearning-cscw105.bib",
+				thumb:"coetzee-moocchat-cscw2015.png",
+	    	},
+			{title:"Structuring, Aggregating, and Evaluating Crowdsourced Design Critique",
+	    		authors: "Kurt Luther, Jari-lee Tolentino, Wei Wu, Amy Pavel, Maneesh Agrawala, Brian Bailey, Björn Hartmann, Steven Dow",
+	    		venue: "CSCW 2015: Computer-Supported Cooperative Work and Social Computing",
+	    		type: "full paper (13 pages)",
+	    		accrate: "28%",
+	    		tags:"learn crowd",
+	    		summary: "Presents CrowdCrit, a web-based system that allows designers to receive design critiques from non-expert crowd workers.",
+	    		doi:"http://dx.doi.org/10.1145/2675133.2675283",
+				pdf:"papers/luther-crowdcrit-cscw2015.pdf",
+				bib:"papers/luther-crowdcrit-cscw2015.bib",
+				thumb:"luther-crowdcrit-cscw2015.png",
+	    	},
+
+	    	]},
+			{ year: "2014", papers:[
+			{title: "HOBS: Head Orientation-Based Selection in Physical Spaces",
+				authors: "Ben Zhang, Yu-Hsiang Chen, Claire Tuna, Achal Dave, Yang Li, and Björn Hartmann",
+				venue: "SUI2014: ACM Symposium on Spatial User Interaction",
+				type: "full paper (9 pages)",
+				accrate: "30%",
+				video:"https://www.youtube.com/watch?v=UOfIj5nHHQ0",
+				doi: "http://dx.doi.org/10.1145/2659766.2659773",
+				pdf:"papers/zhang-hobs-sui2014.pdf",
+				bib:"papers/zhang-hobs-sui2014.bib",
+				thumb:"zhang-hobs-sui2014.png",
+				site:"http://www.eecs.berkeley.edu/~benzh/glass/",
+				tags:"devices fab",
+				summary: "We present the iterative design and evaluation of a head orientation-based selection technique for interacting with smart devices at a distance. We augment a commercial wearable device, Google Glass, with an infrared (IR) emitter to select targets equipped with IR receivers.",
+
+			},
+			{title: "Video Digests: A Browsable, Skimmable Format for Informational Lecture Videos",
+				authors:"Amy Pavel, Colorado Reed, Björn Hartmann, and Maneesh Agrawala",
+				venue:"UIST2014: ACM Symposium on User Interface Software and Technology",
+				type:"full paper (10 pages)",
+				doi:"http://dx.doi.org/10.1145/2642918.2647400",
+				pdf:"papers/pavel-digests-uist2014.pdf",
+				bib:"papers/pavel-digests-uist2014.bib",
+				summary:"We present a set of tools to construct video digests, a new format for informational videos that afford browsing and skimming by segmenting videos into a chapter/section structure and providing short text summaries and thumbnails for each section.",
+				video:"",
+				site:"http://vis.berkeley.edu/papers/videodigests/",
+				thumb:"pavel-digests-uist2014.jpg",
+				accrate:"2x%",
+				tags:"learn tutorial crowd",
+				},
+			{title: "A Series of Tubes: Adding Interactivity to 3D Prints Using Internal Pipes",
+				authors:"Valkyrie Savage, Ryan Schmidt, Tovi Grossman, George Fitzmaurice, and Björn Hartmann",
+				venue:"UIST2014: ACM Symposium on User Interface Software and Technology",
+				type:"full paper (10 pages)",
+				doi:"http://dx.doi.org/10.1145/2642918.2647374",
+				pdf:"http://www.autodeskresearch.com/pdf/series_of_tubes_authored.pdf",
+				bib:"papers/savage-pipedream-uist2014.bib",
+				summary:"We introduce a general technique to support rapidly prototyping interactivity by removing interior material from 3D models to form internal pipes.",
+				video:"https://www.youtube.com/embed/PiFbjOkYC4M",
+				site:"http://www.autodeskresearch.com/publications/tubes",
+				thumb:"savage-pipedream-uist2014.jpg",
+				accrate:"2x%",
+				tags:"fab tool",
+				},
+
+			{title:"The Swarm at the Edge of the Cloud",
+			authors:"Edward A. Lee, Jan Rabaey, David Blaauw, Prabal Dutta, Kevin Fu, Carlos Guestrin, Bjoern Hartmann, Roozbeh Jafari, Douglas L. Jones, John D. Kubiatowicz, Vijay Kumar, Rahul Mangharam, Brian T. Murray, George Pappas, Kris Pister, Anthony Rowe, Alberto Sangiovanni-Vincentelli, Sanjit A. Seshia, Tajana Simunic Rosing, Ben Taskar, John Wawrzynek, David Wessel",
+			venue:"IEEE Design & Test",
+			type:"magazine article",
+			doi:"http://dx.doi.org/10.1109/MDAT.2014.2314600",
+			pdf:"papers/lee-terraswarm-ieee2014.pdf",
+			thumb:"lee-terraswarm-ieee2014.jpg",
+			bib:"papers/lee-terraswarm-ieee2014.bib",
+			tags:"framework",},
+			
+			{title:"CodeHint: Dynamic and Interactive Synthesis of Code Snippets",
+			authors:"Joel Galenson, Philip Reames, Rastislav Bodik, Björn Hartmann, Koushik Sen",
+			venue:"ICSE 2014",
+			pdf:"papers/galenson-codehint-icse2014.pdf",
+			bib:"papers/galenson-codehint-icse2014.bib",
+			thumb:"icse14-codehint.png",
+			type:"full paper",
+			tags:"tool codez",
+			doi:"http://dx.doi.org/10.1145/2568225.2568250",
+			summary:"Presents a new technique for synthesizing code snippets by generating and evaluating code at runtime. Two user studies demonstrate impact on programmer productivity.",
+			accrate:"20%",
+			},
+			
+			{title:"History Assisted View Authoring for 3D Models",
+			authors:"Hsiang-Ting Chen, Tovi Grossman, Li-Yi Wei, Ryan Schmidt, Björn Hartmann, George Fitzmaurice, Maneesh Agrawala",
+			venue:"CHI 2014",
+			type:"full paper (10 pages)",
+			tags:"tool",
+			pdf:"papers/chen-history-chi2014.pdf",
+			bib:"papers/chen-history-chi2014.bib",
+			thumb:"chen-history-chi2014.jpg",
+			doi:"http://doi.acm.org/10.1145/2556288.2557009",
+			summary:"We present a view authoring assistance system that supports the creation of informative view points, paths, and surfaces for 3D models. By analyzing the model's workflow history, we infer important regions of the model and representative viewpoints of those areas.",
+			video:"http://www.youtube.com/embed/_7r-C7Eg1Pw",
+			accrate:"27%",
+			},
+			{title:"Chatrooms in MOOCs: All talk and no action?",
+				authors:"Derrick Coetzee, Armando Fox, Marti A. Hearst, Björn Hartmann",
+				venue:"LAS2014: ACM Conference on Learning at Scale",
+				type:"full paper (10 pages)",
+				pdf:"papers/coetzee-chat-las2014.pdf",
+				bib:"papers/coetzee-chat-las2014.bib",
+				doi:"http://dx.doi.org/10.1145/2556325.2566242",
+				summary:"We study effects of introducing a real-time chatroom into a massive open online course with several thousand students. Contrary to suggested benefits in prior work, we find no significant effect of chat use on objective or subjective dependent variables such as grades, retention, forum participation, or students’ sense of community.",
+				video:"",
+				site:"",
+				thumb:"las14-chat.png",
+				tags:"learn mooc experiment",
+				accrate:"37%",},
+				{title:"Should Your MOOC Forum Use a Reputation System?",
+				authors:"Derrick Coetzee, Armando Fox, Marti A. Hearst, Björn Hartmann",
+				venue:"CSCW2014: ACM Conference on Computer-Supported Cooperative Work",
+				type:"full paper (12 pages)",
+				doi:"http://dx.doi.org/10.1145/2531602.2531657",
+				pdf:"papers/coetzee-forums-cscw2014.pdf",
+				bib:"papers/coetzee-forums-cscw2014.bib",
+				summary:"We investigate how forum design affects student activity and learning outcomes through a field experiment with 1101 participants on the edX platform.",
+				video:"",
+				site:"",
+				thumb:"cscw14-moocforum.png",
+				tags:"learn mooc experiment",
+				accrate:"27%",
+				},
+				
+			]},
+			{ year: "2013", papers:[
+			{title:"Browsing and Analyzing the Command-Level Structure of Large Collections of Image Manipulation Tutorials",
+			authors: "Amy Pavel, Floraine Berthouzoz, Björn Hartmann and Maneesh Agrawala",
+			venue: "Technical Report No. UCB/EECS-2013-167",
+			type: "tech report",
+			doi:"http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-167.html",
+			pdf:"http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-167.pdf",
+			bib:"papers/pavel-sifter-tr2013.bib",
+			summary:"Presents Sifter, an interface for browsing, comparing and analyzing large collections of image manipulation tutorials based on their command-level structure.",
+			video:"",
+			site:"",
+			thumb:"tr13-sifter.png",
+			tags:"learn tool tutorial",
+			},
+				{title:"Identifying Redundancy and Exposing Provenance in Crowdsourced Data Analysis",
+				authors: "Wesley Willett, Shiry Ginosar, Avital Steinitz, Björn Hartmann, and Maneesh Agrawala",
+				venue: "IEEE Transactions on Visualization and Computer Graphics",
+				type: "full paper",
+				doi:"",
+				pdf:"papers/willett-crowdanalytics-vast2013.pdf",
+				bib:"papers/willett-crowdanalytics-vast2013.bib",
+				summary:"Presents a system that uses paid crowd workers to explore data sets and help analysts interactively generate explanations for trends and patterns.",
+				video:"",
+				site:"http://vis.berkeley.edu/papers/RedundancyAndProvenance/",
+				thumb:"vast13.png",
+				tags:"learn crowd",
+				},
+				{title:"Designing Bespoke Interactive Devices",
+				authors:"Björn Hartmann and Paul K. Wright",
+				venue:"IEEE Computer August 2013, Volume 46, Number 8, pp. 85-89",
+				type:"magazine article",
+				doi:"http://doi.ieeecomputersociety.org/10.1109/MC.2013.274",
+				pdf:"papers/hartmann-devicedesign-ieee2013.pdf",
+				bib:"papers/hartmann-devicedesign-ieee2013.bib",
+				summary:"Describes teaching experiences with designing and building novel interactive devices in the CITRIS Invention Lab.",
+				video:"",
+				site:"http://inventionlab.org",
+				thumb:"ieee13-devicedesign.jpg",
+				tags:"fab",
+				},
+				
+				{title: "Sauron: Embedded Single-Camera Sensing of Printed Physical User Interfaces",
+				authors:"Valkyrie Savage, Colin Chang, and Björn Hartmann",
+				venue:"UIST2013: ACM Symposium on User Interface Software and Technology",
+				type:"full paper (10 pages)",
+				doi:"http://dx.doi.org/10.1145/2501988.2501992",
+				pdf:"papers/savage-sauron-uist2013.pdf",
+				bib:"papers/savage-sauron-uist2013.bib",
+				summary:"Sauron offers a machine vision-based approach for sensing human input on 3D-printed physical prototypes. Designers add a single camera to their prototype which tracks the motion and position of buttons, sliders, joysticks, and other input devices.",
+				video:"http://www.youtube.com/embed/GNdCnmm-cw8",
+				site:"",
+				thumb:"uist13-sauron.jpg",
+				accrate:"19%",
+				tags:"fab tool",
+				},
+				
+				{title: "DemoCut: Generating Concise Instructional Videos for Physical Demonstrations",
+				authors:"Pei-Yu Chi, Joyce Liu, Mira Dontcheva, Wilmot Li, and Björn Hartmann",
+				venue:"UIST2013: ACM Symposium on User Interface Software and Technology",
+				type:"full paper (10 pages)",
+				doi:"http://dx.doi.org/10.1145/2501988.2502052",
+				pdf:"papers/chi-democut-uist2013.pdf",
+				bib:"papers/chi-democut-uist2013.bib",
+				summary:"A semi-automatic video editing system that asks users to mark key moments in a recorded instructional demonstration. Uses audio and video analysis to automatically organize the video into meaningful segments and apply appropriate video editing effects.",
+				video:"http://www.youtube.com/embed/7XqeEJm8DoU",
+				site:"http://www.cs.berkeley.edu/~peggychi/DemoCut/",
+				thumb:"uist13-democut.jpg",
+				accrate:"19%",
+				tags:"learn tutorial"},
+				
+				{title: "Authoring Multi-Stage Code Examples with Editable Code Histories",
+				authors:"Shiry Ginosar, Björn Hartmann, Maneesh Agrawala",
+				venue:"UIST2013: ACM Symposium on User Interface Software and Technology",
+				type:"full paper (10 pages)",
+				doi:"http://dx.doi.org/10.1145/2501988.2502053",
+				pdf:"papers/ginosar-codeexamples-uist2013.pdf",
+				bib:"papers/ginosar-codeexamples-uist2013.bib",
+				summary:"An IDE extension that helps with the task of authoring multi-stage code examples by allowing the author to propagate changes (insertions, deletions and modifications) throughout multiple saved stages of their code.",
+				video:"http://www.youtube.com/embed/ck-gefQfwkY",
+				site:"",
+				thumb:"uist13-codeexamples.png",
+				accrate:"19%",
+				tags:"learn tool codez",
+				},
+				{title: "HydraScope: Creating Multi-Surface Meta-Applications Through View Synchronization and Input Multiplexing",
+				authors:"Björn Hartmann, Michel Beaudouin-Lafon and Wendy Mackay",
+				venue: "PerDis2013: ACM International Symposium on Pervasive Displays",
+				type:"paper",
+				thumb:"perdis13-hydrascope.jpg",
+				video:"http://www.youtube.com/embed/Bmk2HA__4kc",
+				pdf:"papers/hartmann-hydrascope-perdis2013.pdf",
+				bib:"papers/hartmann-hydrascope-perdis2013.bib",
+				doi:"http://dx.doi.org/10.1145/2491568.2491578",
+				summary:"Introduces HydraScope, a framework for transforming existing web applications into meta-applications that execute and synchronize multiple copies of applications in parallel, with a multi-user input layer for interaction.",
+				tags:"tool framework",
+				},
+				{title:"FAB at CHI: Digital Fabrication Tools, Design, and Community",
+				authors:"David Mellis, Sean Follmer, Björn Hartmann, Leah Buechley, and Mark D. Gross",
+				venue:"CHI 2013",
+				type:"Workshop",
+				pdf:"papers/mellis-fabworkshop-chi2013.pdf",
+				bib:"papers/mellis-fabworkshop-chi2013.bib",
+				thumb:"chi13-fab.jpg",
+				doi:"http://dx.doi.org/10.1145/2468356.2479673",
+				summary:"",
+				tags:"fab",
+				},
+				]},
+				{	year: "2012", papers:[
+				
+				{title: "Midas: Fabricating Custom Capacitive Touch Sensors to Prototype Interactive Objects",
+				authors:"Valkyrie Savage, Xiaohan Zhang and Björn Hartmann",
+				venue:"UIST2012: ACM Symposium on User Interface Software and Technology",
+				type:"full paper (9 pages)",
+				doi:"http://dx.doi.org/10.1145/2380116.2380189",
+				pdf:"papers/savage-midas-uist2012.pdf",
+				bib:"papers/savage-midas-uist2012.bib",
+				summary:"Midas enables users to define discrete and continuous touch sensors with custom shapes and layout. The toolkit generates fabrication files and assembly instructions and enables designers to define interaction events.",
+				video:"http://youtube.com/embed/WHcQgtjD_zY",
+				thumb:"uist12-midas.png",
+				tags:"fab tool",
+				accrate:"21%",
+				},
+				
+				{title: "Proton++: A Customizable Declarative Multitouch Framework",
+				authors:"Kenrick Kin, Björn Hartmann, Tony DeRose, and Maneesh Agrawala",
+				venue:"UIST2012: ACM Symposium on User Interface Software and Technology",
+				type:"full paper (10 pages)",
+				doi:"http://dx.doi.org/10.1145/2380116.2380176",
+				pdf:"papers/kin-protonplusplus-uist2012.pdf",
+				bib:"papers/kin-protonplusplus-uist2012.bib",
+				summary:"Proton++ is a declarative multitouch framework that allows developers to describe multitouch gestures as regular expressions of touch event symbols. It allows developers to incorporate custom touch attributes directly into the gesture description. ",
+				video:"http://www.youtube.com/embed/vq8gUlwprdk",
+				site:"http://vis.berkeley.edu/papers/protonPlusPlus/",
+				thumb:"uist12-proton.png",
+				accrate:"21%",
+				tags:"tool framework",
+				},
+				
+				{title: "MixT: Automatic Generation of Step-by-Step Mixed Media Tutorials",
+				authors:"Pei-Yu (Peggy) Chi, Sally Ahn, Amanda Ren, Mira Dontcheva, Wilmot Li, and Björn Hartmann",
+				venue:"UIST2012: ACM Symposium on User Interface Software and Technology",
+				type:"full paper (10 pages)",
+				doi:"http://dx.doi.org/10.1145/2380116.2380130",
+				pdf:"papers/chi-mixt-uist2012.pdf",
+				bib:"papers/chi-mixt-uist2012.bib",
+				summary:"Presents MixT, a system that automatically generates step-by-step mixed media tutorials from user demonstrations. MixT segments screencapture video into steps using a log of application events, applies video compositing techniques to focus on salient information, and highlights interactions through mouse trails. ",
+				video:"http://www.youtube.com/embed/yhy0nB8tLdI",
+				thumb:"uist12-mixt.png",
+				accrate:"21%",
+				tags:"learn tool tutorial",},
+				
+				{title: "MobileWorks: Designing for Quality in a Managed Crowdsourcing Architecture",
+				authors:"Anand Kulkarni, Philipp Gutheim, Prayag Narula, David Rolnitzky, Tapan Parikh, Björn Hartmann",
+				venue: "IEEE Internet Computing, Sep/Oct 2012",
+				type: "magazine article",
+				summary:"We share experiences from building MobileWorks, a crowd platform focused on providing reliable, high-quality results. Four architectural contributions yield high quality: a standardized task-object-answer model; a peer review system; a dynamic work queue; and a set of social management techniques.",
+				award:"",
+				thumb: "ieee12-mobileworks.png",
+				pdf:"papers/kulkarni-mobileworks-ieee2012.pdf",
+				bib:"papers/kulkarni-mobileworks-ieee2012.bib",
+				doi:"http://doi.ieeecomputersociety.org/10.1109/MIC.2012.72",
+				video:"",
+				tags:"learn crowd",
+				},
+				
+				{title: "Showing is Sharing: Building Shared Understanding in Human-Centered Design Teams with Dazzle",
+				authors: "Lora Oehlberg, Kyu Simm, Jasmine Jones, Alice Agogino and Björn Hartmann",
+				venue:"DIS2012: ACM Conference on Designing Interactive Systems",
+				type: "full paper",
+				award:"",
+				summary: "Introduces Dazzle, a collaborative shared display system for co-located design team meetings, in which participants bring their own computing devices. Dazzle associates the action of showing information on the shared display with allowing the rest of the team access to that information: showing is sharing.",
+				thumb: "dis12-dazzle.png",
+				pdf:"papers/oehlberg-dazzle-dis2012.pdf",
+				bib:"papers/oehlberg-dazzle-dis2012.bib",
+				video: "",
+				doi: "http://dx.doi.org/10.1145/2317956.2318057",
+				accrate:"20%",
+				tags:"learn",
+				},
+				
+				{title: "Communitysourcing: Engaging Local Crowds to Perform Expert Work Via Physical Kiosks",
+				authors: "Kurtis Heimerl, Brian Gawalt, Tapan Parikh, and Björn Hartmann",
+				venue:"CHI2012: ACM Conference on Human Factors in Computing Systems",
+				type: "full paper",
+				award:"Best Paper Award",
+				summary: "Introduces communitysourcing, the use of physical kiosks to elicit work from specific populations. Demonstrates the potential of communitysourcing by designing, implementing and evaluating Umati: the communitysourcing vending machine.",
+				thumb: "chi12-umati.jpg",
+				pdf:"papers/heimerl-umati-chi2012.pdf",
+				bib:"papers/heimerl-umati-chi2012.bib",
+				video: "http://www.youtube.com/embed/DbsMzNWcmeU",
+				site:"http://represent.berkeley.edu/umati/",
+				doi:"http://dx.doi.org/10.1145/2207676.2208619",
+				accrate:"23%",
+				tags:"learn fab crowd",
+				},
+				{title: "Proton: Multitouch Gestures as Regular Expressions",
+				authors: "Kenrick Kin, Björn Hartmann, Tony DeRose and Maneesh Agrawala",
+				venue:"CHI2012: ACM Conference on Human Factors in Computing Systems",
+				type: "full paper",
+				award:"",
+				summary: "Introduces Proton, a multi-touch input framework based on regular expressions. Contributes gesture tablature, a graphical notation for authoring expressions, and static analysis of gesture conflicts.",
+				thumb: "chi12-proton.png",
+				accrate:"23%",
+				pdf:"papers/kin-proton-chi2012.pdf",
+				bib:"papers/kin-proton-chi2012.bib",
+				doi:"http://dx.doi.org/10.1145/2207676.2208694",
+				site:"http://vis.berkeley.edu/papers/proton/",
+				video:"http://www.youtube.com/embed/rreS24Im3zE",
+				tags:"tool framework",
+				},
+				{title: "Delta: A Tool For Representing and Comparing Workflows",
+				authors: "Nicholas Kong, Tovi Grossman, Björn Hartmann, George Fitzmaurice and Maneesh Agrawala",
+				venue:"CHI2012: ACM Conference on Human Factors in Computing Systems",
+				type: "full paper",
+				award:"",
+				summary: "Presents Delta, an interactive workflow visualization and comparison tool that helps users identify the tradeoffs between workflows.",
+				thumb: "chi12-delta.png",
+				accrate:"23%",
+				pdf:"papers/kong-delta-chi2012.pdf",
+				bib:"papers/kong-delta-chi2012.bib",
+				doi:"http://dx.doi.org/10.1145/2207676.2208549",
+				site: "http://vis.berkeley.edu/papers/delta/",
+				video: "http://www.youtube.com/embed/xPMmbudfSMc",
+				tags:"learn tool tutorial",
+				},
+				{title: "Shepherding the Crowd Yields Better Work",
+				authors: "Steven Dow, Anand Kulkarni, Scott R. Klemmer, and Björn Hartmann",
+				venue: "CSCW2012: ACM Conference on Computer-Supported Cooperative Work",
+				type: "full paper",
+				award:"",
+				accrate:"first round accept - top 9%",
+				summary: "Investigates the role of feedback in crowdsourced work. A field experiment with the Shepherd system shows that self-assessment and external feedback help workers learn task criteria and produce better work.",
+				thumb:"cscw12-shepherd.png",
+				pdf:"papers/dow-shepherd-cscw2012.pdf",
+				bib:"papers/dow-shepherd-cscw2012.bib",
+				doi:"http://dl.acm.org/citation.cfm?id=2145355",
+				tags:"learn crowd",
+				},
+				{title: "Collaboratively Crowdsourcing Workflows with Turkomatic",
+				authors: "Anand Kulkarni, Matthew Can, and Björn Hartmann",
+				venue: "CSCW2012: ACM Conference on Computer-Supported Cooperative Work",
+				type: "full paper",
+				award:"",
+				site:"projects/turkomatic/",
+				accrate:"first round accept - top 9%",
+				summary: "Presents Turkomatic, a tool that recruits crowd workers to aid requesters in planning and solving complex tasks.",
+				thumb: "cscw12-turkomatic.png",
+				pdf:"papers/kulkarni-turkomatic-cscw2012.pdf",
+				bib:"papers/kulkarni-turkomatic-cscw2012.bib",
+				doi:"http://dl.acm.org/citation.cfm?id=2145354",
+				tags:"learn crowd",
+				},
+
+				{title:"Teaching Human-Centered Design Innovation Across Engineering, Humanities and Social Sciences",
+				authors:"Lora Oehlberg, Ian Leighton, Alice Agogino, and Björn Hartmann" ,
+				venue: "International Journal of Engineering Education",
+				type: "journal paper",
+				pdf:"papers/oehlberg-mudd2011.pdf",
+				summary: "Describes two educational programs at the University of California, Berkeley, which engage undergraduates from multiple disciplines in design education.",
+				thumb:"mudd11.jpg",
+				tags:"learn",
+				}
+				]},
+
+		    { year: "2011", papers:[
+				{title: "Stacksplorer: Call Graph Navigation Helps Increasing Code Maintenance Efficiency",
+				authors:"Thorsten Karrer, Jan-Peter Krämer, Jonathan Diehl, Björn Hartmann and Jan Borchers",
+				venue:"UIST2011: ACM Symposium on User Interface Software and Technology",
+				type:"full paper (8 pages)",
+				doi:"http://dx.doi.org/10.1145/2047196.2047225",
+				pdf:"papers/karrer-stacksplorer-uist11.pdf",
+				bib:"papers/karrer-stacksplorer-uist11.bib",
+				site:"http://hci.rwth-aachen.de/stacksplorer",
+				summary:"Stacksplorer provides a novel way to visualize potential call stacks within a traditional IDE and supports navigating along these call stacks.",
+				thumb:"uist11-stacksplorer.png",
+				accrate:"26%",
+				tags:"learn tool codez",
+				},
+
+				{title: "ShowMeHow: Translating User Interface Instructions Between Similar Applications",
+				authors:"Vidya Ramesh, Charlie Hsu, Maneesh Agrawala, and Björn Hartmann",
+				venue:"UIST2011: ACM Symposium on User Interface Software and Technology",
+				type:"full paper (8 pages)",
+				doi:"http://dx.doi.org/10.1145/2047196.2047212",
+				pdf:"papers/ramesh-showmehow-uist11.pdf",
+				bib:"bib/ramesh-showmehow-uist11.bib",
+				video:"http://www.youtube.com/embed/_n0-NieYI5w",
+				summary:"Introduces UI translation interfaces which enable users to locate commands in one application using the interface language of another application.",
+				thumb:"uist11-showmehow.png",
+				accrate:"26%",
+				tags:"learn tool tutorial",
+				},
+				
+				{title:"Two-Handed Marking Menus for Multitouch Devices",
+				authors:"Kenrick Kin, Björn Hartmann, and Maneesh Agrawala",
+				venue: "ACM TOCHI 18,3, Article 16 (July 2011)",
+				type: "journal paper",
+				doi:"http://dx.doi.org/10.1145/1993060.1993066",
+				pdf:"papers/kin-tochi2011.pdf",
+				bib:"papers/kin-tochi2011.bib",
+				video:"http://www.youtube.com/embed/suL13pvbfow?rel=0",
+				summary:"Investigates multi-stroke marking menus for multitouch devices and shows that using two hands can improve performance.",
+				thumb:"tochi11-menus.png",
+				tags:"experiment",},
+				
+				{title:"What’s the Right Price? Pricing Tasks for Finishing on Time",
+					authors:"Siamak Faridani, Björn Hartmann, and Panos G. Ipeirotis" ,
+					venue: "AAAI Workshop on Human Computation 2011",
+					type: "workshop paper",
+					pdf:"papers/faridani-hcomp2011.pdf",
+					summary: "Devises a job pricing algorithm for online labor markets using survival analysis. Shows that worker arrivals can be modeled as a non-homogeneous Poisson Process (NHPP). Presents an model that captures the dynamics of the market when full market information is presented.",
+					thumb:"hcomp11-price.png",
+					tags:"crowd",},
+				
+				
+				{title: "Design Lessons from the Fastest Q&A Site in the West", 
+				authors: "Lena Mamykina, Bella Manoim, Manas Mittal, George Hripcsak, and Björn Hartmann" ,
+				venue:"CHI2011: ACM Conference on Human Factors in Computing Systems", 			
+				type:"full paper",
+				award:"honorable mention award",
+				pdf:"papers/mamykina-stackoverflow-chi2011.pdf",
+				bib:"papers/mamykina-stackoverflow-chi2011.bib",
+				doi:"http://doi.acm.org/10.1145/1978942.1979366",
+				site:"projects/stackoverflow/",
+				summary:"Analyzes a Question & Answer site for programmers, Stack Overflow, that dramatically improves on the utility and performance of Q&A systems for technical domains.",
+				thumb:"chi11-stackoverflow.png",
+				accrate:"27%",
+				tags:"learn tutorial"},
+
+				{title: "HyperSource - Bridging the Gap Between Source and Code-Related Web Sites", 
+				authors: "Björn Hartmann, Mark Dhillon, and Matthew Chan" ,
+				venue:"CHI2011: ACM Conference on Human Factors in Computing Systems", 			
+				type:"tech note",
+				pdf:"papers/hartmann-hypersource-chi2011.pdf",
+				bib:"papers/hartmann-hypersource-chi2011.bib",
+				doi:"http://dx.doi.org/10.1145/1978942.1979263",
+				site:"projects/hypersource/",
+				video:"http://www.youtube.com/embed/_PYvPlv4OQw?rel=0",
+				summary:"Introduces HyperSource, an IDE augmentation that associates browsing histories with source code edits.",
+				thumb:"chi11-hypersource.png",
+				accrate:"27%",
+				tags:"learn tool codez",
+				},
+
+				{title:"Designing a Professional Multitouch Tool for Constructing Virtual Organic Environments",
+				authors:"Kenrick Kin,Tom Miller,Björn Bollensdorff,Tony DeRose,Björn Hartmann,Maneesh Agrawala",
+				venue:"CHI2011: ACM Conference on Human Factors in Computing Systems", 			
+				type:"full paper",
+				award:"honorable mention award",	
+				site:"http://vis.berkeley.edu/papers/eden/",
+				pdf:"papers/kin-eden-chi2011.pdf",
+				bib:"papers/kin-eden-chi2011.bib",
+				doi:"http://doi.acm.org/10.1145/1978942.1979141",
+				summary:"Introduces Eden, a fully functional multitouch application for professional set construction in computer-animated film. Discusses design lessosn for multitouch applications for professionals.",
+				video:"http://www.youtube.com/embed/Y9S0F7xtr_o",
+				thumb:"chi11-eden.png",
+				accrate:"27%",
+				tags:"tool",
+				}
+			]
+			},
+	        { year: "2010", papers:[
+				{title: "Soylent: A Word Processor With a Crowd Inside", 
+				authors: "Bernstein, M. S., Little, G., Miller, R.C., Hartmann, B., Ackerman, M., Karger, D., Crowell, D., Panovich, K. " ,
+				venue:"UIST2010: ACM Symposium on User Interface Software and Technology",
+				type:"full paper", 
+				award:"best student paper award",
+				summary:"Introduces Soylent, a crowd-powered word processor plug-in.",
+				pdf:"http://bid.berkeley.edu/papers/uist/soylent_a_word_processor_with/",
+				bib:"papers/bernstein-soylent-uist2010.bib",
+				doi:"http://dx.doi.org/10.1145/1866029.1866078",
+				video:"http://www.youtube.com/embed/n_miZqsPwsc?rel=0",
+				thumb:"uist10-soylent.png",
+				accrate:"18%",
+				tags:"crowd",},
+
+				{title:"What Would Other Programmers Do? Suggesting Solutions to Error Messages.",
+				authors:"Hartmann, Björn, MacDougall, D., Brandt, J., and Klemmer, S.R.",
+				venue:"CHI 2010: ACM Conference on Human Factors in Computing Systems.",
+				type:"full paper",
+				award:"honorable mention award",
+				summary:"Introduces HelpMeOut, a social recommender system that aids the debugging of error messages during programming by suggesting solutions that peers have applied in the past.",
+				pdf:"http://bjoern.org/papers/hartmann-chi2010a.pdf",
+				bib:"papers/hartmann-helpmeout-chi2010.bib",
+				doi:"http://dx.doi.org/10.1145/1753326.1753478",
+				video:"http://www.youtube.com/embed/OQnmmnHjZvU?rel=0",
+				thumb:"chi10-helpmeout.png",
+				accrate:"22%",
+				tags:"codez learn",
+				},
+
+				{title:"d.note: revising user interfaces through change tracking, annotations, and alternatives.",
+				authors:"Hartmann, Björn and Follmer, Sean and Ricciardi, Antonio and Cardenas, Timothy and Klemmer, Scott R.",
+				venue:"CHI 2010: ACM Conference on Human Factors in Computing Systems.",
+				summary:"Introduces d.note, a revision tool for user interface prototypes. Reports two studies that compare production and interpretation of revisions in d.note to sketching on static images.",
+				type:"full paper",
+				pdf:"http://bjoern.org/papers/hartmann-chi2010b.pdf",
+				bib:"papers/hartmann-dnote-chi2010.bib",
+				doi:"http://doi.acm.org/10.1145/1753326.1753400",
+				thumb:"chi10-dnote.jpg",
+				accrate:"22%",
+				tags:"learn tool"
+				},
+
+				{title:"Programming by a sample: Leveraging Web sites to program their underlying services.",
+				authors:"Björn Hartmann, Leslie Wu, Kevin Collins, and Scott R. Klemmer.",
+				venue:"In A. Cypher, M. Dontcheva, T. Lau, J. Nichols (eds). No Code Required: Giving Users Tools to Transform the Web. Burlington: Morgan Kaufmann",
+				type:"book chapter",
+				thumb:"book10-dmix.png",
+				tags:"learn tool codez"
+				},
+
+				{title:"Pictionaire: Supporting Collaborative Design Work by Integrating Physical and Digital Artifacts.",
+				authors:"Hartmann, Björn, Morris, M.R., Benko, H., and Wilson, A.",
+				venue:"CSCW 2010: ACM Conference on Computer Supported Cooperative Work.",
+				type:"note",
+				pdf:"http://bjoern.org/papers/hartmann-cscw2010.pdf",
+				bib:"papers/hartmann-pictionaire-cscw2010.bib",
+				doi:"http://dx.doi.org/10.1145/1718918.1718989",
+				video:"http://www.youtube.com/embed/Sm2e4aB7H1k?rel=0",
+				thumb:"cscw10-pictionaire.jpg",
+				accrate:"20%",
+				tags:"fab",
+				}
+				]
+			},
+			{ year: "2009", papers:[
+			{title: "Augmenting Interactive Tables with Mice & Keyboards.",
+			venue:"UIST 2009: ACM Symposium on User Interface Software and Technology.",
+			authors: "Hartmann, Björn, Morris, M.R., Benko, H., and Wilson, A.",
+			summary:"Describes interaction techniques for using traditional input devices on large interactive horizontal displays.",
+			type:"tech note",
+			pdf:"http://bjoern.org/papers/hartmann-uist2009.pdf",
+			bib:"papers/hartmann-uist2009.bib",
+			doi:"http://dx.doi.org/10.1145/1622176.1622204",
+			video:"http://www.youtube.com/embed/v_AvkV286mI?rel=0",
+			thumb:"uist09-micekeyboards.jpg",
+			accrate:"18%",
+			tags:"fab",},
+
+			{title: "Gaining Design Insight Through Interaction Prototyping Tools",
+			venue:"Stanford University Computer Science Department",
+			type:"Dissertation",
+			authors: "Björn Hartmann",
+			pdf:"http://bjoern.org/dissertation/",
+			bib:"papers/hartmann-phd2009.bib"
+			},
+				]
+			}
+	    ];
+
+		var courses = [
+		{semester: "Fall 2017",
+		courses:[
+			{title:"CS294-84 / ME290U Interactive Device Design (CCN 33264)",
+			url:"https://bcourses.berkeley.edu/courses/1463946",
+			time:"MW 10:30am-12:30pm",
+			location:"210 Jacobs Hall",
+			coteachers:"",
+			gsis:"Rundong (Kevin) Tian",
+			other:"4 units; Please complete the course entry survey at https://goo.gl/forms/uIczezoBdDJikE7A2 by Aug 18 2017, 5pm to be considered for enrollment. Decisions will be mailed out by Monday Aug 21.",
+			},
+			{title: "CS 298-55 Digital Fabrication Everywhere (CCN 67354)",
+			url:"https://bcourses.berkeley.edu/courses/1465478",
+			time:"Th 10am-12pm",
+			location:"220 Jacobs Hall",
+			coteachers:"",
+			gsis:"",
+			other:"2 units.",
+		}
+		]},
+{semester: "Spring 2017",
+		courses:[
+			{title:"CS194 / DES INV 190 Technology for Countering Violent Extremism (CCN TBD)",
+			url:"https://bcourses.berkeley.edu/courses/1456962",
+			time:"Th 2-5pm",
+			location:"Jacobs Hall",
+			coteachers:"Zvika Krieger",
+			other:"3 units; Enrollment complete. Needed course entry survey at http://goo.gl/IX2Bzt to be considered for enrollment.",
+			},
+		]},
+		{semester: "Fall 2016",
+		courses:[
+			{title:"CS294-84 Interactive Device Design (CCN 33264)",
+			url:"http://hci.berkeley.edu/devicedesign",
+			time:"MW 10:30am-12:30pm",
+			location:"210 Jacobs Hall",
+			coteachers:"Paul Wright",
+			gsis:"Daniel Drew, Daniel Lim",
+			other:"4 units; Enrollment complete. Needed course entry survey at http://goo.gl/forms/Sxd955D3Z9 to be considered for enrollment.",
+			},
+		]},
+		{semester: "Spring 2016",
+		courses:[
+			{title:"No Courses - Paternity Break (ASMD)",
+			url:"",
+			time:"",
+			location:"",
+			coteachers:"",
+			
+			other:"",
+			},
+		]},
+		{semester: "Fall 2015",
+		courses:[
+			{title:"CS294-84 Interactive Device Design (CCN 27157)",
+			url:"https://bcourses.berkeley.edu/courses/1376830/",
+			time:"MW 10:30am-12:30pm",
+			location:"141 Sutardja Dai Hall",
+			coteachers:"Paul Wright",
+			
+			other:"4 units",
+			},
+		]},
+		{semester: "Spring 2015",
+		courses:[
+		{title:"DES INV190 - Interactive Seating (CCN 18403)",
+		url:"http://engineeringdesign.berkeley.edu/chair/",
+		time: "F 10am-12pm",
+		location:"141 SDH",
+		coteachers:"Greg Niemeyer, Bob Full",
+		other:"2 units"}
+		]},
+
+			{ semester: "Fall 2014", 
+		  courses:[
+			{title:"CS294-84 Interactive Device Design (CCN 26734)",
+			url:"http://husk.eecs.berkeley.edu/courses/cs294-84-fall14/",
+			time:"MW 10:30am-12pm",
+			location:"141 Sutardja Dai Hall",
+			coteachers:"Paul Wright",
+			gsis:"Ben Zhang",
+			other:"3 units",
+			},
+			]
+		},
+		{semester: "Spring 2014",
+		courses:[
+		{title:"CS160 - User Interface Design (CCN 26546)",
+		url:"http://husk.eecs.berkeley.edu/courses/cs160-sp14/",
+		time: "MW 530-7pm",
+		location:"306 Soda Hall",
+		coteachers:"Maneesh Agrawala",
+		gsis:"Steve Rubin, Eric Xiao, Brittany Cheng",
+		other:"4 units"}
+		]},
+		{ semester: "Fall 2013", 
+	  courses:[
+		{title:"CS294-84 Interactive Device Design (CCN 27010)",
+		url:"http://husk.eecs.berkeley.edu/courses/cs294-84-fall13/",
+		time:"MW 10:30am-12pm",
+		location:"141 Sutardja Dai Hall",
+		coteachers:"Paul Wright",
+		other:"3 units",
+		},
+		]
+	},
+			{ semester: "Spring 2013", 
+			courses:[
+				{title:"CS160 - User Interface Design",
+				url:"http://husk.eecs.berkeley.edu/courses/cs160-sp13/",
+				time:"MW 2:30-4pm",
+				location:"306 Soda Hall",
+				other:"4 units; Prereq: CS61b",
+				gsis:"Neha Kumar, Kate Rushton"
+			},
+			{title:"CS284-84 Advanced Interactive Devices and Digital Fabrication",
+			url:"http://husk.eecs.berkeley.edu/courses/cs294-84-sp13/",
+			time:"T 1:30-4:30pm",
+			location:"141 SDH",
+			coteachers:"Paul Wright",
+			other: "CCN 26935; 3 units; Prereq: CS294-84 Interactive Device Design last semester or similar expertise with electronics and digital fabrication tools. Cross-listed as ME290R."},
+			]
+		},
+			{ semester: "Fall 2012", 
+		  courses:[
+			{title:"CS294-84 Interactive Device Design",
+			url:"http://husk.eecs.berkeley.edu/courses/cs294-84-fall12/",
+			time:"MW 10:30am-12pm",
+			location:"310 Soda Hall",
+			coteachers:"Paul Wright",
+			other:"3 units",
+			},
+			]
+		},
+					{ semester: "Spring 2012", 
+		  courses:[
+			{title:"User Interfaces Prototyping: Design Clinic",
+			url:"http://interfaceprototyping.pbworks.com",
+			time:"Th 5-7pm",
+			location:"205 South Hall",
+			coteachers:"Ariel Haney, Travis Yoo, Bailey Smith",
+			other:"1 unit",
+			},
+			]
+		},
+		{ semester: "Fall 2011", 
+		  courses:[
+			{title:"CS260 - Research Topics in HCI",
+			url:"http://husk.eecs.berkeley.edu/courses/cs260-fall11/",
+			time:"MW 2:30-4pm",
+			location:"320 Soda Hall",
+			other:"3 units",
+			gsis:"Drew Fisher"
+			},
+			{title:"CS298-50 - Beyond the Cell Phone",
+			url:"http://bid.berkeley.edu/cs298-50-fall11/",
+			time:"W 5-6pm",
+			location:"310 Soda Hall",
+			coteachers:"John Canny",
+			other:"1 unit",
+			}
+			]
+		},	{ semester: "Spring 2011", 
+		  courses:[
+			{title:"CS160 - User Interface Design",
+			url:"http://husk.eecs.berkeley.edu/courses/cs160-sp11/",
+			time:"MW 1-2:30pm",
+			location:"306 Soda Hall",
+			gsis:"Anuj Tewari and Prayag Narula",
+
+			other:"4 units",
+			},
+			{title:"CS294-68 - Crowdsourcing Seminar",
+			url:"http://husk.eecs.berkeley.edu/courses/cs298-52-sp11/",
+			time:"W 3:30-5pm",
+			location:"380 Soda Hall, CCN 27226",
+			gsis:"Anand Kulkarni, Kuang Chen",
+			coteachers:"Tapan Parikh, Mike Franklin",
+			other:"1-4 units",
+			}
+			]
+		},
+		{ semester: "Fall 2010", 
+		  courses:[
+			{title:"CS260 - Research Topics in HCI",
+			url:"http://hci.berkeley.edu/cs260-fall10/",
+			time:"MW 9-10:30am",
+			location:"320 Soda Hall",
+			gsis:"Lora Oehlberg",
+			other:"3 units",
+			},
+			{title:"CS298-48 - HCI Design Clinics",
+			url:"http://hci.berkeley.edu/design-clinics/",
+			time:"T 9-11am",
+			location:"Cal Design Lab, 501SE Wurster Hall",
+			gsis:"Lora Oehlberg, Kate Smith, Niranjan Krishnamurthi",
+			other:"1 unit",
+			},
+			{title:"CS298-50 - Beyond the Cell Phone",
+			url:"http://bid.berkeley.edu/cs298-50-fall10/",
+			time:"W 5-6pm",
+			location:"Cal Design Lab, 501SE Wurster Hall",
+			coteachers:"John Canny",
+			other:"1 unit",
+			}
+			]
+		},
+		{ semester: "Spring 2010", 
+		  courses:[
+			{title:"CS160 - User Interface Design",
+			url:"http://vis.berkeley.edu/courses/cs160-sp10/wiki",
+			time:"MW 6-7:30pm",
+			location:"306 Soda Hall",
+			gsis:"Anuj Tewari, Kenrick Kin",
+			coteachers:"Maneesh Agrawala",
+			other:"4 units",
+			},
+			{title:"CS298-48 - HCI Design Clinics",
+			url:"http://hci.berkeley.edu/design-clinics/",
+			time:"M 4-6pmm",
+			location:"BiD Lab, 354/360 HMMB",
+			gsis:"Lora Oehlberg, Niranjan Krishnamurthi",
+			other:"1 unit",
+			},
+			]
+		},
+		];
+
+	    // Render the template with the movies data and insert
+	    // the rendered HTML under the "movieList" element
+			$( "#paperTemplate" ).tmpl( papers ).appendTo( "#paperList" );
+			$( "#courseTemplate" ).tmpl( courses).appendTo(" #courseList" );
+			// only render one year of WIPs
+			$( "#wipTemplate").tmpl(wips[0]).appendTo(" #wipList");
+			// make nice toggle buttons
+			$( "#radio" ).buttonset();
+			// when a toggle button changes, filter the selection of shown papers
+			$("#radio input[type=radio]").change(function() {
+				var selected = this.value; //this is the "tags" string of the entry
+				if (selected=="all") {
+					$(".paper-tr").show();
+				} else {
+					//hide all
+					$(".paper-tr").hide();
+					//show each selected category
+					selected.split(" ").forEach(function(entry){
+						$(".".concat(entry)).show();
+					});
+				}
+			});
+	

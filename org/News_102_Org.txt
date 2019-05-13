@@ -1,0 +1,157 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Sergey Levine
+
+Assistant Professor, UC Berkeley, EECS
+
+Address:
+754 Sutardja Dai Hall
+UC Berkeley
+Berkeley, CA 94720-1758
+Email:
+prospective students: please read this before contacting me.
+Thank you for your interest in my lab! However, I ask that you do not contact me directly in regard to undergraduate, MS, or PhD admissions, as I will not be able to reply. New students join my lab every year, and I encourage you to submit your application to the UC Berkeley EECS PhD program. All applications are reviewed thoroughly, and there is no need to contact me directly. If you are already a student at UC Berkeley, I encourage you to get in touch. If you are a UC Berkeley undergraduate student interested in participating in research, please also include your transcript and CV.
+
+
+
+
+
+
+I am an Assistant Professor in the Department of Electrical Engineering and Computer Sciences
+at UC Berkeley.
+In my research, I focus on the intersection between control and machine learning, with the aim of developing algorithms
+and techniques that can endow machines with the ability to autonomously acquire the skills for executing complex tasks. In particular,
+I am interested in how learning can be used to acquire complex behavioral skills, in order to endow machines with greater autonomy
+and intelligence. To see a more formal biography, click here.
+
+
+Biography
+
+Sergey Levine received a BS and MS in Computer Science from Stanford University in 2009, and a Ph.D. in Computer Science from Stanford University in 2014. He joined the faculty of the Department of Electrical Engineering and Computer Sciences at UC Berkeley in fall 2016. His work focuses on machine learning for decision making and control, with an emphasis on deep learning and reinforcement learning algorithms. Applications of his work include autonomous robots and vehicles, as well as computer vision and graphics. His research includes developing algorithms for end-to-end training of deep neural network policies that combine perception and control, scalable algorithms for inverse reinforcement learning, deep reinforcement learning algorithms, and more. His work has been featured in many popular press outlets, including the New York Times, the BBC, MIT Technology Review, and Bloomberg Business.
+
+
+Research Group: Robotic Artificial Intelligence and Learning Lab
+[RAIL Website][Publications][Lab Members]
+
+Recent Talk (2017)
+
+
+
+
+
+
+
+
+
+This is a talk from April 2017 (at the CMU RI Seminar Series) summarizing some of the work in my group. An older talk from 2015, focusing primarily on guided policy search, is available here.
+
+
+
+
+Representative Publications
+These recent papers provide an overview of my research, including: large scale robotic learning, deep reinforcement learning algorithms, and deep learning of robotic sensorimotor skills.
+
+
+
+
+
+
+Deep Visual Foresight for Planning Robot Motion.
+Chelsea Finn, Sergey Levine. ICRA 2017.
+[PDF]
+[Video]
+[arXiv]
+
+
+
+
+In this paper, we present a method for using video prediction models to plan and execute robotic manipulation skills. Specifically,
+we show that nonprehensile pushing behaviors can be generated automatically using a deep neural network video prediction model
+trained in a self-supervised manner using a large dataset of automatically generated robotic pushes. Control is performed by
+optimizing for actions for which the model predicts the desired outcome, which is specified by a user command. The results show
+that learned video prediction models perform nontrivial reasoning about physical interactions, and allow basic pushing skills
+to be executed with minimal manual engineering and no prior knowledge about physics or objects.
+
+
+
+
+
+
+
+Deep Reinforcement Learning for Robotic Manipulation with Asynchronous Off-Policy Updates.
+Shixiang Gu*, Ethan Holly*, Timothy Lillicrap, Sergey Levine. ICRA 2017.
+[PDF]
+[Video]
+[arXiv]
+
+
+
+
+In this work, we explore how deep reinforcement learning methods based on normalized advantage functions (NAF) can be used to
+learn real-world robotic manipulation skills, with multiple robots simultaneously pooling their experiences. Our results show
+that we can obtain faster training and, in some cases, converge to a better solution when training on multiple robots, and
+we show that we can learn a real-world door opening skill with deep neural network policies using about 2.5 hours of total training
+time with two robots.
+
+
+
+
+
+
+
+Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection.
+Sergey Levine, Peter Pastor, Alex Krizhevsky, Julian Ibarz, Deirdre Quillen. IJRR, 2017.
+[PDF (IJRR)]
+[Video]
+[Google Research Blog]
+[Data]
+
+
+
+
+This paper presents an approach for learning grasping with continuous servoing by using large-scale data collection on a cluster of up to 14
+individual robots. We collected about 800,000 grasp attempts, which we used to train a large convolutional neural network to predict grasp
+success given an image and a candidate grasp vector. We then construct a continuous servoing mechanism that uses this network to continuously
+make decisions about the optimal motor command to maximize the probability of grasp success. We evaluate our approach by grasping objects that
+were not seen at training time, and compare to an open-loop variant that does not perform continuous feedback control.
+
+
+
+
+
+
+
+End-to-End Training of Deep Visuomotor Policies.
+Sergey Levine*, Chelsea Finn*, Trevor Darrell, Pieter Abbeel. JMLR 17, 2016.
+[PDF]
+[Video]
+[arXiv]
+[Code]
+
+
+
+
+This paper presents a method for training visuomotor policies that perform both vision and control for robotic manipulation tasks. The
+policies are represented by deep convolutional neural networks with about 92,000 parameters. By
+learning to perform vision and control together, the vision system can adapt to the goals of the task, essentially performing goal-driven
+perception. Experimental results on a PR2 robot show that this method achieves substantial improvements in the accuracy of the final policy.
+
+
+
+
+© 2009-2016 Sergey Levine.
+
+
+
+
+

@@ -1,0 +1,864 @@
+
+
+
+
+
+ 
+
+ 
+
+
+
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+Martial Hebert
+
+    Professor
+The Robotics Institute
+School of Computer Science
+Carnegie Mellon University
+    Pittsburgh, PA 15213, USA
+Office: 224 EDSH
+    Phone: +1 (412) 268-2585 
+    Email: hebert@ri.cmu.edu 
+
+
+
+
+
+
+
+
+Research
+Current students and
+       collaborators
+Former
+       students
+Data/Software
+Selected projects
+Sponsors
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Research
+My work is in the areas of
+  computer vision and perception for autonomous systems. My interests are
+  in the interpretation of perception data (both 2-D and 3-D), including
+  building models of environments. Current research directions include:
+
+Efficient techniques for object/category recognition
+Use of contextual information, in particular 3-D
+       geometry from images, for scene analysis
+Symbolic knowledge for scene interpretation and
+       reconstruction
+Motion analysis for feature extraction and event
+       detection in video clips
+Efficient tools for the analysis of dynamic 3-D point
+       clouds ("3-D signal processing")
+Perception for autonomous systems
+Detection, tracking, and prediction in dynamic
+       environments
+
+Graduate Students
+
+Jacob Walker (Robotics, PhD)  (with Abhinav Gupta)
+David Fouhey (Robotics, PhD)  (with Abhinav Gupta)
+Arne Suppe (Robotics, PhD)  
+Yuxiong Wang (Robotics, PhD) 
+Allie DelGiorno (Robotics, PhD)  (with Drew Bagnell)
+Hanzhang Hu (MLD, PhD)  (with Drew Bagnell)
+Arun Venkatraman
+(Robotics, PhD)  (with
+       Drew Bagnell)
+
+Post-Docs/Visitors/Research Staff
+
+Christoph Mertz
+Luis Navarro-Serment
+John
+       Kozar
+Damien
+       Teney
+Christophe de Vleechouwer
+
+Associated Projects/Labs/Centers
+University
+  Transportation Center (UTC)
+Quality
+  of Life Technology Center (QoLT)
+Vision and Mobile Robotics Lab
+Willow Research Team (INRIA)
+ASDMCon Project (Civil Eng.
+  Dept.)
+Former Post-Docs/Visitors (Since 2008)
+
+Yuan Junsong
+Adrien Matricon
+Wajahat Hussian
+Kris
+       Kitani (with
+       D. Bagnell)
+Ali Farhadi (with A. Efros)
+Ranqi Zhu
+Masumi
+       Ishikawa
+Andreas
+       Wendel
+Soonyong Park
+Yuichi Ito
+Benoit Seguin
+Abhinav Gupta   (with A. Efros)
+Hee-Young Kim
+Dong Hwan Kim
+Nicolas Vandapel
+Tetsuaki Suzuki
+Raia Hasdell
+Seijiro Inaba
+Johannes Meng
+Emiliano Perez
+       Hernandez
+Yuko Nakada
+Antonio Adan
+
+Former
+  Students (in approximate chronological order)
+
+Ekatarina Taralova (Robotics, PhD 2014, now Post-Doc. at Columbia
+       University) 
+
+Feature Quantization and Pooling for Videos
+
+Ed Hsiao (Robotics, PhD 2014, now at
+       A9) 
+
+Addressing Ambiguity in Object Instance Detection
+
+Scott Satkin (Robotics, PhD 2013, now at Google)
+
+Data-Driven Geometric Scene Understanding
+
+Daniel Munoz (Robotics, PhD 2013, now at GoogleX) (Co-advised with Drew Bagnell)
+
+Inference Machines: Parsing Scenes via Iterated
+        Predictions
+
+Narek Melik-Barkhudarov
+        (Robotics,Masters)
+Alvaro Collet
+(Robotics, PhD 2012, now at Microsoft)  (Co-advised with
+        Siddhartha Srinivasa)
+
+Lifelong Robotic Object Perception
+
+Pyry Matikainen (Robotics, PhD 2012)
+
+Model Recommendation for Action Recognition and
+        Other Applications
+
+Hong-Wen (Henry) Kang
+       (Robotics, PhD 2012)  (Co-advised with Takeo Kanade)
+
+Object Instance Discovery from Scenes of Daily
+        Living
+
+Santosh Kumar Divvala   (Robotics, PhD 2012, now at University of
+       Washington) (Co-advised with Alexei Efros)
+
+Context and Subcategories for Sliding Window Object
+        Recognition
+
+Marius Leordeanu (Robotics, PhD 2009, now at Romanian
+       Academy)
+
+PhD Thesis -- Spectral Graph Matching, Learning, and
+        Inference for Computer Vision
+
+Gunhee Kim  (Robotics, Masters 2008)
+Caroline Pantofaru  (Robotics, PhD 2008, now at
+       Willow Garage) 
+
+PhD Thesis -- Studies In Using Image Segmentation to
+        Improve Object Recognition
+
+Ranjith Unnikrishnan (Robotics,
+       PhD 2008, now at Google) 
+
+PhD Thesis -- Statistical Approaches to
+        Multi-scale Point Cloud Processing
+
+Andrew Stein (Robotics,
+       PhD 2008, now at Tandent Vision) 
+
+PhD Thesis -- Occlusion Boundaries: Low-Level
+        Processing to High-Level Reasoning
+
+Yan Ke (CS, PhD 2008, now at Microsoft),
+       co-advised with Rahul Sukthankar 
+
+PhD Thesis -- Volumetric Features for
+        Video Event Detection
+
+Derek Hoiem (Robotics, PhD 2007, now at UIUC),
+       co-advised with Alexei Efros 
+
+PhD Thesis -- Seeing
+        the World Behind the Image: Spatial Layout for 3D Scene Understanding
+
+Cristian Dima (Robotics, PhD 2006, now at CMU NREC),
+       co-advised with Tony Stentz
+
+PhD Thesis -- Active
+        Learning for Outdoor Perception
+
+Sanjiv Kumar (Robotics, PhD 2005, now at Google,
+       NY) 
+
+PhD Thesis -- Models for Learning
+        Spatial Interactions in Natural Images for Context-Based Classification
+
+Jean-François
+       Lalonde (Robotics, Masters 2006, now
+       CMU PhD student)
+Bart
+       Nabbe (Robotics, PhD 2005, now at Tandent Vision) 
+
+PhD Thesis -- Extending
+        the Path-planning Horizon 
+
+Charles
+       Rosenberg (CS, PhD 2004, now at Google), co-advised with Sebastian Thrun
+
+
+PhD Thesis -- Semi-Supervised
+        Training of Models for Appearance-Based Statistical Object Detection
+        Methods
+
+Raghavenra Rao Donamukkala
+       (Robotics, Masters 2007, now at Yahoo) 
+Owen
+       Carmichael (Robotics, PhD 2003, now at U.C. Davis) 
+
+PhD Thesis -- Discriminative
+        Techniques For The Recognition Of Complex-Shaped Objects
+
+Peng
+       Chang (Robotics, PhD 2002, now at Princeton Vision) 
+
+PhD Thesis -- Robust
+        Tracking and Structure from Motion with Sampling Method
+
+Matthew
+       Deans (Robotics, PhD 2005, now at NASA Ames) 
+
+PhD Thesis -- Bearings-Only
+        Localization and Mapping
+
+Daniel
+       Huber (Robotics, PhD 2002, now at CMU RI) 
+
+PhD Thesis -- Automatic
+        Three-Dimensional Modeling from Reality
+
+Shyjan Mahamud (CS,
+       PhD 2002, now at Australian National University) 
+
+PhD Thesis -- Discriminative
+        Distance Measures for Object Detection
+
+Liam
+       Pedersen (Robotics, PhD 2000, now at NASA Ames) 
+
+PhD Thesis -- Robotic
+        Rock Classification and Autonomous Exploration
+
+John Hancock (Robotics,
+       PhD 1999), co-advised with Chuck Thorpe 
+
+PhD Thesis -- Laser Intensity Based
+        Obstacle Detection and Tracking
+
+Dongmei Zhang (CS, PhD 1999, now at Microsoft) 
+
+PhD Thesis -- Harmonic Shape Images:
+        A Representation for 3-D Free-Form Surfaces and its Application in
+        Surface Matching
+
+Andrew
+       Johnson (Robotics, PhD 1997, now at JPL) 
+
+PhD Thesis -- Spin-Images:
+        A Representation for 3D Surface Matching
+
+
+ 
+Data/Software (See also individual
+  project links)  
+·        
+  Set of images and features from images in an indoor
+  environment for testing image matching ZIP file
+  (Warning: over 800Megs!).
+·        
+  Labeled
+  3D point clouds for classification  and 3D
+  segmentation.
+
+CMU IKEA
+       Kitchen Object Dataset: Difficult dataset for recognition of object
+       instances in typical ADL environments.
+
+Selected Projects (occasionally
+  updated...)
+(see the
+  RI Web page for a mostly complete list
+  of publications)
+
+
+
+
+
+
+Generating
+    Object Detectors from Few Samples
+Yuxiong Wang, Martial Hebert
+
+
+
+
+
+
+
+Unfolding an
+    Origami World
+David Fouhey,
+    Abhinav
+    Gupta, Martial Hebert 
+
+
+
+
+
+
+
+Unsupervised visual predicition
+Jacob Walker, Abhinav
+    Gupta, Martial Hebert 
+
+
+
+
+
+
+
+Data-Driven
+    Exemplar Model Selection
+Ishan Misra, Abhinav
+Shrivastava, Martial Hebert 
+    WACV 2014 (Best Student Paper Award) 
+
+
+
+
+
+
+
+Predicting Failures
+    of Vision Systems 
+Peng Zhang , Jiuling Wang, Ali Farhadi
+, Martial Hebert, Devi Parikh 
+    CVPR 2014
+
+
+
+
+
+
+
+Style-aware
+    Mid-level Representations for Discovering Visual Connections in Space and
+    Time 
+Yong Jae Lee , Alexei Efros
+, Martial Hebert 
+    ICCV 2013
+
+
+
+
+
+
+
+Data-Driven 3D Primitives for
+    Single Image Understanding 
+David Fouhey,
+    Abhinav
+    Gupta , Martial Hebert
+    ICCV 2013
+
+
+
+
+
+
+
+Data-Driven Scene Understanding from
+    3D Models
+Scott Satkin,
+    Jason Lin, Maheen Rashid, Martial Hebert
+    IJCV 2014, ICCV 2013, BMVC 2012
+
+
+
+
+
+
+
+Activity
+    Forecasting
+Kris Kitani, Drew Bagnell, Martial Hebert
+    ECCV 2012 (Runner-Up Best Paper
+    Award)
+
+
+
+
+
+
+
+Model
+    recommendation for vision tasks
+Pyry Matikainen,
+    Rahul Sukthankar, Martial Hebert
+
+
+
+
+
+
+
+Perception for autonomous
+    flying in cluttered environments
+Debadeepta Dey, Narek
+Melik-Barkhudarov, Stéphane
+    Ross, Kumar Shaurya Shankar, Gaurav Singh,
+    Andreas Wendel, 
+ 
+
+
+
+
+
+
+
+Object discovery
+Hongwen
+    Kang, Takeo Kanade, Martial Hebert
+
+
+
+
+
+
+
+Occlusion Reasoning for
+    Object Detection under Arbitrary Viewpoint
+    Ed Hsiao and Martial Hebert
+    CVPR 2012
+
+
+
+
+
+
+
+Inference
+    Machines for Scene Understanding
+Daniel Munoz , Stephane Ross ,
+    Xuehan Xiong , Drew Bagnell , Martial Hebert 
+
+
+
+
+ 
+      
+
+
+
+Robotic object discovery
+    Alvaro Collet Romea, Martial Hebert, Siddhartha Srinivasa
+
+
+
+
+
+
+
+Prediction of
+    pedestrian trajectories
+    Luis Navarro-Serment, Drew Bagnell,
+    Martial Hebert
+
+
+
+
+
+
+
+Blocks World
+    Revisited
+Abhinav Gupta, Alexei A. Efros,
+    Martial Hebert 
+(Runner-Up Best Paper
+    Award)
+
+
+
+
+
+
+
+Stacked Hierarchical Labeling 
+Daniel Munoz, Drew Bagnell
+    in ECCV 2010
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+Structure Discovery in Multi-modal Data
+Alvaro Collet Romea, Siddhartha Srinivasa, Martial
+    Hebert
+
+
+
+
+
+
+
+Addressing Feature
+    Ambiguity for Point-Based 3D Object Recognition 
+Edward Hsiao,  Alvaro Collet
+
+
+
+
+
+
+
+Contextual Classification with Functional
+    Max-Margin Markov Networks 
+Daniel Munoz,
+     Nicolas Vandapel, Drew Bagnell
+    in CVPR'09
+
+
+
+
+
+
+
+Activity Recognition from First Person
+    Sensing
+Ekaterina H. (Spriggs) Taralova, Fernando De la Torre, Martial Hebert
+
+
+
+
+
+
+
+Efficient image indexing for localization and image
+    composition
+Takeo
+    Kanade, Alexei
+    A. Efros, Martial Hebert
+    in 3dRR'09, EgoVision'09
+
+
+
+
+ 
+
+
+3D Scene
+    Analysis
+David Lee, Takeo Kanade, Martial Hebert
+in CVPR 2009
+
+
+
+
+
+
+
+An
+    Empirical Study of Context in Object Detection 
+Santosh Kumar Divvala, Derek
+    Hoiem, James Hays, Alexei A. Efros, Martial
+    Hebert
+in CVPR 2009
+
+
+
+
+
+
+
+Image Matching in
+    Large Scale Environments
+Hongwen
+    Kang, Takeo Kanade, Alexei A. Efros, Martial
+    Hebert
+
+
+
+
+
+
+
+Volumetric Features for Event Recognition in Video
+Yan Ke,
+    Rahul Sukhtankar,
+    Martial Hebert
+    in ICCV 2007.
+
+
+
+
+
+
+
+Detecting
+    Boundaries for Segmentation and Recognition
+Andrew Stein,
+    Martial Hebert
+    in ICCV 2007.
+
+
+
+
+
+
+
+A framework for learning to
+    recognize and segment object classes
+Caroline Pantofaru, Martial Hebert
+    in BMVC 2007.  
+
+
+
+
+ 
+
+
+
+Object and Category Recognition from Pairwise
+    Relations between Features
+Marius Leordeanu,  Rahul Sukhtankar,
+    Martial Hebert
+    in CVPR 2007. 
+
+
+
+
+
+
+
+
+
+Evaluation of Image
+    Segmentation Algorithms
+Caroline Pantofaru, Ranjith Unnikrishnan, Martial Hebert
+    in PAMI 2007.
+
+
+
+
+
+
+
+Recovering
+    Occlusion Boundaries from a Single Image 
+Derek Hoiem,
+    Andrew Stein, Alexei A. Efros, Martial Hebert
+    in ICCV 2007.
+    Source code available
+
+
+
+
+
+
+
+
+Putting
+    Objects in Perspective 
+Derek Hoiem,
+    Alexei A. Efros, Martial Hebert
+    In CVPR 2006. 
+Best Paper Award
+    Source code available
+
+
+
+
+
+
+
+
+Geometric
+    Context from a Single Image
+Derek Hoiem,
+    Alexei A. Efros, Martial Hebert
+    In ICCV 2005
+     (see also expanded
+    journal version, IJCV 2007)
+    Executable available
+    (for non-commerical use only) 
+
+
+
+
+
+
+
+Spectral Techniques for Matching and Inference
+Marius Leordeanu, Martial Hebert
+    in ICML 2006.
+
+
+
+
+
+
+
+Automatic
+    Photo Pop-up
+Derek Hoiem,
+    Alexei A. Efros, Martial Hebert
+    In SIGGRAPH 2005
+See article in
+    The Economist
+    Technology licensed to FreeWebs as Fotowoosh 
+
+
+
+
+
+
+
+3-D
+    Recognition and 3-D environment model building
+
+
+
+
+
+
+  
+
+
+Terrain
+    Classification from 3-D Point Clouds for Autonomous Mobility
+Jean-François Lalonde,  Nicolas Vandapel,
+    Martial Hebert
+    In Journal of Field Robotics, 2006.
+
+
+
+
+ 
+
+
+Detection
+    and Tracking of Moving Objects  in Dynamic Environments
+Christoph Mertz,  Luis Navarro-Serment,  Martial Hebert
+
+
+
+
+
+
+
+Efficient Data Structures for On-Line Processing of
+    3-D Point Clouds
+Jean-François
+    Lalonde,  Nicolas Vandapel,
+    Martial Hebert
+    In International Journal of Robotics Research, 2007.
+
+
+
+
+
+
+
+Automatic Scale Selection for Analyzing 3-D Point
+    Clouds
+Ranjith Unnikrishnan, Jean-François Lalonde,  Nicolas Vandapel,
+    Martial Hebert
+    in BMVC 2007.
+
+
+
+Sponsors
+
+National Science
+       Foundation 
+ARL
+DARPA
+Google
+Intel
+KIST
+Kodak
+ONR
+Raytheon
+RZR
+TTC
+DoT/RITA
+Nissan
+
+Misc.
+
+VASC
+       seminar 
+RI
+       seminar
+
+ 
+
+
+
+ 
+

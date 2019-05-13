@@ -1,0 +1,850 @@
+
+
+
+
+Abhinav Gupta
+
+Associate Professor
+The Robotics Institute
+School of Computer Science
+
+Carnegie Mellon University (CMU)
+      Affiliate Appt: Machine Learning Department
+Office:   EDSH 213
+Phone:   412-268-2067 (email is the best option to reach me)
+Email :   abhinavg [at] cs [dot] cmu [dot] edu
+
+
+
+
+
+
+
+
+News 
+
+Awarded Okawa Research Grant
+Seven papers accepted in ICCV 2017
+Eight papers accepted in CVPR 2017
+Eight papers accepted in ECCV 2016 
+Awarded PAMI Young Researcher Award
+Awarded ICRA Best Student Paper Award 2016
+IJCAI Early Career Spotlight 2016
+Awarded Sloan Fellowship.
+NEIL appears in a Discover Magazine article.
+Invited as panelist at Council on Foreign Relations
+NEIL selected as CNN Top 10 Ideas of 2013.
+Invited Speaker at Aspen Ideas Festival
+Won Bosch Young Faculty Fellowship
+Won Google Faculty Research Award
+Thanks Yahoo! for 900-core Cluster Donation to NEIL
+
+
+
+
+
+
+
+
+
+
+
+
+
+About Me
+
+
+I
+am an assistant professor at Carnegie Mellon University. Prior
+to this, I was a post-doctoral fellow here working with Alyosha Efros and Martial Hebert. Before
+coming to Pittsburgh, I was working with Larry
+Davis at UMD and Jianbo
+Shi at UPenn. My PhD thesis was on "Beyond Nouns and Verbs".
+
+
+
+
+
+
+
+
+
+Research Interests
+
+
+
+
+
+
+My research interest include:
+
+
+
+
+How do we represent the visual world ? My
+research focuses on developing representation and reasoning approaches
+for deeper understanding of the scene. I am interested in formulating
+the scene understanding problem in terms of the underlying 3D scene and
+develop reasoning approaches based on physical, functional and causal
+relationships between the different elements in the scene. The key idea
+is to have a qualitative representation and yet have a meaningful
+grounding in the physical scene.
+
+
+
+
+
+What
+is the link between Language and Vision ? What
+role does language play in visual learning? I am interested in
+exploring how declarative information and other linguistic information
+can be harnessed to efficiently learn how the world works (structural
+information). I am also interesting in exploring how we can obtain such
+linguistic information.
+
+
+
+
+How
+are actions and objects related to each other? I have been focusing on
+studying how do humans interact with their environment and
+how does their perception of visual world depends on these interactions
+and their abilities. Building upon Gibson's idea of affordances,
+          we have
+recently proposed the concept of human centric scene understanding.
+
+
+
+
+
+
+
+
+
+
+
+
+Postdocs and Students
+
+
+
+Yin Li (Postdoc)
+Xinlei Chen (LTI PhD, Yahoo-InMind Fellow)
+Jacob Walker (Robotics PhD, co-advised with M. Hebert)
+Ishan Misra (Robotics PhD, co-advised with M. Hebert)
+Xiaolong Wang  (Robotics PhD)
+Gunnar Sigurdsson (Robotics PhD)
+Kenneth Marino (MLD PhD, NSF Fellow)
+Lerrel Pinto (Robotics PhD)
+Adithya Murali (Robotics PhD)
+Senthil (Robotics PhD)
+Jacob Huh (Robotics PhD)
+Sam Powers (CSD PhD)
+Nadine Chang (Robotics MS)
+Dhiraj Gandhi(Robotics MS)
+Tian Ye (Robotics MS)
+Yufei Ye(Robotics MS)
+Nilesh Kulkarni(Robotics MS)
+Tao Chen (Robotics MS)
+Wenxuan Zhou(Robotics MS)
+
+Visitors: Gaurav Pathak, Wei Yang 
+
+
+Former PhD Students
+
+Abhinav Shrivastava PhD 2017, MSR Fellow (joining as Asst. Professor at University of Maryland, Fall 2018)
+
+David Fouhey PhD 2016, NSF fellow, NDSEG Fellow (now Postdoc at UC Berkeley)
+
+Carl Doersch PhD 2016, NDSEG Fellow, Google Fellowship (now Research Scientist at Google DeepMind)
+
+
+
+
+Former Postdocs
+
+Olga Russakovsky (now Asst. Professor at Princeton)
+
+
+
+Former MS Students and Collaborators
+
+Aayush Bansal (now PhD Student at CMU)
+Tomasz Malisiewicz (now Postdoc at MIT)
+Saurabh
+Singh (Robotics MS, now PhD Student at UIUC) 
+Aravindh Mahendran (Research Staff, now PhD student at Oxford)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Courses
+
+
+
+16-824: Visual Learning and Recognition (Spring 2017)
+16-899:Advanced Techniques in Visual Recognition
+16-824: Visual Learning and Recognition (Spring 2016)
+16-627: MSCV Seminar (Fall 2015)
+16-824: Visual Learning and Recognition (Spring 2015)
+16-899D: Big Data Approaches in Computer Vision (Fall 2014)
+16-720: Computer Vision (Fall 2014)(co-taught w. M. Hebert)
+16-899A:The Visual World as seen by the Neurons and Machines (Spring 2014)
+16-824 Learning-Based Methods in Vision (Fall 2013)
+
+
+
+Press Coverage
+
+
+
+Self-Supervised Grasping and Curious Robot
+
+
+
+
+
+
+
+Never Ending Image Learner (NEIL)
+
+
+
+
+
+
+
+
+
+                  
+                      .........
+                      
+What makes Paris look like Paris?
+
+
+
+
+
+
+
+
+
+
+
+Data Driven Visual Similarity
+
+	 	 
+                          	 	 
+                          	 	 
+                          
+
+Blocks World Revisited
+
+
+
+
+Storylines
+
+
+
+
+
+
+
+Selected Projects
+(Please see Publications for a complete list)
+(Please see Downloads for code and datasets)
+
+
+
+
+
+
+Lerrel Pinto, Dhiraj Gandhi, Yuanfeng Han, Yong-Lae Park and Abhinav Gupta. The Curious Robot: Learning Visual Representations via Physical Interactions. ECCV 2016.
+(Spotlight) 
+
+
+
+
+
+
+
+
+
+
+
+
+R. Girdhar, D. Fouhey, M. Rodriguez, A. Gupta. Learning a Predictable and Generative Vector Representation for Objects. ECCV 2016.
+(Spotlight) 
+
+
+
+
+
+
+
+
+
+
+
+
+Xiaolong Wang and Abhinav Gupta. Generative Image Modeling using Style and Structure Adversarial Networks. ECCV 2016.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Abhinav Shrivastava, Abhinav Gupta. Contextual Priming and Feedback for Faster R-CNN. ECCV 2016.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Gunnar A. Sigurdsson, Gül Varol, Xiaolong Wang, Ivan Laptev, Ali Farhadi, Abhinav Gupta. Hollywood in Homes: Crowdsourcing Data Collection for Activity Understanding. ECCV 2016.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+J Walker, C Doersch, A Gupta, M Hebert. An Uncertain Future: Forecasting from Static Images Using Variational Autoencoders. ECCV 2016.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Roozbeh Mottaghi, Mohammad Rastegari, Abhinav Gupta, Ali Farhadi. "What happens if..." Learning to Predict the Effect of Forces in Images. ECCV 2016.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Gunnar A. Sigurdsson, Xinlei Chen, Abhinav Gupta, "Learning Visual Storylines with Skipping Recurrent Neural Networks", ECCV 2016.  
+
+
+
+
+
+
+
+
+
+
+
+
+Lerrel Pinto and Abhinav Gupta. Supersizing Self-supervision: Learning to Grasp from 50K Tries and 700 Robot Hours. ICRA 2016.
+(Best Student Paper Award) 
+
+
+
+
+
+
+
+
+
+
+
+
+D. Fouhey, A. Gupta, A. Zisserman. 3D Shape Attributes. CVPR 2016.
+(Oral) 
+
+
+
+
+
+
+
+
+
+
+
+
+Abhinav Shrivastava, Abhinav Gupta, Ross Girshick. Training Region-based Object Detectors with Online Hard Example Mining. CVPR 2016
+(Oral) 
+
+
+
+
+
+
+
+
+
+
+
+
+Xiaolong Wang, Ali Farhadi, and Abhinav Gupta. Actions ~ Transformations. CVPR 2016.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Aayush Bansal, Bryan Russell, Abhinav Gupta. Marr Revisited: 2D-3D Alignment via Surface Normal Prediction. CVPR 2016.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Ishan Misra*, Abhinav Shrivastava*, Abhinav Gupta, Martial Hebert. Cross-stitch Networks for Multi-task Learning. CVPR 2016
+ 
+
+
+
+
+
+
+
+
+
+
+ Carl Doersch, Abhinav Gupta, Alexei Efros. Unsupervised Visual Representation Learning by Context Prediction. ICCV 2015.
+(Oral) 
+  
+
+
+
+  Xiaolong Wang, Abhinav Gupta. Unsupervised Learning of Visual Representations using Videos. ICCV 2015.
+(Models and Code available for download!)   
+
+
+
+  Xinlei Chen, Abhinav Gupta. Webly Supervised Learning of Convolutional Networks. ICCV 2015.
+(Oral)   
+
+
+
+  David Fouhey, Abhinav Gupta, Martial Hebert. Single Image 3D without a Single 3D Image. ICCV 2015.   
+
+
+
+  Jacob Walker, Abhinav Gupta, Martial Hebert. Dense Optical Flow Prediction from a Static Image. ICCV 2015.   
+
+
+
+  Xiaolong Wang, David Fouhey, Abhinav Gupta. Designing Deep Networks for Surface Normal Estimation. CVPR 2015.
+(Models and Code available on request!)   
+
+
+
+  Xinlei Chen, Alan Ritter, Abhinav Gupta, Tom Mitchell. Sense Discovery via Co-Clustering on Images and Text. CVPR 2015.
+   
+
+
+
+
+ David F. Fouhey, Abhinav Gupta, Martial Hebert. Unfolding an Indoor Origami World. ECCV 2014.
+(Oral) 
+  
+
+
+
+
+ Carl Doersch, Abhinav Gupta, and Alexei A. Efros. Context as Supervisory Signal: Discovering Objects with Predictable Context. ECCV 2014. 
+  
+
+
+
+
+ Jacob Walker, Abhinav Gupta, and Martial Hebert.Patch to the Future: Unsupervised Visual Prediction. CVPR 2014.
+(Oral) 
+  
+
+
+
+
+ Xinlei Chen, Abhinav Shrivastava and Abhinav Gupta. Enriching Visual Knowledge Bases via Object Discovery and Segmentation. In CVPR 2014. 
+  
+
+
+
+
+ Xinlei Chen, Abhinav Shrivastava and Abhinav Gupta. NEIL: Extracting Visual Knowledge from Web Data. In ICCV 2013.
+(Oral) 
+  
+
+
+
+
+
+David Fouhey, Abhinav Gupta and Martial Hebert.  Data-Driven 3D Primitives for Single Image Understanding. In ICCV 2013
+
+ 
+
+
+
+
+
+
+Abhinav Shrivastava and Abhinav Gupta. Building Part-based Object Detectors via 3D Geometry. In ICCV 2013
+ 
+
+
+
+
+
+Carl Doersch, Abhinav Gupta and Alexei Efros. Mid-level Visual Element Discovery as Discriminative Mode Seeking. In NIPS 2013
+
+ 
+
+
+
+
+
+
+Arpit Jain, Abhinav Gupta, Mikel Rodriguez and Larry S. Davis. Representing Videos using Mid-level Discriminative Patches. In CVPR 2013.
+
+ 
+
+
+
+
+
+
+David Fouhey, Vincent Delaitre, Abhinav Gupta, Alexei A. Efros, Ivan Laptev, Josef Sivic.  People Watching: Human Actions as a Cue for Single View Geometry. In ECCV 2012.(Oral)
+
+ 
+
+
+
+
+
+
+Abhinav Shrivastava, Saurabh Singh, Abhinav Gupta.Constrained Semi-Supervised Learning Using Attributes and Comparative Attributes. In ECCV 2012.(Oral)
+
+ 
+
+
+
+
+
+ Saurabh Singh, Abhinav Gupta, Alexei A. Efros. Unsupervised Discovery of Mid-Level Discriminative Patches. In ECCV 2012.
+
+ 
+
+
+
+
+
+ Vincent Delaitre, David Fouhey, Ivan Laptev, Josef Sivic Abhinav Gupta, Alexei A. Efros.  Scene Semantics from Long-term Observation of People. In ECCV 2012.
+
+ 
+
+
+
+
+
+
+Carl Doersch, Saurabh Singh, Abhinav Gupta, Josef Sivic, Alexei A. Efros. What makes Paris look like Paris? In SIGGRAPH 2012. (Oral)
+
+ 
+
+
+
+
+
+
+Abhinav
+Shrivastava, Tomasz Malisiewicz, Abhinav Gupta, Alexei A. Efros,
+Data-driven Visual Similarity for Cross-domain Image Matching, In
+SIGGRAPH Asia 2011
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Tomasz Malisiewicz, Abhinav Gupta, Alexei A. Efros, Ensemble of Exemplar-SVMs for Object Detection and Beyond, In ICCV 2011.
+ 
+
+Source
+code (beta version) available
+
+
+
+
+
+
+
+
+
+ 
+
+ Abhinav Gupta, Scott Satkin,
+Alexei A. Efros and M. Hebert, From 3D Scene Geometry to Human Workspace.
+In CVPR 2011. (Oral)
+    
+            
+
+Source
+code partly
+available
+
+
+
+
+
+
+
+
+
+
+
+David
+C. Lee, Abhinav Gupta, Martial Hebert, and Takeo Kanade, Estimating
+Spatial Layout of Rooms using Volumetric Reasoning about Objects and
+Surfaces, In NIPS 2010.
+
+
+Source
+code available
+
+
+
+
+
+
+
+
+
+
+
+
+Abhinav Gupta, Alexei A. Efros and M. Hebert, Blocks World Revisited:
+Image Understanding Using Qualitative Geometry and Mechanics.
+In ECCV 2010. (Oral)
+            (Best Paper Runner Up
+Award)
+    
+            
+Featured
+in Science
+Daily and ZD
+Net. 
+
+Source
+code available
+
+
+
+
+
+
+
+
+
+
+
+Behjat
+Siddiquie and Abhinav Gupta, Beyond Active Noun Tagging: Modeling
+Contextual Interactions for Multi-Class Active Learning, In CVPR 2010. (Oral)
+    
+
+
+
+
+
+
+
+
+
+
+Abhinav
+Gupta, Praveen Srinivasan, Jianbo Shi and Larry S. Davis, Understanding
+Videos, Constructing Plots: Learning a Visually Grounded Storyline
+Model from Annotated Videos, In CVPR 2009. (Oral)
+  
+            
+
+Featured
+in an IEEE
+Spectrum and Discovery
+article. Also covered in Ethiopian Review
+and SiliconIndia.
+
+
+
+
+
+
+
+
+
+
+
+Abhinav
+Gupta and Larry S. Davis, Beyond Nouns: Exploiting prepositions and
+comparative adjectives for learning visual classifiers, In ECCV 2008 (Oral)
+ 
+
+
+
+
+
+
+
+
+
+
+Abhinav
+Gupta, Aniruddha Kembhavi and Larry S. Davis, Observing Human-Object
+Interactions: Using Spatial and Functional Compatibility for
+Recognition, In Trans. on PAMI (Special Issue on Probabilistic
+Graphical Models).
+
+Downloads
+Available: Dataset
+
+Abhinav Gupta and
+Larry S. Davis, Objects in Action: An Approach for Combining Action
+Understanding and Object Perception, In CVPR 2007
+
+Downloads
+Available: Dataset
+
+
+
+
+
+
+
+
+
+
+Abhinav
+Gupta, Jianbo Shi and Larry S. Davis, A “Shape Aware” Model for
+semi-supervised Learning of Objects and its Context, In NIPS 2008 (Spotlight Poster)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Funding Sources
+
+Office of Naval
+            Research: High Level MURI, ONR Applied Research
+NSF: IIS 1320083
+IARPA: ALADDIN Video
+Google: focused award (2011), faculty research awards (2012, 2014)
+
+Bosch Research & Technology Center: Bosch Young Faculty Fellowship 2014, Gift Award 2013
+
+YAHOO!: Cluster for NEIL, InMind
+HighMark Grant
+MITRE
+DARPA Memex Program
+
+
+
+
+
+
+
+
+
+
+Other Links
+
+
+ Group Pictures 
+Future Travel
+VASC seminar
+
+
+
+
+
+
+
+
+
+          
+
+    
+
+
+

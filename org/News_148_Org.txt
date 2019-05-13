@@ -1,0 +1,211 @@
+
+
+
+
+
+ Hu Fu 
+
+
+
+
+Email:  hufu at cs dot ubc dot ca
+
+
+
+
+
+
+
+
+
+ About Me
+
+	I am an assistant professor in the 
+	Department of Computer Science  at the 
+	 University of British Columbia .  
+	
+
+	I received my PhD in 2013 from the
+Department of Computer Science  at 
+Cornell University, under the supervision of Professor
+ Robert Kleinberg .  After that, I was a postdoc at  Microsoft Research, New England Lab, and later at  Caltech, Computing and Mathematical Sciences .  
+
+
+My research takes a computational perspecitve on problems arising from economic contexts, such as auctions and pricing.  I am also interested in theoretical computer science in general.
+
+
+I am the editor-in-chief of the SIGecom exchanges.  Suggestions and letter submissions are highly welcomed.  
+
+
+
+
+	Teaching 
+
+
+In Spring 2016 I taught a reading seminar on Platforms and Internet Marketplaces at Caltech.
+
+
+In Fall 2016 I taught  CPSC 536F Algorithmic Game Theory  at UBC.
+
+
+In Fall 2017 I taught  CPSC 536F Computational Perspectives on Economic Questions .
+
+
+I am teaching  CPSC 420 Advanced Algorithm Design and Analysis.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Publications 
+
+
+ The Value of Information Concealment 
+
+	Hu Fu, Chris Liaw, Pinyan Lu and Zhihao Gavin Tang
+	
+	To appear at SODA'18.
+	
+
+  The Efficiency of Open Access in Platforms for Networked Cournot Markets
+
+	John Pang, Hu Fu, Won Lee and Adam Wierman
+	
+	InfoComm '17
+	
+
+  Job Security, Stability and Production Efficiency
+
+	Hu Fu, Robert Kleinberg, Ron Lavi and Rann Smorodinsky
+	
+ Theoretical Economics  12:1 (2017), 1-24.
+	
+
+  Randomization Beats Second-Price as a Prior-Independent Auction
+
+	Hu Fu, Nicole Immorlica, Brendan Lucier and Philipp Strack
+	
+	EC '15.
+	
+
+  On the Complexity of Computing an Equilibrium in Combinatorial Auctions 
+
+	Shahar Dobzinski, Hu Fu and Robert Kleinberg
+	
+	SODA '15.
+	
+
+  Improved Lower Bounds for Testing Triangle-Freeness in Boolean Functions via Fast Matrix Multiplication 
+
+	Hu Fu and Robert Kleinberg.
+	
+	RANDOM '14.
+	
+
+  Approximate Revenue Maximization in Interdependent Value Settings 
+
+	Shuchi Chawla, Hu Fu and Anna Karlin
+	
+	EC '14.
+	
+
+  Optimal Auctions for Correlated Buyers with Sampling 
+
+	Hu Fu, Nima Haghpanah, Jason Hartline and Robert Kleinberg
+	
+	EC '14.
+	
+
+  The Simple Economics of Approximately Optimal Auctions 
+
+	Saeed Alaei, Hu Fu, Nima Haghpanah and Jason Hartline.
+	
+	FOCS '13.
+	
+
+  Prior-Independent Auctions for Risk-Averse Agents 
+
+	Hu Fu, Jason Hartline and Darrell Hoy.
+	
+	EC '13.
+	
+
+  Cost-Recovering Bayesian Algorithmic Mechanism Design 
+
+	Hu Fu, Brendan Lucier, Balu Sivan and Vasilis Syrgkanis.
+	
+	EC '13.
+	
+
+  Simultaneous Auctions Are (Almost) Efficient 
+
+	Michal Feldman, Hu Fu, Nick Gravin and Brendan Lucier.
+	
+	STOC '13.
+	
+	Journal version accepted to  Games and Economic Behavior .
+	
+
+  Ad Auctions with Data 
+ 
+	Hu Fu, Patrick Jordan, Mohammad Mahdian, Uri Nadav, Ihbal Talgam-Cohen, and Sergei Vassilvitskii.  
+	
+	SAGT '12.  Preliminary versions presented at NetEcon'12 and Ad Auctions Workshop '12.
+	
+
+  Bayesian Optimal Auctions via Multi- to Single-agent Reduction  Saeed Alaei, Hu Fu, Nima Haghpanah, Jason Hartline, Azarakhsh Malekian.  
+	
+	EC '12.
+	
+
+  Conditional Equilibrium Outcomes via Ascending Price Processes with Applications to Combinatorial Auctions with Item Bidding  Hu Fu, Robert Kleinberg and Ron Lavi. 
+	
+	EC '12.
+	
+
+  Sketching Valuation Functions  
+	Ashwinkumar Badanidiyuru, Shahar Dobzinski, Hu Fu, Robert Kleinberg, Noam Nisan, and Tim Roughgarden.  
+	
+	SODA '12.
+	
+
+  Optimal Auctions with Correlated Bidders are Easy 
+	Shahar Dobzinski, Hu Fu, and Robert Kleinberg.  
+	
+	STOC '11.
+	
+	Journal version appeared as Approximately Optimal Auctions for Correlated Bidders  in  Games and Economic Behavior, 2013 .
+	
+
+  Inapproximability for VCG-Based Combinatorial Auctions  
+	Dave Buchfuhrer, Shaddin Dughmi, Hu Fu, Robert Kleinberg, Elchanan Mossel, Christos Papadimitriou, Michael Schapira, Yaron Singer, and Chris Umans. 
+	
+	SODA '10.
+ Amplified Hardness of Approximation for VCG-Based Mechanisms 
+	Shaddin Dughmi, Hu Fu, and Robert Kleinberg. 
+	
+	Merged with two closely related papers into Inapproximability for VCG-Based Combinatorial Auctions above. 
+	
+  Truthfulness via Proxies 
+ 
+	Shahar Dobzinski, Hu Fu and Robert Kleinberg.
+	
+
+
+

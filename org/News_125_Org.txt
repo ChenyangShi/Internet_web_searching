@@ -1,0 +1,1079 @@
+
+
+
+
+
+Dan Roy
+aka daniel roy, daniel m roy, droy
+
+
+Assistant Professor
+
+
+Department of Statistical Sciences
+Department of Computer Science  (cross-appointment)
+University of Toronto
+
+
+Department of Computer and Mathematical Sciences
+University of Toronto Scarborough
+
+
+Founding Faculty, Vector Institute
+
+
+Jump to:   Teaching |
+Research Articles |
+News |
+Probabilistic Programming |
+Curriculum Vitæ |
+Contact
+
+
+
+
+
+
+joining my group
+
+I am seeking students at all levels with strong quantitative backgrounds interested in foundational problems at the intersection of machine learning, statistics, and computer science.  I am also seeking qualified postdoctoral researchers for two- and three- year positions. 
+Click to read instructions before contacting me, or your email is likely to be deleted. I value people who are attentive to details.
+
+
+
+Undergraduates at Toronto:
+I welcome these emails, but they should include a c.v., lists of relevant course work, and a transcript. The subject line should contain the word "consideration" to indicate these instructions have been read.
+
+Students seeking short-term research opportunities:
+Other than in exceptional cases (listed in next paragraph), I do not take students for internships, summer research, or short term visits. 
+
+Prospective graduate students:
+I receive emails everyday from prospective graduate students.  
+Other than in exceptional cases, students who are not already admitted to Toronto should NOT email me directly. Instead, they should first apply to and gain admission to the graduate program in Statistics or Computer Science.
+Do not email me about the admission process—google and figure it out yourself.
+In your research statement, you should mention my name and state clearly how your research interests align with my research program.
+If you are admitted, then I'm happy to discuss supervision. Exceptional cases include: you have publications already at NIPS, ICML, UAI, ICLR, COLT, ALT, similar conferences, or in a top statistics journal; you have competed at the highest levels of math or computing olympiads; you have done something truly exceptional relative to the resources available to you.
+In these cases, students are encouraged to email me before applying and include the phrase "special consideration" in their email's subject line to indicate they have read my webpage. 
+
+Postdocs should send me their c.v. and best papers as PDFs and should include the word "consideration" in their subject line to indicate they have read my website.
+
+
+Hide instructions.
+
+news / travel
+
+NOV 2017
+Joint work with J. Huggins (Harvard) accepted to Bernoulli. This work introduces a new notion of effective sample size in order to control the quality of the samples produced by Sequential Monte Carlo.
+
+
+JUL 2017
+Pleased to hear that my article characterizing product-form exchangeable feature allocations with Battison, Favaro, and Teh has been accepted to the Annals of Applied Probability.
+
+
+JUN 2017
+Happy to announce my paper with Gintare Dziugaite on neural network generalization bounds has been accepted for a plenary talk at UAI in Australia this August.
+
+
+MAR 2017
+
+
+I'm excited to be part of the Vector Institute. We're looking to hire the best and brightest, from all corners. Come join us!
+
+
+FEB 2017
+
+I'm happy to announce that I've received a 2017 Google Research Award.
+
+
+
+Show More ▼
+
+Show Less ▲
+
+
+JAN 2017
+
+Congratulations to Pablo Garcia Moreno, who has accepted a permanent researcher position at Amazon.
+
+
+NOV 2016
+Zacharie Naulet is joining my group, having just finished his PhD with Judith Rousseau.
+
+
+NOV 2016
+Victor Veitch and I have posted a preprint on statistical estimation for sparse exchangeable graphs.
+
+
+OCT 2016
+I'm co-organizing a Simons workshop soon on Uncertainty in Computation, with Prakash Panangaden and Dan Suciu.  If you're near Berkeley, Oct 4–7, come check it out.
+
+
+AUG 2016
+I'll be teaching at the PhD Summer School on Advanced Topics in Machine Learning at the Technical University of Denmark on August 24, 2016 on the subject of exchangeability and network modeling.
+
+
+JUL 2016
+I'll be participating in the Isaac Newton Institute workshop on Theoretical Foundations for Statistical Network Analysis from July 10 to July 27, and will be a visiting researcher in the Engineering Department.
+
+
+JUL 2016
+I'll be speaking at Gatsby on July 7 on Meta-Bayesian Analysis.
+
+
+JUN 2016
+I'll be speaking at ETH Zurich on June 23 on Sparse Exchangeable Graphs.
+
+
+JUN 2016
+I'll be speaking in the Nonparametric Bayes session at ISBA on The General Class of Random Graphs arising from Exchangeable Random Measures. The following group members will also be presenting research:
+
+
+Meta-Bayesian Analysis.Contributed talk by Jun Yang.
+Sparse Network Analysis.Poster by Victor Veitch.
+Nonstandard Complete Class Theorems.Poster by Haosui Duanmu.
+
+
+MAY 2016
+I'll be talking at the Statistical Society of Canada (SSC) meeting May 30 on "Mondrian processes and their statistical applications".  
+
+
+MAY 2016
+I'm organizing a session on probabilistic programming at MFPS at CMU, May 23–26.
+
+
+MAY 2016
+I'm speaking in the Networks, Random Graphs and Statistics workshop at Columbia, May 3–6, 
+organized by Feng, Mukherjee, and Orbanz.
+
+
+MAY 2016
+Congratulations to Jun Yang on receiving an Alexander Graham Bell Canada Graduate Scholarship (CGS-D) from NSERC.
+
+
+FEB 2016
+I'll be speaking at HKUST February 19 on Sparse Exchangeable Graphs.
+
+
+JAN 2016
+I'll be speaking at MIT January 28 on Meta-Bayesian Analysis. Some feedback...
+
+
+JAN 2016
+I'll be speaking at the POPL Workshop on Probabilistic Programming Semantics on Exchangeable Random Primitives.
+
+
+DEC 2015
+New preprint on Gibbs-type Indian buffet processes.
+
+
+DEC 2015
+
+Pablo Garcia Moreno will be joining my group in the new year as an Amazon Research Post-Doctoral Fellow.
+
+
+
+DEC 2015
+
+The following work by group  members will be presented at the 2015 NIPS Workshops in Montreal:
+
+
+
+Bayesian Nonparametrics: The Next Generation. Talk by Victor Veitch.
+Bounded Optimality and Rational Metareasoning. Talk by Jun Yang.
+Networks in the Social and Information Sciences. Posters with Victor Veitch and Gintare Karolina Dziugaite.
+
+
+NOV 2015
+New preprint on neural network matrix factorization.
+
+
+OCT 2015
+
+
+Oxford (Machine learning) Oct 7–9
+Warwick (Statistics) Oct 12–13
+Cambridge (Statistics, Engineering) Oct 14–16
+
+
+SEP 2015
+New preprint on the computability of disintegration.
+
+
+JUN 2015
+Congratulations to Haosui (Kevin) Duanmu on receiving the best poster award at the Statistical Society of Canada meeting for our work on Nonstandard Complete Class Theorems.
+
+
+JUN 2015
+Congratulations to Victor Veitch on receiving the best theory poster award at the 10th Conference on Bayesian Nonparametrics for our work on Exchangeable Graph Measures.
+
+
+APR 2015
+I am happy to report that I have received a 2015 Connaught New Researcher award.
+
+
+APR 2015
+I have been awarded an NSERC Discovery Grant to fund basic research in probabilistic programming.
+
+
+MAY 2014
+I have accepted a tenure-track assistant professorship in Statistics at the University of Toronto. I will be starting this Fall.
+
+
+JAN 2014
+I will be giving an invited talk at the Mathematical Foundations of Programming Semantics conference this June at Cornell.
+
+
+OCT 2013
+I will be serving on the program committee for Computability and Complexity in Analysis, which will be held in Darmstadt this coming July.
+
+
+SEP 2013
+I will be applying for tenure-track positions this academic year in Computer Science and in Statistics.  If you feel your institution would be a good fit, please contact me.
+
+
+JUL 2013
+I am giving a plenary talk at the Computability and Complexity in Analysis conference in Nancy, France this July, 2013. 
+
+
+APR 2013
+I have completed my Newton Fellowship and would like to thank the Royal Society, the Engineering Department of the University of Cambridge, and my host, Zoubin Ghahramani, for this unique opportunity.  I will be continuing my postdoctoral research at Cambridge as a Research Fellow of Emmanuel College until October 2014.
+
+
+DEC 2012
+Cameron Freer, Josh Tenenbaum and I have just released a forthcoming book chapter connecting legacies of Turing and the probabilistic programming perspective on AI.
+
+
+DEC 2012
+I am co-organizing another NIPS workshop on probabilistic programming with Vikash Mansinghka and Noah Goodman.  See the workshop website for more information.
+
+
+OCT 2011
+My PhD dissertation has been selected as a winner of a MIT/EECS Sprowls Award, recognizing it as one of the best dissertations in Computer Science at MIT in 2011. 
+
+
+MAR 2011
+I have started my Newton Fellowship at Cambridge.
+
+
+JAN 2011
+I am delighted to report that I have been elected as a Research Fellow at Emmanuel College, University of Cambridge.
+
+
+SEP 2010
+I have accepted a Newton International Fellowship at the University of Cambridge.  I will be joining the Machine Learning Group, headed by Zoubin Ghahramani. 
+
+
+group members
+
+
+Alexander Edmonds, MsC candidate, CS
+Zacharie Naulet, Postdoctoral fellow
+Jeffrey Negrea, Ph.D. candidate, Stats
+Ekansh Sharma, Ph.D. candidate, CS
+Jun Yang, Ph.D. candidate, Stats
+Yuxing Zhang, M.Sc. candidate, CS
+
+group alumni
+
+Haosui (Kevin) Duanmu, Ph.D., Statistics → Postdoc at Berkeley
+Victor Veitch, Ph.D., Statistics (Departmental Thesis Award) → Postdoc at Columbia
+Siddharth Ancha 
+M.Sc., CS → Ph.D. at CMU
+
+Pablo García Moreno 
+Postdoc → Permanent researcher at Amazon
+
+
+research
+
+
+  My research blends computer science, statistics and probability theory; 
+  I study "probabilistic programming" and develop computational perspectives on fundamental ideas in probability theory and statistics. 
+  I am particularly interested in: 
+  representation theorems that connect computability, complexity, and probabilistic structures; 
+  stochastic processes, the use of recursion to define stochastic processes, and applications to nonparametric Bayesian statistics; 
+    and 
+  the complexity of probabilistic and statistical inference, especially in the context of probabilistic programming.  
+  Ultimately, I am motivated by the long term goal of making lasting contributions to our understanding of complex adaptive systems and especially Artificial Intelligence.
+
+
+teaching
+
+STA3000  (Fall 2017)
+
+Advanced Theory of Statistics, Part I
+
+
+STA4516  (Fall 2017)
+
+Nonstandard Analysis and Applications to Statistics and Probability
+
+
+STAD68   (Fall 2017)
+
+Advanced Machine Learning and Data Mining
+
+
+STAD68   (Fall 2016)
+
+Advanced Machine Learning and Data Mining
+
+
+STA4516  (Fall 2015)
+
+Topics in Probabilistic Programming
+
+
+STAC63  (Fall 2015)
+
+Probability Models
+
+
+STAD68   (Winter 2015)
+
+Advanced Machine Learning and Data Mining
+
+
+STA4513  (Fall 2014)
+
+Statistical models of networks, graphs, and other relational structures
+
+probabilistic programming
+
+Programs can be used to give compact representations of distributions: in order to represent a distribution, one simply gives a program that would generate an exact sample were the random number generator to produce realizations of independent and identically distributed random variables.  This approach to representing distributions by probabilistic programs works not only for simple distributions on numbers like Poissons, Gaussians, etc., and combinations thereof, but also for more exotic distributions on, e.g., phrases in natural language, rendered 2D images of 3D scenes, and climate sensor measurements.
+
+
+Probabilistic programming systems support statistical inference on models defined by probabilistic programs.
+By constraining some variables of a program (e.g., simulated sensor readings in some climate model) and studying the conditional distribution of other variables (e.g., the parameters of the climate model), we can identify plausible variable settings that agree with the constraints.  Conditional inferences like this would allow us to, e.g., build predictive text systems for mobile phones, guess the 3D shape of an object from only a photograph, or study the underlying mechanisms driving observed climate measurements.
+
+
+Probabilistic programming systems for machine learning and statistics are still in their infancy, and there are many interesting theoretical and applied problems yet to be tackled.  My own work focuses on theoretical questions around representing stochastic processes and the computational complexity of sampling-based approaches to inference.  I was involved in the definition of the probabilistic programming language Church, and its first implementation, MIT-Church, a Markov Chain Monte Carlo algorithm operating on the space of execution histories of an interpreter.  Some of my key theoretical work includes a study of the computability of conditional probability and de Finetti measures, both central notions in Bayesian statistics.  Readers looking for an overview of these results are directed to the introduction of my doctoral dissertation.  A less technical description of a probabilistic programming approach to artificial intelligence can be found in a recent book chapter on legacies of Alan Turing, co-authored with Freer and Tenenbaum.  
+
+
+More information on probabilistic programming can be found on probabilistic-programming.org, a wiki that I maintain.  In particular, look at the list of research articles and papers on probabilistic programming and the tutorials.
+
+NIPS Workshop on Probabilistic Programming
+
+I co-organized the first workshop on probabilistic programming for statistics and machine learning at NIPS*2008 (with Vikash Mansinghka, John Winn, David McAllester and Josh Tenenbaum). Four years later, I co-organized the second workshop on probabilistic programming at NIPS*2012 (with Vikash Mansinghka and Noah Goodman). 
+
+academic
+
+      Hello, my name is Daniel M. Roy (or simply, Dan)
+      and I am an Assistant Professor of Statistics at the University of Toronto, with a courtesy appointment also in Computer Science.
+
+      I received all three of my degrees in (Electrical Engineering and) Computer Science from 
+      MIT.  As a doctoral student, I was member of the 
+      Computer Science and Artificial
+      Intelligence Laboratory (CSAIL), where I was advised by Leslie
+      Kaelbling.  I also collaborated with members of 
+	Josh Tenenbaum's
+      Computational Cognitive Science group.
+	
+
+      After my doctorate, I was a Newton International Fellow of the Royal Society and then Research Fellow of 
+      of Emmanuel College at the University of Cambridge.
+      At Cambridge, I was a member of the Machine Learning Group, headed by Zoubin Ghahramani and part of the Computational and Biological Learning Lab 
+      in the Department of Engineering.
+      
+You may find my abbreviated curriculum vitæ online.
+coauthors
+
+Nate Ackerman,
+Siddharth Ancha,
+Matej Balog,
+Marco Battiston,
+William Beebee,
+Keith Bonawitz,
+Nate Ackerman,
+Jeremy Avigad,
+Cristian Cadar,
+Hal Daumé III,
+Brian Demsky,
+Daniel Dumitran,
+Gintare Karolina Dziugaite,
+Stefano Favaro,
+Cameron Freer,
+Zoubin Ghahramani,
+Noah Goodman,
+Creighton Heaukulani,
+Jonathan Huggins,
+Eric Jonas,
+Leslie Kaelbling,
+Charles Kemp,
+Balaji Lakshminarayanan,
+Tudor Leu,
+James Lloyd,
+Vikash Mansinghka,
+Peter Orbanz,
+Ryan Rifkin,
+Martin Rinard,
+Jason Rute,
+Virginia Savova,
+Lauren Schmidt,
+David Sontag,
+Sam Staton,
+Yee Whye Teh,
+Josh Tenenbaum,
+Victor Veitch,
+David Wingate,
+Hongseok Yang
+
+Family
+Meloney Roy,
+Kenny Roy.
+
+chalk-talk-style slides
+
+Several template .TEX files for producing slides for 
+mathematical talks that more closely mimic the 
+chalk talk aesthetic.
+
+valid xhtml
+
+Valid XHTML 1.1 re-validate
+
+Valid CSS
+/styles/screen
+
+
+
+
+
+preprints and working papers
+
+Data-dependent PAC-Bayes priors via differential privacy
+
+Gintare Karolina Dziugaite and Daniel M. Roy
+
+arXiv:1802.09583
+
+
+The Beta-Bernoulli process and algebraic effects
+
+Sam Staton, Dario Stein, Hongseok Yang, Nathanael Ackerman, Cameron Freer, Daniel M. Roy
+
+arXiv:1802.09598
+
+
+On the computability of graphons
+
+(with Nathanael L. Ackerman, Jeremy Avigad, Cameron E. Freer, and Jason M. Rute)
+
+arXiv:1801.10387
+
+
+Entropy-SGD optimizes the prior of a PAC-Bayes bound: Generalization properties of Entropy-SGD and data-dependent priors
+
+Gintare Karolina Dziugaite and Daniel M. Roy
+
+arXiv:1712.09376
+
+
+An estimator for the tail-index of graphex processes
+
+Zacharie Naulet, Ekansh Sharma, Victor Veitch, Daniel M. Roy
+
+arXiv:1712.01745
+
+
+Exchangeable modelling of relational data: checking sparsity, train-test splitting, and sparse exchangeable Poisson matrix factorization
+
+Victor Veitch, Ekansh Sharma, Zacharie Naulet, Daniel M. Roy
+
+arXiv:1712.02311
+
+
+On Extended Admissible Procedures and their Nonstandard Bayes Risk
+
+Haosui Duanmu and Daniel M. Roy
+
+arXiv:1612.09305
+
+
+Sampling and Estimation for (Sparse) Exchangeable Graphs
+
+Victor Veitch and Daniel M. Roy
+
+arXiv:1611.00843
+
+
+The Class of Random Graphs Arising from Exchangeable Random Measures
+
+Victor Veitch and Daniel M. Roy
+
+arXiv:1512.03099
+
+
+Gibbs-type Indian Buffet Processes
+
+(with Creighton Heaukulani) 
+	
+arXiv:1512.02543
+
+
+The continuum-of-urns scheme, generalized beta and Indian buffet processes, and hierarchies thereof
+
+arXiv:1501.00208
+
+ 
+On the computability of conditional probability
+
+(with Nate Ackerman and	Cameron Freer)
+	
+arXiv:1005.3014
+
+
+Note: Articles distinguished by "(with ...)" have alphabetical author lists, as is the convention in mathematics and theoretical computer science.
+thesis
+
+
+	Computability, inference and modeling in probabilistic programming
+	
+
+Daniel M. Roy
+
+Ph.D. thesis, Massachusetts Institute of Technology,
+	2011.
+	
+MIT/EECS George M. Sprowls Doctoral Dissertation Award
+
+
+research articlesand publications
+
+Sequential Monte Carlo as Approximate Sampling: bounds, adaptative resampling via \infty-ESS, and an application to Particle Gibbs
+
+	(with Jonathan Huggins)
+	
+	To appear in Bernoulli.
+	
+arXiv:1503.00966
+
+
+A characterization of product-form exchangeable feature probability functions
+
+	Marco Battiston, Stefano Favaro, Daniel M. Roy, Yee Whye Teh
+	
+	To appear in Annals of Applied Probability.
+	
+arXiv:1607.02066
+
+
+Computing Nonvacuous Generalization Bounds for Deep (Stochastic) Neural Networks with Many More Parameters than Training Data
+
+	Gintare Karolina Dziugaite and Daniel M. Roy
+	
+	In Proc. Uncertainty in Artificial Intelligence (UAI), 2017.
+	
+arXiv:1703.11008
+
+
+Measuring the reliability of MCMC inference with bidirectional Monte Carlo
+
+	Roger B. Grosse, Siddharth Ancha, and Daniel M. Roy
+	
+	In Adv. Neural Information Processing Systems 29 (NIPS), 2016.
+	
+arXiv:1606.02275
+
+nips
+
+
+On computability and disintegration
+
+(with Nate Ackerman and Cameron Freer)
+	
+	In Mathematical Structures in Computer Science.
+	
+arXiv:1509.02992 (recommended)
+	
+doi:10.1017/S0960129516000098
+
+
+The Mondrian Kernel
+
+	Matej Balog, Balaji Lakshminarayan, Zoubin Ghahramani, Daniel M. Roy, Yee Whye Teh
+	
+	In Proc. Uncertainty in Artificial Intelligence (UAI), 2016.
+	
+arXiv:1606.05241
+
+
+Mondrian Forests for Large-Scale Regression when Uncertainty Matters
+
+Balaji Lakshminarayanan, 
+	Daniel M. Roy,
+	Yee Whye Teh.
+	
+	In Proc.  Artificial Intelligence and Statistics (AISTATS), 2016.
+	
+arXiv:1506.03805
+
+
+Training generative neural networks via Maximum Mean Discrepancy optimization
+
+	Gintare Karolina Dziugaite, Daniel M. Roy, and Zoubin Ghahramani
+	
+	In Proc. Uncertainty in Artificial Intelligence (UAI), 2015.
+	
+arXiv:1505.03906
+
+
+The combinatorial structure of beta negative binomial processes
+
+	(with Creighton Heaukulani)
+	
+Bernoulli, 2016, Vol. 22, No. 4, 2301–2324.
+	
+
+
+Particle Gibbs for Bayesian Additive Regression Trees
+
+Balaji Lakshminarayanan, 
+	Daniel M. Roy,
+	Yee Whye Teh
+
+Proc.  Artificial Intelligence and Statistics (AISTATS), 2015.
+	
+arXiv:1502.04622
+
+
+
+Mondrian Forests: Efficient Online Random Forests
+
+Balaji Lakshminarayanan, 
+	Daniel M. Roy,
+	Yee Whye Teh
+
+Adv. Neural Information Processing Systems 27 (NIPS), 2014.
+	
+
+code
+
+ 
+
+	Bayesian Models of Graphs, Arrays and Other Exchangeable Random Structures
+
+(with Peter Orbanz)
+	
+IEEE Trans. Pattern Anal. Mach. Intelligence (PAMI), 2014.
+	
+doi:10.1109/TPAMI.2014.2334607 
+arXiv:1312:7857 
+slides for talk at CIMAT
+	
+
+
+Top-down particle filtering for Bayesian decision trees
+
+Balaji Lakshminarayanan, 
+	Daniel M. Roy,
+	Yee Whye Teh
+
+Proc. Int. Conf. on Machine Learning  (ICML), 2013.
+	
+
+code
+
+ 
+Towards common-sense reasoning via conditional simulation:Legacies of Turing in Artificial Intelligence
+
+	(with Cameron Freer and Josh Tenenbaum)
+	
+Turing's Legacy (ASL Lecture Notes in Logic), 2012.
+	
+
+ 
+
+	Random function priors for exchangeable arrays with applications to graphs and relational data
+
+	James Lloyd, Peter Orbanz, Zoubin Ghahramani, Daniel M. Roy
+	
+Adv. Neural Information Processing Systems 25 (NIPS), 2012. 
+	
+
+ 
+
+	Computable de Finetti measures
+
+	(with 
+	 Cameron Freer)	
+	
+Annals of Pure and Applied Logic, 2012. 
+	
+
+ 
+
+	Complexity of Inference in Latent Dirichlet Allocation
+
+David Sontag and
+	Daniel Roy
+
+Adv. Neural Information Processing Systems 24 (NIPS), 2011.
+	
+
+
+
+	Noncomputable conditional distributions
+
+	(with Nate Ackerman and	
+	 Cameron Freer)
+	
+Proc.  Logic in Computer Science (LICS), 2011.
+	
+
+
+
+	Probabilistically Accurate Program Transformations
+	
+
+Sasa Misailovic,
+Daniel M. Roy,
+	and 
+	Martin C. Rinard
+
+Proc. Int. Static Analysis Symp.
+	(SAS), 2011.
+	
+
+
+
+	Bayesian Policy Search with Policy Priors
+	
+
+David Wingate,
+Noah D. Goodman,
+Daniel M. Roy,
+Leslie P. Kaelbling,
+	and 
+	Joshua B. Tenenbaum
+
+Proc. Int. Joint Conf. on Artificial Intelligence
+	(IJCAI), 2011.
+	
+
+
+
+	Posterior distributions are computable from predictive distributions
+
+	(with Cameron Freer)
+	
+Proc.  Artificial Intelligence and Statistics (AISTATS), 2010.
+	
+
+
+ 
+
+	The Infinite Latent Events Model
+
+David Wingate,
+Noah D. Goodman,
+Daniel M. Roy,
+	and 
+	Joshua B. Tenenbaum
+
+	In Proc. Uncertainty in Artificial Intelligence (UAI), 2009.
+	
+
+ 
+
+	Computable exchangeable sequences have computable de Finetti measures
+
+	(with Cameron Freer)
+
+	In Proc. Computability in Europe (CiE), 2009.
+	
+
+ 
+Exact and Approximate Sampling by Systematic Stochastic Search
+
+Vikash Mansinghka,
+Daniel M. Roy,
+Eric Jonas,
+	and 
+	Joshua Tenenbaum
+
+	In Proc.  Artificial Intelligence and Statistics (AISTATS), 2009.
+	
+
+ 
+The Mondrian Process
+
+	(with
+	 Yee Whye Teh)
+
+	In Adv. Neural Information Processing Systems 21 (NIPS), 2009.
+	
+
+
+Video animation of the Mondrian process as one zooms into the origin (under a beta Levy rate measure at time t=1.0).  See also the time evolution of a Mondrian process on the plane as we zoom in with rate proportional to time.  In both cases, the colors are chosen at random from a palette.  These animations were produced by Yee Whye in Matlab.  For now, we reserve copyright, but please email me and we'll be more than likely  happy to let you use them. 
+
+	
+Chapter 5. Distributions on data structures: a case study(Mondrian process theory)
+
+	Those seeking a more formal presentation of the Mondrian process than the NIPS paper should see Chapter 5 of my dissertation.  
+	
+ 
+Church: a language for generative models
+
+Noah Goodman,
+Vikash Mansinghka,
+Daniel M. Roy,
+Keith Bonawitz,
+	and 
+	Joshua Tenenbaum
+
+	In Proc. Uncertainty in Artificial Intelligence (UAI), 2008. 
+	
+
+ 
+Bayesian Agglomerative Clustering with Coalescents
+
+Yee Whye Teh,
+	Hal Daumé III,
+	and 
+	Daniel M. Roy
+
+Adv. Neural Information Processing Systems 20 (NIPS), 2008.
+	
+
+ 
+Discovering Syntactic Hierarchies
+
+Virginia Savova,
+Daniel M. Roy,
+Lauren Schmidt, and 
+	Joshua B. Tenenbaum
+
+Proc.  Cognitive Science (COGSCI), 2007.
+	
+
+ 
+AClass: An online algorithm for generative classification
+
+Vikash K. Mansinghka,
+	Daniel M. Roy,
+	Ryan Rifkin, and
+	Joshua B. Tenenbaum
+
+Proc.  Artificial Intelligence and Statistics (AISTATS), 2007.
+	
+
+ 
+Efficient Bayesian Task-level Transfer Learning
+
+Daniel M. Roy and 
+	Leslie P. Kaelbling
+
+Proc. Int. Joint Conf. on Artificial Intelligience
+	(IJCAI), 2007.
+	
+
+ 
+Learning Annotated Hierarchies from Relational Data
+
+Daniel M. Roy,
+Charles Kemp,
+Vikash Mansinghka,
+	and 
+	Joshua B. Tenenbaum
+
+Adv. Neural Information Processing Systems 19 (NIPS), 2007.
+	
+
+ 
+Clustered Naive Bayes
+
+
+MEng thesis,
+	Massachusetts Institute of Technology, 2006.
+	
+
+ 
+Enhancing Server Availability and Security Through Failure-Oblivious Computing
+
+Martin Rinard, Cristian
+	Cadar, Daniel Dumitran, 
+	Daniel M. Roy,
+	Tudor Leu,
+	and William S. Beebee, Jr.
+
+Proc.  Operating Systems Design and
+	Implementation (OSDI), 2004.
+	
+
+ 
+A Dynamic Technique for Eliminating Buffer Overflow Vulnerabilities (and Other Memory Errors)
+
+Martin Rinard, Cristian Cadar, Daniel Dumitran, 
+	Daniel M. Roy,
+	and Tudor Leu
+
+Proc. Annual Computer Security Applications Conference (ACSAC), 2004.
+	
+
+
+technical reports
+
+On computable representations of exchangeable data
+
+	Nathanael L. Ackerman, Jeremy Avigad, Cameron E. Freer, Daniel M. Roy, and Jason M. Rute
+	
+
+Exchangeable Random Processes and Data Abstraction
+
+	Sam Staton, Hongseok Yang, Nate Ackerman, Cameron Freer, Dan Roy
+	
+
+
+A study of the effect of JPG compression on adversarial images
+
+	Gintare Karolina Dziugaite, Zoubin Ghahramani, Daniel M. Roy
+	
+arXiv:1608:00853
+
+
+Neural Network Matrix Factorization
+
+	Gintare Karolina Dziugaite and Daniel M. Roy
+	
+arXiv:1511.06443
+
+
+Exchangeable databases and their functional representation
+
+	James Lloyd, Peter Orbanz, Zoubin Ghahramani, Daniel M. Roy
+	
+NIPS Workshop on Frontiers of Network Analysis: Methods, Models, and Applications, 2013.
+	
+
+
+	On the computability and complexity of Bayesian reasoning
+
+NIPS Philosophy and Machine Learning Workshop, 2011.
+	
+
+
+
+	When are probabilistic programs probably computationally tractable?
+
+	(with Cameron Freer and Vikash Mansinghka)
+	
+NIPS Workshop on Monte Carlo Methods for Modern Applications, 2010.
+	
+
+
+ 
+
+	Complexity of Inference in Topic Models
+
+David Sontag and
+	Daniel Roy
+
+NIPS Workshop on Applications for Topic Models: Text and Beyond, 2009.
+	
+
+ 
+A stochastic programming perspective on nonparametric Bayes
+
+Daniel M. Roy,
+Vikash Mansinghka,
+Noah Goodman,
+	and 
+	Joshua Tenenbaum
+
+ICML Workshop on Nonparametric Bayesian,  2008.
+	
+
+ 
+Efficient Specification-Assisted Error Localization
+
+Brian Demsky, Cristian Cadar, 
+	Daniel M. Roy,
+	and Martin C. Rinard
+
+Proc. Workshop on Dynamic Analysis (WODA), 2004.
+	
+
+ 
+Efficient Specification-Assisted Error Localization and Correction
+
+Brian Demsky, Cristian Cadar,
+	Daniel M. Roy,
+	and Martin C. Rinard
+
+MIT CSAIL Technical Report 927.
+November, 2003.
+
+
+ 
+Implementation of Constraint Systems for Useless Variable Elimination
+
+	(advised by
+	 
+Mitchell Wand)
+	
+Research Science Institute.
+August, 1998.
+
+
+marginalia
+I believe that errata, clarifications, missed citations, links to follow-on work, retractions, and other "marginalia" are important, but underappreciated, contributions to the scientific literature.  Ultimately, the nature of a scientific document needs to be rethought, but until then I am slowly collecting marginalia in a simple wiki.  I encourage everyone to host similar wikis, or contribute to this one.
+	
+
+Marginalia wiki.
+	
+
+
+
+
+
+
+
+
+
+@roydanroy
+ 
+
+@roydanroy
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+contact
+recruiters: no, thank you.
+(research email)
+droy#utstat.toronto.edu
+	replace # with @ 
+(teaching-related email)
+UTSC: 
+	daniel.roy#utsc.utoronto.ca
+ StG: 
+	daniel.roy#utoronto.ca
+	
+(UTSC office)
+	Dept. of Computer and 
+	   
+	Mathematical Sciences
+	Univ. of Toronto Scarborough
+IC Building, Room 462
+	1265 Military Trail
+	Toronto, ON
+	M1C 1A4
+	Canada
+	t: +1 (416) 287 5653
+	
+(StG office)
+	Dept. of Statistical Sciences
+	Univ. of Toronto
+Sidney Smith Hall, 6027F
+	100 St. George St.
+	Toronto, ON
+	M5S 3G3
+	Canada
+	t: +1 (416) 978 4220
+	f: +1 (416) 978 5133
+	
+(mobile phone)
+	CA: +1 (647) 993 6380
+	UK: +44 (0) 7552 784 664
+	US: +1 (310) 913 6380
+
+
+

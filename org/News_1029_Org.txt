@@ -1,0 +1,11 @@
+
+
+
+
+注册一亩三分地论坛，查看更多干货！
+您需要 登录 才可以下载或查看，没有帐号？Sign Up 注册获取更多干货 
+
+x
+
+.guestviewthumb {margin:10px auto; text-align:center;}.guestviewthumb a {font-size:12px;}.guestviewthumb_cur {cursor:url(static/image/common/scf.cur), default; max-width:100px;}.ie6 .guestviewthumb_cur { width:100px !important;}
+                                登录/注册后可看大图

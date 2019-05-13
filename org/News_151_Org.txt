@@ -1,0 +1,122 @@
+
+
+
+
+
+
+
+
+
+Chen Greif  
+
+
+
+ Professor and Head  
+Department of Computer Science 
+ The University of British Columbia 
+
+
+
+
+
+
+
+
+
+Mailing address:
+	Department of Computer Science 
+	The University of British Columbia 
+       201 - 2366 Main Mall 
+       Vancouver  BC, V6T 1Z4 
+       Canada 
+ 
+
+
+
+
+Email:  
+Office: 
+Phone:  
+Fax: 
+
+
+
+    greif@cs.ubc.ca
+      ICCS 219 
+ (map) 
+ +1 604 827 5185 (research office) or +1 604 822 6056 (Head's office)
+ +1 604 822 5485
+
+
+
+
+
+
+
+ Research Interests
+
+
+scientific computing - numerical linear algebra
+
+iterative solvers
+saddle-point linear systems
+preconditioning techniques 
+ 
+linear algebra aspects of constrained optimization 
+
+
+
+
+
+Textbook 
+
+
+
+A First Course in Numerical Methods
+
+
+ Published by SIAM, 2011	
+
+(intended for undergraduate and beginning graduate students) 
+
+Errata 
+(last updated: February 8, 2016)  
+
+Supplementary material
+including Matlab programs 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ Current Professional Appointments
+
+
+SIAM Secretary 
+
+Associate Editor,
+
+SIAM Journal on Scientific Computing
+Member of the Editorial Board,
+
+SIAM Book Committee
+Member of the Editorial Board,
+
+SIAM Computational Science and Engineering book series
+
+
+Publications ||
+Teaching ||
+Bio
+
+
+

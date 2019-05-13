@@ -1,0 +1,1040 @@
+
+ Ian M. Mitchell 
+
+
+
+ Professor 
+ Computer Science Department
+ University of British Columbia.
+
+Departmental Duties
+ Associate Head (Undergraduate)
+
+ UBC Contacts: 
+ email (undergraduate matters): ah-ugrad@cs.ubc.ca
+ email (other matters): mitchell@cs.ubc.ca
+ office: ICICS/CS 217
+    tel: (604) 822-2317
+    fax: (604) 822-5485
+    mail: 2366 Main Mall, Vancouver, BC, CANADA, V6T 1Z4
+
+
+
+
+
+
+
+Courses
+Courses numbered 5xx are graduate level.  Courses numbered 4xx and
+below are undergraduate.  A note to UBC students: as of the last time
+I checked, you could count up to two courses from the other category
+toward your degree (eg grad courses for undergraduates, ugrad courses
+for grad students).  Check with your advisor and the instructor for
+permission.  I am generally quite happy to have students take courses
+at either level.
+
+I try to keep the graduate course links live, but the undergraduate
+course links for older courses may point to more recent offerings.
+
+
+ 2017-2018:
+
+ Spring: CPSC 418 Parallel Computation (co-taught with Mark Greenstreet).
+ Fall:  CPSC 418 Parallel Computation (co-taught with Mark Greenstreet).
+
+ 2016-2017:
+
+ Spring: CPSC 418 Parallel Computation (co-taught with Mark Greenstreet).
+ Fall: Nothing.
+
+ 2015-2016:
+
+ Spring: Nothing.
+ Fall: CPSC 515 Computational Robotics.
+
+ 2014-2015:
+
+ Spring: CPSC 301 Computing in the Life Sciences.
+ Fall: Nothing.
+
+ 2013-2014:
+
+ Spring: CPSC 301 Computing in the Life Sciences.
+ Fall: Nothing.
+
+ 2012-2013:
+
+ Spring: CPSC 303 Numerical Approximation and Discretization.
+ Fall: CPSC 515 Computational Robotics.
+
+ 2011-2012:
+
+ Spring: CPSC 303 Numerical Approximation and Discretization.
+ Spring: CPSC 535Z Topics in Simulation and Optimization Reproducible Research and Software Carpentry.
+ Fall: CPSC 515 Computational Robotics.
+
+ 2010-2011:
+
+ On sabbatical.
+
+ 2009-2010:
+
+ Spring: CPSC
+301 Computing in
+the Life Sciences.  This is a brand new course for this year, and
+is designed for students from outside Computer Science.
+ Fall: CPSC 513 Integrated Systems Design: Introduction to Formal Verification.
+
+ 2008-2009:
+
+ Spring: CPSC
+303 Numerical Approximation and Discretization (in WebCT Vista).
+Although I would prefer to make most of the website publicly visible,
+because of Vista's limitations you will not be able to access the
+website unless you are registered for the course.  If you would like
+to get an idea about what the course will cover without registering,
+you can look at
+the 2007-2008 web
+page, which had very similar material.
+ Fall: CPSC 513 Integrated Systems Design: Introduction to Formal Verification.
+
+ 2007-2008:
+
+ Spring: CPSC 303 Numerical Approximation and Discretization.
+ Spring: CPSC 532M Topics in Artificial Intelligence: Dynamic Programming and Approximate Dynamic Programming.  I have no plans to offer this course again before 2011.
+ Fall: nothing.
+
+ 2006-2007:
+
+ Spring: CPSC 303 Numerical Approximation and Discretization.
+ Spring: CPSC 542D Topics in Numerical Computation: Level Set Methods: Dynamic Implicit Surfaces and the Hamilton-Jacobi Equation.  I have no plans to offer this course again before 2011.
+ Fall: nothing.
+
+ 2005-2006:
+
+ Spring: CPSC 303 Numerical Approximation and Discretization.  Offered annually.
+ Fall: CPSC 513 Integrated Systems Design: Introduction to Formal Verification.  This course is significantly different than previous years' CPSC 513 offerings (by Alan Hu).  A similarly broad version of this course will be offered by Alan Hu in Spring 2007.
+
+ 2004-2005:
+
+ Spring: CPSC 403 Numerical Solution of Ordinary Differential Equations.  As of 7/2006, this course is not scheduled to be taught again.
+ Fall: CPSC 542D Topics in Numerical Computation: Level Set Methods: Dynamic Implicit Surfaces and the Hamilton-Jacobi Equation.  This course will be offered again in 2006-2007.
+
+ 2003-2004:
+
+ Fall: CPSC 538A Topics in Computer Systems: Computational Techniques for
+Hybrid and Embedded Systems Design.  As of 7/2006, I do not plan to
+offer this course again.
+
+
+
+Reproducible Research
+
+The talk "Code != Data:
+  Why reproducible research needs both but should not treat them the
+  same" was given at the Special Libraries Association Annual
+  Conference on June 9, 2014 in a session organized by Carol Hutchins
+  (NYU Courant Institute) called "Reproducible Research: A Path for
+  Boosting Science in the 21st Century".
+
+ I ran an optional repeatability evaluation process for the 2014
+edition of the Hybrid Systems Computation and Control (HSCC)
+conference.
+  
+ The HSCC
+  2014 Repeatability Evaluation website explains all the details
+  of the process.
+   Do you want to propose a similar procedure in your favorite
+  conference?  Take a look at my
+  original proposal to the
+  HSCC steering committee.
+   HSCC 2015 did not have a repeatability evaluation due to a
+  family medical issue.  I am planning to repeat it for HSCC 2016.
+  
+ The
+workshop Reproducible
+Research: Tools & Strategies for Scientific Computing was held
+July 13-15, 2011 at UBC in coordination with the Applied Mathematics
+Perspectives series of ICIAM 2011 satellite meetings.
+
+  
+The talks were recorded and are available
+  as streaming
+  videos (the current format
+  requires Silverlight; let
+  me know if you require a different format).
+
+  Computing
+  in Science and Engineering, volume 14, issue 4 (July-August
+  2012) is a special issue with seven papers based on the
+  workshop.
+
+  
+ PhD Comics has an excellent
+video "Open Access
+Explained" covering the concepts and motivation behind the open
+access movement, of which reproducible research is a part.
+
+
+
+Research
+
+
+My research agenda includes:
+
+
+Algorithms for designing and analyzing hybrid and embedded
+  systems.
+
+  Level set algorithms for time-dependent Hamilton-Jacobi partial
+  differential equations (PDEs).
+
+  Single pass (FMM, OUM) and sweeping algorithms for static
+  Hamilton-Jacobi PDEs.
+
+  High quality, publically released implementations of these
+  algorithms.
+
+  Application of these algorithms to path planning for autonomous
+  and semi-autonomous systems.
+
+
+For those interested in experimenting with Level Set Methods for
+solving time-dependent Hamilton-Jacobi PDEs, such as those that arise
+in dynamic implicit surfaces and reachability, I have released:
+
+A Toolbox of Level Set Methods
+I do not yet have any public code for direct approximation of
+static (time-independent) Hamilton-Jacobi PDEs, such as those that
+arise in robotic path planning.  However, here are some slides
+discussing the relationship between path planning and Hamilton-Jacobi
+PDEs, various classes of algorithms for approximating the resulting
+PDEs, and a few extensions on which I have worked:
+Dynamic Programming Algorithms for
+Planning and Robotics in Continuous Domains and the Hamilton-Jacobi
+Equation.  These slides were presented at
+the Fast
+Marching Method: Theoretical Underpinnings and Applications to
+Robotics tutorial at IROS
+2008.
+
+
+
+
+
+Selected publications:
+Many of my academic publications are available online.
+Where permitted by the
+publishers, I have provided links to self-archived post-prints (if
+I have one) as well as the published versions (the latter usually
+require subscriptions).  If the paper you want is not hyperlinked or
+if you are unable to access the publisher's web site, please email me
+and I may be able to provide a copy by other means.
+
+2017
+
+"Data Logger Technologies for Powered Wheelchairs: A Scoping Review"
+François Routhier, Josiane Lettre, William C. Miller, Jaimie F. Borisoff, Kate Keetch, Ian M. Mitchell and the CanWheel Research Team
+Assistive Technology, published online (June, 2017).
+
+The published
+version is available.
+
+"A Formally Verified Safety System for Closed-Loop Anesthesia" 
+Mahdi Yousefi, Klaske van Heusden, Ian M. Mitchell, J. Mark Ansermino and Guy A. Dumont.
+To appear in Proceedings of the IFAC World Congress, (July, 2017).
+
+
+
+"Clinicians' and Researchers' Perspectives on Manual Wheelchair Data Loggers"
+François Routhier, Josiane Lettre, William C. Miller, Jaimie F. Borisoff, Kate Keetch, Ian M. Mitchell and the CanWheel Research Team
+Archives of Physical Medicine and Rehabilitation, volume 98, number 7, pp. 1480-1489 (July, 2017).
+
+The published
+version is available at ScienceDirect.
+
+"Output-Feedback Safety-Preserving Control" (accepted version) 
+Mahdi Yousefi, Klaske van Heusden, Ian M. Mitchell and Guy A. Dumont
+Proceedings of the American Control Conference, pp. 2550-2555 (May, 2017).
+
+©2017 IEEE. Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the IEEE.
+IEEE Xplore copy.
+Slides from the talk.
+
+"Intelligent Wheelchair Control Strategies for Older Adults with Cognitive Impairment: User Preferences, Attitudes and Needs"
+Pooja Viswanathan, Ellen P. Zambalde, Geneviève Foley, Julianne L. Graham, Rosalie H. Wang, Bikram Adhikari, Alan K. Mackworth, Alex Mihailidis, William C. Miller, Ian M. Mitchell
+Autonomous Robotics, volume 41, number 3, pp. 539-554 (March, 2017).  Special issue on Assistive and Rehabilitation Robotics.
+
+The published
+version is available at SpringerLink.
+
+
+2016
+
+"Improved Action and Path Synthesis using Gradient Sampling" (accepted version) 
+Neil Traft and Ian M. Mitchell.
+Proceedings of the IEEE Conference on Decision and Control, pp. 6016-6023 (December, 2016).
+
+©2016 IEEE. Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the IEEE.
+IEEE Xplore copy.
+Slides from the talk at CDC.
+Slides from a longer version of the talk given at the RICAM special semester on computational methods in science and engineering workshop on numerical methods for Hamilton-Jacobi equations in optimal control and related fields.
+
+"Ensuring Safety for Sampled Data Systems: An Efficient Algorithm for Filtering Potentially Unsafe Input Signals" (accepted version) 
+Ian M. Mitchell, Jeffrey Yeh, Forrest J. Laine and Claire J. Tomlin.
+Proceedings of the IEEE Conference on Decision and Control, pp. 7431-7438 (December, 2016).
+
+©2016 IEEE. Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the IEEE.
+IEEE Xplore copy.
+Slides from the talk at CDC.
+
+"Data logger technologies for manual wheelchairs: A Scoping Review"
+François Routhier, Josiane Lettre, William C. Miller, Jaimie F. Borisoff, Kate Keetch, Ian M. Mitchell and the CanWheel Research Team
+Assistive Technology, published online (November, 2016).
+
+The published
+version is available.
+
+"Model-Invariant Safety-Preserving Control" (accepted version) 
+Mahdi Yousefi, Klaske van Heusden, Guy A. Dumont, Ian M. Mitchell and J. Mark Ansermino.
+Proceedings of the American Control Conference, pp.6689-6694 (June, 2016).
+
+©2016 IEEE. Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the IEEE.
+IEEE Xplore copy.
+
+"Guest Editorial: Special Section on Control and Automation from
+the 2015 International Conference on Cyber-Physical Systems
+(ICCPS)" 
+Ian M. Mitchell, Xenofon Koutsoukos, Michael Branicky and Alexandre M. Bayen
+IEEE Transactions on Automation Science and Engineering, volume 13, number 2, pp. 448-449 (April, 2016).
+
+©2016 IEEE. Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the IEEE.
+The published
+version is available at IEEExplore.
+Special Section Table of Contents.  Note that the special section consists of five papers spanning pp. 450-513.
+
+
+2015
+
+"A Summary of Recent Progress on Efficient Parametric Approximations of Viability and Discriminating Kernels" (accepted version) 
+Ian M. Mitchell.
+Proceedings of the Symbolic and Numerical Methods for Reachability Analysis Workshop (SNR), EPiC Series in Computing, volume 37, pp. 23-31 (December, 2015).
+
+EasyChair copy.
+Slides
+from the talk.
+
+"Scalable Safety-Preserving Robust Control Synthesis for Continuous-Time Linear Systems" (Extended version posted on arXiv)
+Shahab Kaynama, Ian M. Mitchell, Meeko M. K. Oishi and Guy A. Dumont
+IEEE Transactions on Automatic Control, volume 60, number 11, pp. 3065-3070 (November, 2015).
+
+©2015 IEEE. Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the IEEE.
+The published
+version is available at IEEExplore.
+
+"A scoping review of data logger technologies used with manual wheelchairs"
+François Routhier, Josiane Lettre, Ian M. Mitchell, Jaimie Borisoff, William C. Miller
+Proceedings of the Rehabilitation Engineering and Assistive Technology Society of North America (June, 2015).
+
+A full journal version of this work has been accepted to Assistive Technology in 2016 (see above).
+
+Rehab on Wheels: A Pilot Study of Tablet-Based Wheelchair Training for Older Adults (open access published version) (try this link if the DOI link is still broken)
+Edward M. Giesbrecht, William C. Miller, Boyang Tom Jin, Ian M. Mitchell, Janice J. Eng
+JMIR Rehabilitation and Assistive Technologies, 2(1):e3, 12 pages (April, 2015).
+
+"An Improved Algorithm for Robust Safety Analysis of Sampled Data Systems" (version accepted for publication) 
+Ian M. Mitchell and Shahab Kaynama.
+Hybrid Systems Computation and Control pp. 21-30 (April, 2015).
+
+The published version is available at ACM Digital Library.
+Slides
+from the talk.
+ Code for computing the examples (zipfile).
+
+
+2014
+
+A Telehealth Intervention Using Nintendo Wii Fit Balance Boards and iPads to Improve Walking in Older Adults With Lower Limb Amputation (Wii.n.Walk): Study Protocol for a Randomized Controlled Trial (open access published version)
+Bita Imam, William C. Miller, Heather C. Finlayson, Janice J. Eng, Michael W.C. Payne, Tal Jarus, Charles H. Goldsmith, and Ian M. Mitchell
+JMIR Research Protocols, volume 3, number 4, e80, 12 pages (December, 2014).
+
+Development of a Wheelchair Skills Home Program for Older Adults Using a Participatory Action Design Approach (open access published version)
+Edward M. Giesbrecht, William C. Miller, Ian M. Mitchell, Roberta L. Woodgate
+BioMed Research International special issue on Wheeled Mobility, article ID 172434, volume 2014, 13 pages (September, 2014).
+
+"A Risk Assessment Infrastructure for Powered Wheelchair Motion Commands without Full Sensor Coverage" (accepted
+  version) 
+Pouria TalebiFard, Junaed Sattar and Ian M. Mitchell.
+Proceedings of the International Conference on Intelligent Robots and Systems (IROS), pp.3592-3597 (September, 2014).
+
+©2014 IEEE. Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the IEEE.
+IEEE Xplore copy.
+
+A Wizard of Oz Intelligent Wheelchair Study with Cognitively Impaired Older Adults: Attitudes toward User Control.
+Pooja Viswanathan, Julianne L. Bell, Rosalie H. Wang, Bikram Adhikari, Alan K. Mackworth, Alex Mihailidis, William C. Miller, Ian M. Mitchell
+IROS Workshop on Assistive Robotics for Individuals with Disabilities: HRI Issues and Beyond (September, 2014).
+
+If the link above are broken, here is my copy of the paper.
+A full journal version of this work appeared in Autonomous Robots in 2015 (see above).
+
+"METTA: A tablet-based
+  platform for monitored at home training as demonstrated through the
+  EPICWheelS wheelchair skills training program" (extended version
+  with figures) Ian M. Mitchell, Boyang Tom Jin, Andy J. Kim,
+  Edward M. Giesbrecht and William C. Miller
+Proceedings of the Rehabilitation Engineering and Assistive Technology Society of North America (June, 2014).
+
+Conference poster.
+
+"Mobisense:
+  Lifespace tracking and activity monitoring on mobile phones"
+  Ian Dewancker, Jaimie F. Borisoff, Boyang Tom Jin and Ian
+  M. Mitchell.
+Proceedings of the Rehabilitation Engineering and Assistive Technology Society of North America (June, 2014).
+
+Conference talk.
+
+"Shared control policies for
+  safe wheelchair navigation of elderly adults with cognitive and
+  mobility impairments: Designing a Wizard of Oz study" (accepted
+  version) 
+Ian M. Mitchell, Pooja Viswanathan, Bikram Adhikari, Eric Rothfels and
+  Alan K. Mackworth.
+Proceedings of the American Control Conference, pp.4087-4094 (June, 2014).
+
+©2014 IEEE. Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the IEEE.
+IEEE Xplore copy.
+Conference talk.
+
+A PK/PD Model and Safety Constraints for Anesthesia Delivery.
+Victor Gan, Guy A. Dumont and Ian M. Mitchell.
+CPSWeek Workshop Applied Verification for Continuous and Hybrid Systems (April, 2014).
+
+Code for the
+benchmark.
+If the links above are broken, here are alternative copies
+of the paper and the code.
+
+Best
+  practices for scientific computing (open access published
+  version)
+Greg Wilson, D. A. Aruliah, C. Titus Brown, Neil P. Chue Hong, Matt
+Davis Richard T. Guy, Steven H. D. Haddock, Katy Huff, Ian
+M. Mitchell, Mark Plumbley, Ben Waugh, Ethan P. White and Paul Wilson
+PLOS Biology, 12(1): e1001745 (January, 2014).
+
+A preprint is available
+at arXiv:1210:0530
+(although you can get the published version for free, so I'm not sure
+why you would want to look at the preprint).
+
+
+
+2013
+
+Feasibility of the Enhancing Participation In the Community by improving Wheelchair Skills (EPICWheelS) program: Study Protocol for a Randomized Controlled Trial (open access published version)
+Edward M. Giesbrecht, William C. Miller, Janice J. Eng, Ian M. Mitchell, Roberta L. Woodgate, Charles H. Goldsmith
+BMC Trials, volume 14, page 350 (October, 2013).
+
+"Lagrangian methods for approximating the viability kernel in high-dimensional systems" (author version accepted for publication)
+John N. Maidens, Shahab Kaynama, Ian M. Mitchell, Meeko M. K. Oishi and Guy A. Dumont
+Automatica, volume 49, issue 7, pp. 2017-2029 (July, 2013).
+
+The published
+version is available at ScienceDirect.
+
+"Safety Preserving Control Synthesis for Sampled Data Systems" (author version accepted for publication)
+Ian M. Mitchell, Shahab Kaynama, Mo Chen and Meeko Oishi
+Nonlinear Analysis: Hybrid Systems, volume 10, pp. 63-82 (November, 2013).
+
+The published
+version is available at ScienceDirect.
+
+
+2012
+
+"Reproducible Research for Scientific Computing: Tools and Strategies for Changing the Culture"
+Randall J. LeVeque, Ian M. Mitchell and Victoria Stodden
+Computing in Science and Engineering volume 14, number 4, pp. 13-17 (July-August 2012).
+
+The published version is available from several different
+sources: IEEE
+Xplore, IEEE
+Computer Society or through
+the American Institute of
+Physics (although for some reason, the latter's DOI points to the
+IEEE Xplore copy).
+IEEE allows posting of preprints, but my preprint of this article
+is in an unreadable format.  If you do not have access to the links
+above, there may
+be other places on
+the web where you can find the article.
+
+"Ensuring Safety of Nonlinear Sampled Data Systems through Reachability" (extended version)
+Ian M. Mitchell, Mo Chen & Meeko Oishi.
+Proceedings of the IFAC Conference on Analysis and Design of Hybrid Systems (June, 2012).
+
+Official
+IFAC conference version.
+The extended version linked above is a preprint of the official
+version (cited in the official version as TechRep TR-2012-01, although
+it is actually TR-2012-02).  It contains a full proof of Proposition 1
+and some extra material in section 8.
+ Code for computing
+the examples
+(zipfile). Requires the Toolbox of
+Level Set Methods version 1.1.
+
+"Fixed-Complexity Piecewise Ellipsoidal Representation of the Continual Reachability Set based on Ellipsoidal Techniques" (accepted  version) 
+Shahab Kaynama, Meeko Oishi, Ian M. Mitchell, Guy A. Dumont.
+Proceedings of the American Control Conference, pp.2425-2430 (June, 2012).
+
+©2012 IEEE. Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the IEEE.
+IEEE Xplore copy.
+Conference talk.
+
+"Computing the Viability Kernel Using
+Maximal Reachable Sets" (version accepted for publication) 
+Shahab Kaynama, John Maidens, Meeko Oishi, Ian M. Mitchell, Guy A. Dumont.
+Hybrid Systems Computation and Control, pp. 55-64 (April 2012).
+
+The notice required by the ACM:  ©ACM, 2012. This is the author's version of the work. It is posted here by permission of ACM for your personal use. Not for redistribution. The definitive version was published in the Proceedings of the 15th International Conference on Hybrid Systems: Computation & Control (April 2012), doi: 10.1145/2185632.2185644.
+Slides
+from the talk given by Shahab Kaynama at the conference.
+ Code for computing
+the examples
+(zipfile).
+
+
+2011
+
+"The Continual Reachability Set
+and its Computation Using Maximal Reachability
+Techniques" (accepted version) 
+Shahab Kaynama, Meeko Oishi, Ian M. Mitchell, Guy A. Dumont.
+Proceedings of the IEEE Conference on Decision and Control and the European Control Conference (CDC-ECC), pp.6110-6115 (December, 2011).
+
+©2011 IEEE. Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the IEEE.
+IEEE Xplore copy.
+Conference talk.
+
+"An Ordered Upwind Method with Precomputed Stencil and Monotone Node Acceptance for Solving Static Hamilton-Jacobi Equations."
+Ken Alton and Ian M. Mitchell
+Journal of Scientific Computing, volume 51, number 2, pp. 313-348 (July, 2012).
+
+The published
+version is available at SpringerLink.
+
+"Scalable Calculation of Reach Sets
+and Tubes for Nonlinear Systems with Terminal Integrators: A Mixed
+Implicit Explicit Formulation" (version accepted for
+publication) Ian M. Mitchell.
+Hybrid Systems Computation and Control (April 2011).
+
+The notice required by the ACM:  ©ACM, 2011. This is the author's version of the work. It is posted here by permission of ACM for your personal use. Not for redistribution. The definitive version was published in the Proceedings of 14th International Conference on Hybrid Systems: Computation & Control (April 2011), doi: 10.1145/1967701.1967718.
+Slides from the talk given at the
+conference.
+ Code for computing
+the examples
+(zipfile). Requires the Toolbox of
+Level Set Methods version 1.1.
+
+
+2010
+
+"Reproducible Research: Addressing the Need for Data and Code Sharing in Computational Science"
+Yale Law School Roundtable on Data and Code Sharing
+Computing in Science and Engineering, volume 12, number 5, pp. 8-13 (September, 2010).
+
+The link above is to the open access published copy.  In other
+words, you should be able to get it for free.  If you cannot, let me know.
+
+
+
+2008
+
+"Efficient Dynamic Programming for Optimal Multi-Location Robot Rendezvous"
+Ken Alton and Ian M. Mitchell.
+Proceedings of the Conference on Decision and Control, pp. 2794-2799 (December, 2008).
+
+©2008 IEEE. Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the IEEE.
+IEEE Xplore copy
+To see the conference talk, visit Ken Alton's web page.
+
+"Fast Marching Methods for Stationary Hamilton-Jacobi Equations with Axis-Aligned Anisotropy"
+Ken Alton and Ian M. Mitchell
+SIAM Journal of Numerical Analysis, volume 47, number 1, pp. 363-385 (November, 2008).
+
+©2008 Society for Industrial and Applied Mathematics.
+SIAM copy.
+
+"The Flexible, Extensible and Efficient Toolbox of Level Set Methods." (almost the version accepted for publication)
+Ian M. Mitchell.
+Journal of Scientific Computing, volume 35, numbers 2-3, pages 300-329 (June 2008).
+
+The only difference between the version linked above and the
+version of the paper accepted for publication is that the version
+linked above omits an appendix of tables containing the alpha-beta
+parameters for the temporal integrator schemes from section 3.1.
+Readers seeking those parameter values may find them in Spiteri &
+Ruuth (citation [38]), the function odeCFLab in the code download
+below, or in the Springer published version of this article.
+The published
+version is available at SpringerLink.
+Code for the new features described in section 3: tarball or zipfile. Requires version 1.1
+of the Toolbox of Level Set
+Methods.  
+Slides for the
+related talk, providing a brief overview of the features of the
+Toolbox version 1.1 (paper sections 2.1 - 2.3 & 2.5), some internal
+design patterns used for flexibility and efficiency (paper section
+2.4), the new SSP RK integrators and a new motion by mean curvature
+scheme (paper section 3).  This talk was first given at the International Conference on Industrial
+and Applied Mathematics 2007.
+
+"Level Set Methods for Computing Reachable Sets of Systems with Differential Algebraic Equation Dynamics"
+Elizabeth Ann Cross and Ian M. Mitchell.
+Proceedings of the American Control Conference, pp. 2260-2265 (June, 2008).
+
+©2008 IEEE. Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the IEEE.
+IEEE Xplore copy.
+Code (requires version 1.1 of the Toolbox of Level Set Methods):
+reachable sets on the constraint
+manifold (tarball) or reachable sets on the constraint
+manifold (zipfile).
+
+"Level Set Methods for Computing Reachable Sets of Hybrid Systems with Differential Algebraic Equation Dynamics" short paper (version accepted for publication)
+Ian M. Mitchell and Yoshihiko Susuki.
+Hybrid Systems Computation and Control (April 2008).
+
+Appeared in Springer-Verlag's Lecture Notes in Computer Science
+(LNCS) 4981, pp. 630-633.
+The published version is available at SpringerLink.
+This very short paper is intended as a companion to the ACC 2008 submission listed
+below, and it will not make much sense without reading that paper as
+well.
+ Code for computing the hybrid reachable tube
+(tarball) or hybrid
+reachable tube (zipfile). Requires the Toolbox of Level Set Methods version 1.1.
+
+"Invariance-Preserving Abstractions: Application to User-Interface Design"
+Meeko M. K. Oishi, Ian M. Mitchell, Alexandre M. Bayen, and Claire J. Tomlin
+IEEE Transactions on Control System Technology, volume 16, number 2, pages 229-244 (March 2008).
+
+Unfortunately, I just discovered recently that this paper was not listed on my web page, and I don't appear to have an author preprint to post.
+IEEE Xplore copy
+Of course, there may be other places on the web where you can find the article.
+
+
+2007
+
+"Multiple Aircraft Deconflicted Path Planning with Weather Avoidance Constraints"
+Jessica J. Pannequin, Alexandre M. Bayen, Ian M. Mitchell, Hoam Chung & Shankar Sastry
+Proceedings of the AIAA Guidance, Navigation, and Control Conference (August 2007).
+
+Unfortunately, AIAA does not appear to permit self-archiving.  It looks like copies can be ordered from AIAA's publications web site, but my institution does not subscribe so I cannot verify that fact.  If you are a member of AIAA, lobby them to allow self-archiving.
+Of course, there may be other places on the web where you can find the article.
+
+"Comparing Forward & Backward Reachability as Tools for Safety Analysis." (version accepted for publication)
+Ian M. Mitchell.
+Hybrid Systems Computation and Control (April 2007).
+
+Appeared in Springer-Verlag's Lecture Notes in Computer Science
+(LNCS) 4416, pp. 428-443.  
+The published version is available at SpringerLink.
+Slides (3.4 MB) from the talk
+given at the conference.
+The technical report version TR-2006-23 contains all the proofs, plus several additional examples.
+
+"Aircraft Autolander Safety Analysis Through Optimal Control-Based Reach Set Computation"
+Alexandre M. Bayen, Ian M. Mitchell, Meeko M. K. Oishi and Claire J. Tomlin
+AIAA Journal of Guidance, Control & Dynamics, volume 30, number 1, pages 68-77 (January-February 2007).
+
+Unfortunately, AIAA does not appear to permit self-archiving.  If you are a member of AIAA, lobby them to allow self-archiving.
+AIAA Version.
+Of course, there may be other places on the web where you can find the article.
+
+
+2006
+
+"Computing Viable Sets and Reachable Sets to Design Feedback Linearizing Control Laws Under Saturation"
+Meeko Oishi, Ian Mitchell, Claire Tomlin and Patrick Saint-Pierre.
+Proceedings of the 45th IEEE Conference on Decision and Control, pages 3801-3807 (December, 2006).
+
+©2006 IEEE. Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the IEEE.
+IEEE Xplore copy
+
+"Optimal Path Planning under Different Norms in Continuous State Spaces."
+Ken Alton and Ian M. Mitchell.
+Proceedings of the International Conference on Robotics and Automation, pp. 866-872 (May, 2006).
+
+©2006 IEEE. Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the IEEE.
+IEEE Xplore copy
+
+"Control Synthesis for State Constrained Systems and Obstacle Problems."
+Alexander B. Kurzhanski, Ian M. Mitchell and Pravin Varaiya.
+Journal of Optimization Theory and Applications, volume 128, number 3, pages 499-521 (March, 2006).
+
+The published version is available at SpringerLink.
+A conference version of this work appeared in the IFAC Symposium on Nonlinear Control Systems (September, 2004).
+Some m-files
+for the example from the IFAC paper are available (also a zip version).
+They require the Toolbox of Level Set
+Methods to execute.
+
+
+2005
+
+"Online Safety Calculations for Glideslope Recapture"
+Jonathan Sprinkle, Aaron D. Ames, J. Mikael Eklund, Ian M. Mitchell and Shankar S. Sastry
+Innovations in Systems and Software Engineering, volume 1, number 2, pp. 157-175 (July 2005).
+
+The published
+version is available
+at SpringerLink.
+
+"A Time-Dependent Hamilton-Jacobi Formulation of Reachable Sets for Continuous Dynamic Games."
+Ian M. Mitchell, Alexandre M. Bayen and Claire J. Tomlin.
+IEEE Transactions on Automatic Control, volume 50, number 7, pages 947-957 (July 2005).
+
+©2005 IEEE. Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the IEEE.
+IEEE Xplore copy
+
+"A Toolbox of Hamilton-Jacobi Solvers for Analysis of Nondeterministic Continuous and Hybrid Systems." (version accepted for publication)
+Ian M. Mitchell and Jeremy A. Templeton.
+Hybrid Systems Computation and Control (March 2005).
+
+Appeared in Springer-Verlag's Lecture Notes in Computer Science
+(LNCS) 3414, pp.480-494.  
+The published version is available at SpringerLink.
+Slides (3.5 MB) from the talk
+given at the conference.
+Figure 1(b) on p. 486 was supposed to contain an image with a
+square target set.  Contrary to the text, the time to reach function
+for the circular target set that actually appeared is continuous (but
+not Lipschitz continuous).  The time to reach function for the square
+target set (shown on p. 11 of the slides) is discontinuous and corresponds
+to the text.  Both versions can be produced with the example codes below.
+Examples from section 3 (Cost to Go) are included as part of the
+Toolbox of Level Set
+Methods version 1.1.
+Examples from sections 4 (Stochastic Continuous Systems) and 5
+(Stochastic Hybrid Systems) are available as a separate
+download.  These codes also require version 1.1
+
+
+2004
+
+"Control Synthesis for State Constrained Systems and Obstacle Problems."
+Alexander B. Kurzhanski, Ian M. Mitchell & Pravin Varaiya.
+Proceedings of the IFAC Symposium on Nonlinear Control Systems (September 2004).
+
+I have been unable to find a published version online, but there is a journal version (subscription required) that appeared in the Journal of Optimization Theory and Applications.  For more details, see the journal version's entry above.
+Some m-files
+for the example are available (also a zip version).
+They require the Toolbox of Level Set
+Methods to execute.  
+
+
+2003
+
+"Overapproximating Reachable Sets by Hamilton-Jacobi Projections." (version accepted for publication)
+Ian Mitchell and Claire Tomlin.
+Journal of Scientific Computing, volume 19, number 1-3, pages 323-346 (December 2003).
+
+The 
+published version is available at SpringerLink.
+
+"Continuous Path Planning with Multiple Constraints."
+Ian M. Mitchell and Shankar Sastry.
+Proceedings of the 42nd IEEE Conference on Decision and Control, pages 5502-5507 (December 2003).
+
+©2003 IEEE. Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the IEEE.
+IEEE Xplore copy
+An extended version is available as  UC Berkeley Engineering Research Laboratory Technical Report UCB/ERL M03/34 (August 2003).  Note that the equations in the appendix for T1 - T4, condition (5) and Pi(x0) are incorrect.  See the Alton &amp Mitchell SINUM article listed above for a correct treatment of the fast marching method in alternative norms.
+
+"A Differential Game Formulation of Alert Levels in ETMS Data for High Altitude Traffic."
+Alexandre Bayen, Shriram Santhanam, Ian Mitchell and Claire Tomlin.
+Proceedings of the AIAA Guidance, Navigation, and Control Conference (August 2003).
+
+Unfortunately, AIAA does not appear to permit self-archiving.  It looks like copies can be ordered from AIAA's publications web site, but my institution does not subscribe so I cannot verify that fact.  If you are a member of AIAA, lobby them to allow self-archiving.
+Of course, there may be other places on the web where you can find the article.
+
+"Computational Techniques for the Verification of Hybrid Systems."
+Claire Tomlin, Ian Mitchell, Alexandre Bayen and Meeko Oishi.
+Proceedings of the IEEE, volume 91, number 7, pages 986-1001 (July 2003).
+
+©2003 IEEE. Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the IEEE.
+IEEE Xplore copy
+The proof of the correctness of this formulation of reachable sets (at least for continuous systems) appears in Mitchell, Bayen & Tomlin, IEEE TAC 2005.
+
+
+2002
+
+"Hybrid Verification of an Interface for an Automatic Landing."
+Meeko Oishi, Ian Mitchell, Alexandre Bayen, Claire Tomlin and Asaf Degani.
+Proceedings of the 41st IEEE Conference on Decision and Control, pp. 1607-1613 (December, 2002).
+
+©2002 IEEE. Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the IEEE.
+IEEE Xplore copy
+
+"A Hybrid Particle Level Set Method for Improved Interface Capturing" (early draft)
+Douglas Enright, Ronald Fedkiw, Joel Ferziger and Ian Mitchell.
+Journal of Computational Physics, volume 183, number 1, pp. 83-116 (November, 2002).
+
+The published version is available from the Journal of Computational Physics at Science Direct.
+
+
+2001
+
+"Validating a Hamilton-Jacobi Approximation to Hybrid System Reachable Sets."
+Ian Mitchell, Alexandre Bayen and Claire Tomlin.
+Hybrid Systems Computation and Control (April 2001).
+
+Appeared in Springer-Verlag's Lecture Notes in Computer Science
+(LNCS) 2034, pp. 418-432.  
+The published version is available at SpringerLink.
+This work has since appeared in a more refined form in Tomlin, Mitchell, Bayen & Oishi, Proc. IEEE 2003 and Mitchell, Bayen & Tomlin, IEEE TAC 2005.
+
+
+2000
+
+"Level Set Methods for Computation in Hybrid Systems."
+Ian Mitchell and Claire Tomlin.
+Hybrid Systems Computation and Control (April 2000).
+
+Appeared in Springer-Verlag's Lecture Notes in Computer Science
+(LNCS) 1790, pp. 310-323.
+The published version is available at SpringerLink.
+This work has since appeared in a more refined form in Tomlin, Mitchell, Bayen & Oishi, Proc. IEEE 2003 and Mitchell, Bayen & Tomlin, IEEE TAC 2005.
+
+
+1999
+
+"Reachability Analysis Using Polygonal Projections."
+Mark Greenstreet and Ian Mitchell.
+Hybrid Systems Computation and Control (April 1999).
+
+Appeared in Springer-Verlag's Lecture Notes in Computer Science
+(LNCS) 1569, pp. 103-116.
+The published version is available at SpringerLink.
+
+
+1998
+
+"Integrating Projections."
+Mark Greenstreet and Ian Mitchell.
+Hybrid Systems Computation and Control (April 1998).
+
+Appeared in Springer-Verlag's Lecture Notes in Computer Science
+(LNCS) 1386, pp. 159-174.
+The published version is available at SpringerLink.
+
+
+
+Books
+
+Proceedings of the 6th ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS 2015)
+Edited by Xenofon Koutsoukos and Ian M. Mitchell.
+ACM (April, 2015).
+Proceedings of the 15th ACM International Conference on Hybrid Systems: Computation and Control (HSCC 2012)
+Edited by Thao Dang and Ian M. Mitchell.
+ACM (April, 2012).
+Design
+and Use of Assistive Technology: Social, Technical, Ethical, and
+Economic Challenges
+Edited by Meeko Mitsuko K. Oishi, Ian M. Mitchell and H. F. Machiel Van der Loos.
+Springer (2010).
+
+Eleven papers invited from participants of a
+workshop Removing
+barriers and enabling individuals: Ethics, design, and use of
+assistive technology held July 22-24 at
+the Peter Wall Institute for Advanced
+Studies at UBC.
+
+
+Technical Reports and Other Publications
+
+"A Toolbox of Level Set Methods."
+Ian M. Mitchell.
+UBC Department of Computer Science Technical Report TR-2007-11 (June 2007).
+
+This techrep is the documentation for the current version of the
+Toolbox, and is included in the Toolbox download.  
+
+"Comparing Forward and Backward Reachability as Tools for Safety Analysis."
+Ian M. Mitchell.
+UBC Department of Computer Science Technical Report TR-2006-23 (April 2007).
+
+This is the long version of the HSCC
+2007 paper, containing all of the proofs and some additional
+examples.  
+
+"A Toolbox of Level Set Methods."
+Ian Mitchell.
+UBC Department of Computer Science Technical Report TR-2004-09 (July 2004).
+
+This techrep is for version 1.0 of the Toolbox, and has thus been
+superceded by TR-2007-11.
+
+"Demonstrating Numerical Convergence to the Analytic Solution of some Backwards Reachable Sets with Sharp Features."
+Ian Mitchell.
+UBC Department of Computer Science Technical Report TR-2004-01 (January 2004).
+
+This techrep was written to support some claims made in Mitchell, Bayen & Tomlin, IEEE
+TAC 2005 regarding the accuracy of the Hamilton-Jacobi PDE formulation
+of reachable sets.
+
+"Continuous Path Planning with Multiple Constraints"
+Ian Mitchell & Shankar Sastry.
+University of California at Berkeley Electronics Research Laboratory Memorandum UCB/ERL M03/34 (August 2003).
+
+This is the long version of the CDC 2003 paper.
+Note that the equations in the appendix for T1 - T4, condition (5) and Pi(x0) are incorrect.  We are presently (July 2007) in review on an extension which will fix these problems.
+
+"Application of Level Set Methods to Control and Reachability Problems in Continuous and Hybrid Systems".
+Ian Mitchell.
+Stanford University Scientific Computing and Computational Mathematics Program Ph.D. Thesis (August 2002).
+
+Note that equation (3.1) has a "v_a" on the second line that
+should be "v_b," and there are some technical problems with the proof
+given in section 2.4.  Both errors are corrected in Mitchell, Bayen & Tomlin, IEEE
+TAC 2005.  
+Code recreating the examples from sections 3.1, 3.2
+and 6.1.2 can be found in the Toolbox
+of Level Set Methods.  
+
+"Games of Two Identical Vehicles."
+Ian Mitchell.
+Stanford University Department of Aeronautics and Astronautics Report (SUDAAR) 740 (July 2001).
+
+The results described here were used to validate the accuracy of
+the Hamilton-Jacobi formulation of reachable sets in several of the
+papers listed above.  
+To my knowledge, this is the only truly three dimensional,
+non-convex level set (dynamic implicit surface) problem displaying
+characteristics that both converge to a shock and diverge for which we
+have an (almost) analytic solution.
+Code for generating the (almost) analytic solution as described in section 4: tarball or zipfile.
+
+
+
+Talks
+
+Here are some talks I have given which do not directly correspond to
+research publications.
+
+
+"Formal Identification of
+DC Operating Points in Integrated Circuits and some Lessons in
+(Ir)Reproducible Research in Computational Math", a talk given
+at Computational
+Math Day at SFU's IRMACS.
+
+
+
+Links
+Local Research Groups:
+
+Scientific Computing Laboratory (SCL).
+Scientific Computing and Applied and Industrial Mathematics (SCAIM).
+Laboratory for Computational Intelligence (LCI).
+Integrated Systems Design Laboratory (ISD).
+Institute of Applied Mathematics (IAM) at UBC.
+Pacific Institute for the Mathematical Sciences (PIMS).
+
+
+Conferences and Workshops:
+
+International
+Conference on Cyber Physical Systems (ICCPS).
+
+
+Useful Stuff:
+
+Creating high-quality graphics in Matlab for Papers and Presentations, a blog post from Tamara Kolda and David Gleich.
+Walking Randomly:
+A Month of Math Software blog, full of neat links and observations
+about tools for scientific computing.
+
+A collection of Matlab resources, with emphasis on links that can help beginners.
+The U.K. SHERPA RoMEO project, which collected and compares the publisher copyright policies for many technical societies and publishing houses.  
+
+Many of the publishers that I deal with have quite reasonable self-archiving policies which permit authors to post some version of their papers; however, the details vary and can be quite specific.  This project summarizes the policies and has links to the actual wording, which can be quite useful if you want to keep your website legal.
+For example, among the publishers that I have used, ACM, Elsevier, IEEE, SIAM, and Springer Verlag (including Kluwer) all get RoMEO green designations (the most author friendly designation).  But remember to read the details of the publishers' policies before posting any copyrighted information.
+Authors: Support the publishers with liberal policies.  Lobby the other publishers to follow suit.  Government sponsored academic research is done for the common good, and while the publishers must support their editorial staff, they should not be permitted to govern all access to our results for eternity, thereby locking out those who cannot afford expensive subscription fees.
+
+SIAM has a web site and brochure
+about careers in applied mathematics, of which scientific computing is
+a huge component.
+
+ Proceedings for Hybrid Systems Computation and Control: 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1998
+
+
+Postdoctoral Work
+
+
+
+Selected Topics
+ Constrained Path Planning in continuous state spaces (images at right).
+   Softwalls (preventing the use of commercial aircraft as weapons).
+ Performed at  (September 2002 to July 2003)
+   80% in the  Robotics Lab,
+   EECS Department,
+  University of California at Berkeley
+ 20% in the
+   Physically Based Modeling Group,
+  Computer Science Department,
+  Stanford University.
+ Postdoctoral Supervisors: 
+Shankar Sastry
+      from the EECS Department
+Ronald Fedkiw
+      from the Computer Science Department
+
+
+
+
+
+
+avi mpg
+
+
+
+
+Doctoral Work
+
+
+Selected Topics
+ Calculating reachable sets for Continuous and Hybrid Systems
+   Level Set Methods and Algorithms
+ Performed in  (September 1997 to August 2002)
+    SCCM program,
+   Stanford University 
+ Doctoral Supervisors: 
+Claire Tomlin
+      from the Aero/Astro Department
+Ronald Fedkiw
+      from the Computer Science Department
+
+
+
+
+Growing Set: avi mpg
+Final Set: avi mpg
+
+
+
+
+
+
+
+
+
+Created 19 August 2003.
+Last updated 02 October 2017.
+
+Created and maintained by Ian M. Mitchell.
+
+

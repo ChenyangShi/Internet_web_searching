@@ -1,0 +1,381 @@
+
+
+
+About Me
+Research
+Teaching
+Calendar
+
+
+
+
+
+
+
+
+ Dec. 4, 2016-At SIGGRAPH Asia? Come see Tim Langlois talk about Stochastic FEM  and I'll present Solid Fluid Coupling.
+
+
+ Aug. 26, 2016-I am looking for PhD students excited about simulation, animation and fabrication
+
+
+ July 1, 2016-I joined the Dynamic Graphics Project at the University of Toronto as an Assistant Professor
+
+
+
+
+
+
+Latest Publication
+
+
+
+
+
+
+
+V. Megaro, E. Knoop, A. Spielberg, D. Levin, W. Matusik, M. Gross, B. Thomaszewski, M. Bächer
+      Designing Cable-Driven Actuation Networks for Kinematic Chains and Trees
+Symposium for Computer Animation 2017
+      
+       
+
+
+
+About Me
+
+
+
+
+
+           I love numerical simulation! My main research interest is in using new simulation techniques to allow artists, engineers and scientists to study and create -- everything from animations to machines. Currently I pursue this goal as an Assistant Professor at the University of Toronto. I've also spent time as an Associate Research Scientist at Disney Research and  a postdoc with Prof. Wojciech Matusik at MIT. Before my tenure in Boston, MA I studied Sensorimotor computation under Dinesh K. Pai at the University of British Columbia and spent 3-months at WETA Digital working on biomechanics based simulation. When not stuck in front of a computer I enjoy skiing, boardgames, crossfit, and am slowly learning to play the ukelele (emphasis on learning and slowly ...). 
+            
+
+
+Select Research
+Papers
+
+
+
+
+
+
+
+V. Megaro, E. Knoop, A. Spielberg, D. Levin, W. Matusik, M. Gross, B. Thomaszewski, M. Bächer
+      Designing Cable-Driven Actuation Networks for Kinematic Chains and Trees
+Symposium for Computer Animation 2017
+      
+       
+
+
+
+
+
+
+
+
+
+Desai Chen, David I.W. Levin, Wojciech Matusik and Danny M. Kaufman
+      Dynamics-Aware Numerical Coarsening for Fabrication Design
+SIGGRAPH 2017
+      
+       
+
+
+
+
+
+
+
+Adriana Schulz, Ariel Shamir, Ilya Baran, David I.W. Levin, Pitchaya Sitthi-Amorn and Wojciech Matusik 
+      Retrieval on Parametric Shape Collections 
+ACM Transactions on Graphics  2017
+      
+       
+
+
+
+
+
+
+
+
+
+Yun Teng, David I.W. Levin, Theodore Kim
+      Eulerian Solid-Fluid Coupling
+SIGGRAPH Asia  2016
+      
+       
+
+
+
+
+
+
+
+
+
+Timothy Langlois, Ariel Shamir, Daniel Dror, Wojciech Matusik, David I.W. Levin
+      Stochastic Structural Analysis for Context-Aware Design and Fabrication
+SIGGRAPH Asia 2016
+      
+       
+
+
+
+
+
+
+
+
+
+Dingzeyu Li, David I.W. Levin, Wojciech Matusik, Changxi Zheng 
+      Acoustic Voxels: Computational Optimization of Modular Acoustic Filters 
+SIGGRAPH 2016
+      
+       
+
+
+
+
+
+
+
+
+
+Michal Piovarči, David I.W. Levin, Jason Rebello, Desai Chen, Roman Ďurikovič, Hanspeter Pfister, Wojciech Matusik, Piotr Didyk
+      An Interaction-Aware, Perceptual Model For Non-Linear Elastic Objects
+SIGGRAPH 2016
+      
+       
+
+
+
+
+
+
+
+Fredrik Kjolstad, Shoaib Kamil,  Jonathan Ragan-Kelley, David I.W.  Levin, Shinjiro Sueda, Desai Chen, Etienne Vouga, Danny M. Kaufman, Gurtej Kanwar, Wojceich Matusik,  Saman Amarasinghe
+      Simit: A Language for Physical Simulation
+ACM Transactions on Graphics 2016
+      
+       
+
+
+
+
+
+
+
+
+
+Gaurav Bharaj, David I.W. Levin, James Tompkin, Yun Fei, Hanspeter Pfister, Wojciech Matusik, Changxi Zheng
+      Computational Design of Metallophone Contact Sounds
+SIGGRAPH Asia 2015
+       
+      
+ Featured in: Wired
+
+ 
+
+
+
+
+
+
+
+
+
+Desai Chen, David I.W. Levin, Shinjiro Sueda, Wojciech Matusik
+      Data-Driven Finite Elements for Geometry and Material Design
+SIGGRAPH 2015
+      
+       
+
+
+
+
+
+
+
+
+
+Richard Malgat, Benjamin Gilles, David I.W. Levin, Matthieu Nesme, Francois Faure 
+      Multifarious Hierarchies of Mechanical Models for Artist Assigned Levels-of-Detail
+Symposium for Computer Animation 2015
+      
+       
+
+
+
+
+
+
+
+
+
+Adriana Schulz, Ariel Shamir, David I.W. Levin, Pitchaya Sitthi-amorn, Wojciech Matusik
+      Design and Fabrication by Example
+SIGGRAPH 2014
+      
+       
+
+
+
+
+
+
+
+Dinesh K. Pai, David I.W. Levin, Ye Fan
+      Eulerian Solids for Muscles and More!
+SIGGRAPH (Courses) 2014
+      
+       
+
+
+
+
+
+
+
+
+
+Desai Chen, David I.W. Levin, Piotr Didyk, Pitchaya Sitthi-Amorn, Wojciech Matusik
+      Spec2Fab: A Reducer-Tuner Model for Translating Specifications to 3D Prints
+SIGGRAPH 2013
+      
+       
+
+
+
+
+
+
+
+
+
+Ye Fan, Joshua Litven, David I.W. Levin, Dinesh K. Pai
+      Eulerian-On-Lagrangian Simulation
+ACM Transactions on Graphics 2013
+      
+       
+
+
+
+
+
+
+
+
+
+Shinjiro Sueda, Garrett L. Jones, David I. W. Levin, Dinesh K. Pai
+      Large-Scale Dynamic Simulation Of Highly Constrained Strands
+SIGGRAPH 2011
+      
+       
+
+
+
+
+
+
+
+
+
+David I.W. Levin, Joshua Litven, Garrett L. Jones, Shinjiro Sueda, Dinesh K. Pai 
+      Eulerian Solid Simulation with Contact
+SIGGRAPH 2011
+      
+       
+
+
+
+
+
+
+
+David I.W. Levin, Benjamin Gilles, Burkhard Madler,  Dinesh K. Pai
+      Extracting skeletal muscle fiber fields from noisy diffusion tensor data
+MEDICAL IMAGE ANALYSIS 2011
+      
+       
+
+
+
+
+
+
+
+David I.W. Levin, Benjamin Gilles, Burkhard. Madler, Dinesh .K. Pai
+      A fiber tracking method for building patient specific dynamic musculoskeletal models from diffusion tensor data
+MICCAI Workshop on Computational Diffusion MRI 2008
+      
+       
+
+
+Posters
+
+
+
+
+
+Timothy Jeruzalski Eugene Fiume Alec Jacobson David I.W. Levin
+      Online Compression of Rigid Body Simulations using Physics-Inspired Interpolation
+Symposium for Computer Animation (Best Poster Award) 2017
+      
+       
+
+
+
+
+
+
+
+Kyle Piddington, David I.W. Levin, Dinesh K. Pai, Shinjiro Sueda
+      Eulerian-on-Lagrangian Cloth Simulation
+Symposium for Computer Animation (Best Poster Award) 2015
+      
+       
+
+
+Thesis
+
+
+
+
+
+David I.W. Levin
+      Dynamic, Patient Specific, Musculoskeletal Models (PhD Thesis)
+University of British Columbia 2012
+      
+       
+
+
+
+
+
+
+
+David I.W. Levin
+      The Implementation and Initial Validation of a Hybrid Deformable Algorithm for Simulating Prostate Brachytherapy (MSc Thesis)
+University of Western Ontario 2006
+      
+       
+
+
+
+Teaching
+
+
+Computational Fabrication (Co-Instructor) 2014
+6.S079 
+MIT
+
+
+Advanced Topics in Computer Graphics (Co-Instructor) 2013
+6.838 
+MIT
+
+
+
+

@@ -1,0 +1,680 @@
+
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-11803764-2', 'uchicago.edu');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+
+
+
+
+
+Sanja Fidler
+Students
+Research
+Publications
+Teaching
+Data
+Code
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sanja FidlerAssistant ProfessorUniversity of TorontoDepartment of Computer Science
+
+
+
+Contact Information:
+
+
+
+6 King's College Rd.
+Room 386, Pratt Building
+Toronto, Ontario M5S 3G4
+Canada
+Phone: +1 (416) 978-8737
+Email: &nbsp&nbspfidler at cs dot toronto dot edu
+
+
+
+
+
+
+Information
+
+
+
+
+     I am an Assistant Professor at University of Toronto. Prior coming to Toronto, in 2012/2013, I was a Research Assistant Professor at  Toyota Technological Institute at Chicago, an academic institute located in the campus of University of Chicago.
+    I did my postdoc with Prof.  Sven Dickinson at University of Toronto in 2011/2012. I finished my PhD in 2010 at University of Ljubljana in Slovenia in the group of Prof.  Ales Leonardis. In 2010, I was visiting
+    Prof.  Trevor Darrell's group at UC Berkeley and ICSI. I got my BSc degree in Applied Math at University of Ljubljana. 
+More information is in my CV.
+
+
+
+
+
+
+Information for Prospective Students
+
+
+     I'm looking for motivated MSc/PhD and visiting students, as well as a postdoc.
+
+
+
+
+Research Interests
+
+My work is in the area of Computer Vision. My main research interests are 2D and 3D object detection, particularly scalable multi-class detection, 
+object segmentation and image labeling, and (3D) scene understanding. 
+I am also interested in the interplay between language and vision: generating sentential descriptions about complex scenes, as well as
+using textual descriptions for better scene parsing (e.g., in the scenario of the human-robot interaction).
+
+
+
+
+
+News
+
+
+
+
+Mar 26, 2018Released code for Polygon-RNN++ (CVPR'18)
+Mar 26, 2018Giving a talk at GTC'18
+Mar 05, 20181 oral, 2 spotlights, and 4 posters accepted to CVPR'18
+Feb 19, 2018Talk at the CVPR'18 AC meeting
+Jan 08, 2018Giving a talk at the New Deep Learning Techniques (DLT'18) school at IPAM
+Jan 29, 20181 paper accepted to ICLR'18
+Dec 08, 2017Giving a talk at the VIGIL workshop at NIPS
+Dec 03, 2017Giving a talk at the CIFAR workshop at NIPS
+Nov 08, 2017Giving a talk at NVIDIA event at UofT
+Nov 02, 2017Will serve as Area Chair of ECCV'18
+Oct 27, 2017Will serve as Program Chair for ICCV'21
+Oct 03, 2017Giving a talk at Re-Work Deep Learning Summit in Montreal
+Oct 03, 2017Giving a talk at Facebook Faculty Summit
+Sep 13, 2017Giving a talk at Elevate AI. Event featured in UofT news
+Sep 04, 20171 paper accepted to NIPS'17
+Aug 10, 2017Serving as Area Chair for ICLR'18
+Aug 04, 20172 orals, 1 spotlight, and 4 posters accepted to ICCV'17
+Aug 03, 2017Giving a talk at the ACL'17 Workshop on Representation Learning for NLP
+July 25, 2017Featured in CVPR Daily News
+July 22, 2017Our paper on Annotating Object Instances with Polygon-RNN received the Best Paper Honorable Mention award at CVPR'17!
+July 26, 2017Giving a talk at CVPR'17 Workshops on Deep-Vision: Deep Learning in Computer Vision, Visual Question Answering Challenge, and Continuous and Open-Set Learning
+July 11, 2017Invited lecture at the International Computer Vision Summer School (ICVSS'17)
+July 04, 2017Giving a talk at the Google Faculty Summit in Zurich
+May 25, 2017Giving a talk at RE-WORK's Deep Learning Summit in Boston
+May 05, 2017Giving a talk at NVIDIA's GPU Technology Conference (GTC'17)
+Apr 08, 2017Serving as Area Chair for CVPR'18
+Apr 04, 2017Serving as Area Chair for AAAI'18
+Mar 30, 2017Co-founded the Vector Institute, launched on March 30, 2017
+Mar 03, 20171 oral and 2 posters accepted to CVPR'17
+Feb 18, 2017Giving a talk at TEDxUofT
+Jan 30, 2017Serving as Area Chair for NIPS'17
+Jan 24, 2017Giving a talk at the Robust Vision Symposium at MPI Tuebingen
+
+Older News Archive &nbsp&nbsp&nbsp(click to Expand / Collapse)
+
+
+
+
+Dec 16, 2016Serving as Area Chair for ICCV'17
+Dec 01, 2016Received the Amazon Academic Research Award
+Nov 24, 2016Giving a talk at the Fields ML Seminar
+Nov 24, 2016Giving a talk at the undergraduate A.I. Day at UofT
+Nov 11, 2016Our work on pop music generation has been featured in the media
+Oct 16, 2016Giving a talk at the Workshop on Storytelling with Images and Videos  at ECCV'16
+Oct 09, 2016Giving a talk at the Joint Imagenet and MS Coco Visual Recognition Challenge Workshop at ECCV'16
+Sep 28, 2016Serving as Area Chair for EMNLP'17
+Sep 19, 2016Serving as Area Chair for CVPR'17
+July 08, 2016Serving as Area Chair for ICLR'17
+Jun 24, 2016The data for our Scene Parsing Challenge is released. The challenge will be part of the LSVRC competition held at the 2nd ImageNet and COCO Visual Recognition Challenges Joint Workshop at ECCV'16. Link to the full ADE20K dataset and paper
+Jun 24, 2016The website for our ECCV'16 workshop on Geometry Meets Deep Learning is now live
+Jun 06, 2016We released code for object instance segmentation for our CVPR'16 paper
+Apr 28, 2016Giving a talk at the Deep Learning Workshop at ICML'16 on June 23
+Apr 21, 2016Received Facebook faculty award
+Apr 06, 2016Rich, Raquel and myself received the Pioneers of AI award from NVIDIA, in the form of a supercomputer
+Apr 06, 2016Giving a talk at CMU on April 19th
+Apr 06, 2016Giving a talk at University of Pittsburgh on April 20th
+Mar 31, 2016Giving a talk at UofT
+Mar 08, 2016Our MovieQA work has been featured in MIT Tech Review
+Mar 08, 2016One spotlight and 3 posters accepted at CVPR'16
+Feb 29, 2016Talk at the CVPR'16 AC meeting
+Feb 02, 2016One paper accepted as an oral presentation at ICLR'16
+Jan 26, 2016Serving as a Program Chair of the International Conference on 3D Vision
+Jan 15, 2016Invited talk at York University
+Dec 03, 2015Code for 3D object proposals released! Currently third for Car, and first Pedestrians and Cyclists on KITTI
+Dec 02, 2015Invited talk in the Scenes from Video Workshop, in conjunction with ICCV'15, on Dec 18
+Dec 02, 2015Invited talk in the Workshop on Closing the Loop Between Vision and Language at ICCV'15 on Dec 17
+Dec 02, 2015Invited talk in the Describing and Understanding Video Workshop at ICCV'15 on Dec 12
+Dec 02, 2015Invited talk in the 3D Scene Understanding Workshop at ICCV'15 on Dec 11
+Nov 26, 2015Code for order-embeddings released! State-of-the-art in caption-image retrieval on COCO
+Nov 19, 2015Serving as Area Chair for EMNLP'16
+Nov 08, 2015Serving as Area Chair for ACCV'16
+Sep 15, 2015Released the Fashion144K dataset with fashion related tags and fashionability scores
+Sep 04, 20152 papers accepted at NIPS'15
+Sep 02, 20152 orals and 4 posters accepted at ICCV'15
+Aug 14, 2015Released textual (multi-sentence) descriptions for NYUv2 images collected for our CVPR'14 paper
+Aug 14, 2015Ground-truth car instance segmentations on 300 KITTI images released. We also released automatically generated instance segmentations for the full KITTI detection benchmark. 
+Jul &nbsp01, 2015Will serve as Area Chair of CVPR'16
+Jun 25, 2015Our work on fashionability has been featured on a number of news and tech websites, as well as in online fashion magazines, in several countries around the world. See press below for more details. 
+Jun 11, 2015Invited talk at the Women in Computer Vision workshop in conjunction with CVPR'15
+Jun 09, 2015Data for Rent3D released
+Jun 09, 2015Code and data for segDeepM released
+Jun 09, 2015Received outstanding reviewer award at CVPR'15
+Jun 05, 2015Invited talk at CRV Symposia
+Jun 02, 2015Organizing video competition for the undergraduate summer research program
+Apr 17, 2015Awarded Professor of the Year, 2014-2015, by the UofT's Computer Science Student Union. Thanks! :)
+Apr 12, 2015Talk at Deep Learning for Vision workshop in conjunction with DALI'15
+Apr 01, 2015Awarded the NSERC-Discovery Grant
+Mar 20, 2015Invited talk at the GRASP vision seminar at UPenn
+Mar 01, 20152 orals and 3 posters accepted at CVPR 2015
+Feb 23, 2015Invited talk at KIT, Germany
+Feb 17, 2015Talk at a Dagstuhl seminar on Holistic Scene Understanding
+Feb 12, 2015Will serve as a tutorial co-chair for CVPR'16
+Jan 14, 2015Released code and data for the CVPR'14 Beat MTurkers paper
+Dec 15, 2014Tutorial on 3D Indoor Scene Understanding accepted at CVPR'15
+Dec 02, 2014Released the code and data for the ACCV'14 paper on clothing parsing
+Dec 02, 2014Invited talk at The Hong Kong Polytechnic University
+Nov 20, 2014Invited talk for the UofT undergradute students' AI night
+Aug 21, 2014Invited lecture for math summer school in Slovenia, MARS
+Aug 04, 2014PASCAL-Part dataset released
+July 15, 2014PASCAL-Context dataset released
+July 01, 2014Organizing video competition for undergrad summer students
+Jun 30, 2014Will serve as a publication chair for CVPR 2015
+Mar 30, 2014Released code & data for our ICCV'13 paper on symmetry
+Mar 01, 2014Five papers accepted at CVPR 2014
+Feb 10, 2014Released code & data for our ICCV'13 RGBD detection paper
+Jan 14, 2014Moved to University of Toronto
+Jan 03, 2014Released code and data for our CVPR'12 paper on holistic scene understanding
+Dec 02, 2013Released a collection of CAD models accompanying our NIPS'12 paper
+Dec 01, 2013Released data for our CVPR'13 paper on segDPM
+Sep 12, 2013Talk at Microsoft Research, Cambridge, UK
+Sep 09, 2013Talk at  MPI Tubingen, Perceiving Systems
+Sep 06, 2013Visiting Prof. Michael Black's at  MPI Tubingen
+Sep 04, 2013Oral and two posters accepted at ICCV 2013
+Jun 13, 2013CVPR'13 publication chair and organizer of poster spotlights
+May 30, 2013Visiting dr. Chris Geyer at  iRobot
+May, 2013Visiting Antonio Torralba  at MIT
+Mar 01, 2013Three posters accepted at CVPR 2013
+
+close window&nbsp
+
+
+
+ back to top
+
+Professional Service
+
+
+
+
+
+Program Chair:ICCV'21, 3DV'16
+
+
+Area Chair:
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspComputer Vision:ECCV'18, CVPR'18, ICCV'17, CVPR'17, CVPR'16, ACCV'16
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspMachine Learning:ICLR'18, NIPS'17, ICLR'17
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspNLP:EMNLP'17, EMNLP'16
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspAI:AAAI'18
+
+
+Chair:Tutorial Chair (CVPR'16), Publications co-Chair (CVPR'13, CVPR'14, CVPR'15, ICCV'15), Presentations Chair (CVPR'10)
+
+
+Program Committee:CVPR'09-'15, ECCV '08-'16, NIPS'13-'16, ACCV'09, ICRA'15, IROS'15
+
+
+
+
+
+
+
+
+Tutorials and Workshops
+
+
+
+
+
+Tutorial:3D Indoor Scene Understanding, a half-day tutorial at CVPR'15, co-organized with Raquel Urtasun
+Workshops:Role of Simulation in Computer Vision, Workshop at ICCV'17
+The Joint Video and Language Understanding Workshop: MovieQA and The Large Scale Movie Description Challenge, Workshop at ICCV'17
+Geometry Meets Deep Learning, Workshop at ICCV'17
+Geometry Meets Deep Learning, Workshop at ECCV'16
+RMRC Challenge, Workshop at ECCV'14
+RMRC Challenge, Workshop at ICCV'13
+
+
+
+
+
+
+
+Awards
+
+
+
+
+
+Paper award:Best paper honorable mention  at CVPR'17
+
+
+
+
+Faculty award:Amazon Academic Research Award, 2017
+NVIDIA Pioneer of AI Award, 2016
+
+Facebook Faculty Award, 2016
+
+
+
+
+Reviewing:Outstanding reviewer award at ECCV'08, ECCV'12, CVPR'12, CVPR'15
+
+
+
+
+Teaching:Professor of the Year, 2014/2015, awarded by the UofT's Computer Science Student Union
+Best Teaching Assistant, 2007, awarded by University of Ljubljana's Computer Science Student Union
+
+
+
+
+Other:Best student presentation at EU Cognition's student competition, 2007
+Best paper award at Austrian Association for Pattern Recognition (AAPR) conference, 2003
+
+Thesis Award for Diploma (BSc) Thesis, University of Ljubljana, Math & Physics Dept
+
+
+
+
+
+
+
+Student Related Activities
+
+What I like perhaps the most about academic life is working with students -- seeing them develop and helping them succeed. I particularly want to inspire and encourage (through talks and competitions) the younger generations to pursue graduate studies in Computer Science.
+
+
+
+
+
+
+Competitions:Research video competition for undergraduate students (UofT's summer research program), 2015
+Research video competition for undergraduate students, 2014
+Multimedia Chair for International Mathematical Olympiad (high school students),  2006
+
+
+
+
+
+Talks:Talk at TEDxUofT, 2017
+Invited talk for the UofT undergradute students' AI Day'16
+Talk on "The Gee-Whiz of A.I. at UofT", grad orientation day for CogSci students
+Talk on "How to write a research paper", USRA'16, UofT
+Invited talk at the Women in Computer Vision workshop in conjunction with CVPR'15, intended to mentor female graduate students
+Talk on "How to make a research video", USRA'15, UofT
+Invited talk for the UofT undergradute students' AI night'14
+Invited lecture for high school students, Math summer school MARS in Slovenia, 2014
+Talk on "How to make a research video", USRA'14, UofT
+
+
+
+
+
+
+ back to top
+
+
+
+Press Coverage
+► Our pop song generator was picked up by the media:
+
+
+
+
+News and Tech websites
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+TV and Radio
+
+
+  
+
+
+
+
+
+► The MovieQA benchmark was featured in the media:
+
+
+
+
+
+ 
+
+
+
+
+
+► Our work on fashionability received a lot of attention in the press:  
+
+
+
+
+Selected News
+
+
+
+
+&nbsp&nbsp Toronto StarBy Erin Silver
+
+“Computer scientists from the University of Toronto have created a software program that helps users avoid fashion faux pas.
+
+
+Raquel Urtasun and Sanja Fidler, along with colleagues in Spain, designed an algorithm that analyzes a person's photograph to determine whether the wearer's outfit is stylish. It also suggests ways to improve the ensemble and the subject's overall appeal.”
+
+
+
+&nbsp&nbsp&nbsp&nbspHarper's BazaarBy Sarah Lindig
+
+“Researchers at the University of Toronto have developed an algorithm that will analyze your photo and make suggestions to improve it. As explained in the report provided by the Computer Vision Foundation, "People want to look good; business or casual, elegant or sporty, sexy but not slutty, and of course trendy, particularly so when putting their picture online. Our goal is to learn and predict how fashionable a person looks on a photograph and suggest subtle improvements the user could make to improve her/his appeal." &nbsp&nbsp&nbspUm... yes, please!
+”
+
+
+
+&nbsp&nbsp&nbsp&nbspYahoo, CanadaBy Lila MacLellan
+
+
+
+“AI is ready to help us live better in many domains, the professors say, and scientists are only starting to envision what can be done with it. Inviting a thinking robot to rifle through our closets might be the softest possible introduction to a whole new world. 
+”
+
+
+(photo on the left is of Edgar-Simo Serra, the first author of the paper)
+
+
+
+
+
+
+
+
+
+
+
+News and Tech websites
+
+
+
+
+
+
+
+
+New Scientist
+ Quartz
+Tech Times
+Wired, UK
+Mashable
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+AOL News (video)
+Huffington Post, UK (video)
+Huffington Post, Canada
+MSN, Canada
+Protein
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+Yahoo, Canada
+Science Daily
+Daily Mail,  UK
+PSFK
+Toronto Star
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+Gizmag
+TheRecord.com
+iDigitalTimes
+Scientific Computing
+Bustle
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+Phys.org
+DigitalTrends
+Globe and Mail
+Wiproo
+
+
+
+
+
+
+
+
+
+
+Fashion magazines (online)
+
+
+
+
+
+
+
+
+
+Harper's Bazaar
+Glamour
+Elle
+Cosmopolitan, UK
+Marie Claire
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+Fashion Magazine
+Yahoo style
+Red Magazine, UK
+The Pool, UK
+FashionNotes
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+Health Beauty Life
+Refinery29
+StyleIte
+Be
+ForeverVogue
+
+
+
+
+
+
+
+
+
+International news
+
+
+
+
+
+
+
+
+
+
+Vogue (Spain)
+Stylebook (Germany)
+Ansa (Italy)
+CenarioMT  (Brazil)
+
+Elle (NL)
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+Marie Claire (France)
+Fashion Police (Nigeria)
+Nauka (Poland)
+Pluska (Slovakia)
+Pressetext (Austria)
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+Wired (Germany)
+Jetzt (Germany)
+La Gazzetta (Italy)
+PopSugar (Australia)
+SinEmbargo (Mexico)
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+Marie Claire (South Africa)
+Peru.com (Peru)
+Metropotam (Romania)
+Her.ie (Ireland)
+RTVE (Spain) -- television[15:12 to 16:43]
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+Vanity Fair (Italy)
+Scientias (NL)
+Grazia (Germany)
+SenePeople (Senegal)
+elDiario (Spain)
+
+
+
+
+
+A more complete list is maintained on our project webpage.
+
+
+ back to top
+
+
+

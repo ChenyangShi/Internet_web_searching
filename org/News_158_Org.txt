@@ -1,0 +1,67 @@
+
+
+
+
+
+
+Ali Mesbah, Ph.D., P.Eng. Associate Professor
+Electrical and Computer Engineering University of British Columbia
+
+
+
+
+
+
+Home
+Publications
+Students
+Activities
+Highlights
+Software
+Teaching
+
+
+
+
+
+I am an Associate Professor in the department of Electrical and Computer Engineering (ECE) at the University of British Columbia (UBC). At UBC, I lead the Software Analysis and Testing (SALT) lab. You can reach me at  amesbah@ece.ubc.ca
+	 
+        My research is in software engineering, with emphasis on software analysis and testing of modern web-based and mobile systems. I am also interested in software maintenance and evolution, fault localization and repair, program comprehension, and empirical software engineering.
+	     
+
+
+
+
+
+
+Openings: Post-doc and PhD positions. For more details, visit this page. 
+
+
+    Program Committees: ICSE'18, ASE'17, ESEC/FSE'17, ICSE'17, ICST'17, and ISSTA'17
+
+Publications: up-to-date list of my papers
+
+
+
+
+
+
+
+
+
+amesbah@ece.ubc.ca
+
+	 Phone: 1-604-827-4249
+   Office: Kaiser, Room 4044
+   Address: 2332 Main Mall, Vancouver, BC, Canada V6T 1Z4
+
+
+
+
+
+
+
+
+
+
+

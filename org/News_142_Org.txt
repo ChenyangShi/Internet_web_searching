@@ -1,0 +1,320 @@
+ 
+
+
+
+
+
+
+
+Campuses
+UBC Directories
+UBC Quick Links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [X] close 
+
+
+
+
+
+The University of British Columbia
+
+a place of mind
+Faculty of Science
+DEPARTMENT OFCOMPUTER SCIENCE
+
+
+
+
+
+
+
+Directory
+My CS Internal
+ 
+
+ 
+
+
+
+
+
+
+Grades 6-12Girlsmarts
+
+
+Industry OutreachExtend Your Education
+Collaboration Opportunities
+Promote Science to Girls & Women
+Reach Out to the Next Generation
+Annual Tech Career Fair
+Hire Our Students
+
+
+AlumniMentoringExpectations for Student Mentees
+Matching Process
+Mentoring Resources
+Program Activities
+
+
+Alumni Panel Series
+Alumni/Industry Lecture Series
+How to Connect
+Alumni Job Postings
+Alumni Profiles
+
+
+ResearchArtificial IntelligenceResearch Groups
+Events & Seminars
+People
+Publications
+Reading Groups
+LCI Wiki
+
+
+Algorithms Lab
+Data Management & Mining Lab
+Graphics, Visualization and HCI Lab (Imager)
+Integrated Systems Design Group
+Networks, Systems and Security Lab
+Scientific Computing Lab
+Sensorimotor Systems Lab
+Software Practices LabPeople
+Projects
+Publications
+
+
+
+
+StudentsUndergrad StudentsProspective Undergrads
+Degree Programs
+Courses and Registration
+Advising & Resources
+Services & Labs
+Research & Conferences
+Co-op, Jobs, Career
+Student Life
+Women in CS
+FAQ
+
+
+Grad StudentsProspective Grads
+Graduate Programs
+Graduate Courses
+Awards & Financial Support
+Women in CS
+Resources & Links
+
+
+
+
+News & EventsEvents Calendar
+Awards
+TalksDistinguished Lecture Series
+Faculty Lecture Series
+Postdoc Lecture Series
+
+
+News ArchiveGraduation - May 2012
+Graduation - November 2011
+Graduation - May 2011
+Graduation - November 2010
+Graduation - May 2013
+Graduation - May 2014
+Graduation - May 2015
+Graduation - November 2013
+
+
+
+
+Our DepartmentAbout UsIn Memoriam
+Retrospective Timeline
+
+
+Contact Us / Hours
+EmploymentFaculty & Sessional Positions
+Staff Positions
+Student Positions
+
+
+FacilitiesBuilding Maps
+Offices & Research Labs
+Reading Room
+
+
+Getting Started
+Health & SafetyCS Emergency Procedures
+Emergency Disaster Kits
+First Aid Attendants / Floor Wardens
+
+
+PeopleFaculty & Academic Staff
+Administration & Technical Staff
+Research Staff
+Graduate Students
+Research Lab Contacts
+
+
+Women in CSAbout
+Resources for Women
+Activities in CS
+Statistics
+Conferences
+
+
+
+
+
+
+
+
+
+Home / Siamak Ravanbakhsh
+
+
+Siamak Ravanbakhsh
+
+
+
+
+
+
+
+
+
+Assistant Professor
+
+
+
+Email:
+
+siamakx [at] cs [dot] ubc [dot] ca
+
+
+
+Office:
+
+ICCS 191
+
+
+
+Phone: 
+
+TBD
+
+
+
+
+
+
+
+Latest Awards
+
+
+ 
+
+
+Latest CS Courses
+
+
+
+2018W
+
+ CPSC 532R        –   
+   Topics in Artificial Intelligence  
+2017 Winter
+
+ CPSC 532R        –   
+   Topics in Artificial Intelligence  
+
+ 
+
+
+
+
+
+
+
+
+
+Map & Directions
+Support / Helpdesk
+Login
+My CS Internal
+Sitemap
+RSS
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+         
+      
+
+
+          ICICS/CS Building
+          201-2366 Main Mall
+          Vancouver, B.C.
+          V6T 1Z4   Canada
+          Tel: 604-822-3061 |
+          Fax: 604-822-5485
+          General: help@cs.ubc.ca
+          Undergrad program: undergrad-info@cs.ubc.ca
+          Graduate program: grad-info@cs.ubc.ca
+
+
+
+
+
+
+
+
+ Emergency Procedures | Accessibility | Contact UBC | © Copyright  The University of British Columbia
+
+
+
+
+
+
+<!--//--><![CDATA[//><!--
+google.load("jquery", "1.3.2");
+//--><!]]>
+
+
+
+
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "block_edit": { "hover_links": 1 }, "googleanalytics": { "trackOutbound": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" }, "spamspan": { "m": "spamspan", "u": "u", "d": "d", "h": "h", "t": "t" }, "extlink": { "extTarget": 0, "extClass": "ext", "extSubdomains": 1, "extExclude": "", "extInclude": "", "extCssExclude": "", "extCssExplicit": "", "extAlert": 0, "extAlertText": "This link will take you to an external web site. We are not responsible for their content.", "mailtoClass": "mailto" }, "views": { "ajax_path": "/views/ajax", "ajaxViews": { "views_dom_id:d4b4a9668e77492fc5592fbf5f9b7b2c": { "view_name": "Courses_Taught", "view_display_id": "block_1", "view_args": "5099", "view_path": "node/54036", "view_base_path": null, "view_dom_id": "d4b4a9668e77492fc5592fbf5f9b7b2c", "pager_element": 0 } } }, "CToolsUrlIsAjaxTrusted": { "/search/site": true } });
+//--><!]]>
+
+
+
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-8280717-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = "/sites/cs/files/googleanalytics/ga.js?N";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+

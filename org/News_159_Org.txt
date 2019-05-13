@@ -1,0 +1,330 @@
+ 
+
+
+
+
+
+
+
+Campuses
+UBC Directories
+UBC Quick Links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [X] close 
+
+
+
+
+
+The University of British Columbia
+
+a place of mind
+Faculty of Science
+DEPARTMENT OFCOMPUTER SCIENCE
+
+
+
+
+
+
+
+Directory
+My CS Internal
+ 
+
+ 
+
+
+
+
+
+
+Grades 6-12Girlsmarts
+
+
+Industry OutreachExtend Your Education
+Collaboration Opportunities
+Promote Science to Girls & Women
+Reach Out to the Next Generation
+Annual Tech Career Fair
+Hire Our Students
+
+
+AlumniMentoringExpectations for Student Mentees
+Matching Process
+Mentoring Resources
+Program Activities
+
+
+Alumni Panel Series
+Alumni/Industry Lecture Series
+How to Connect
+Alumni Job Postings
+Alumni Profiles
+
+
+ResearchArtificial IntelligenceResearch Groups
+Events & Seminars
+People
+Publications
+Reading Groups
+LCI Wiki
+
+
+Algorithms Lab
+Data Management & Mining Lab
+Graphics, Visualization and HCI Lab (Imager)
+Integrated Systems Design Group
+Networks, Systems and Security Lab
+Scientific Computing Lab
+Sensorimotor Systems Lab
+Software Practices LabPeople
+Projects
+Publications
+
+
+
+
+StudentsUndergrad StudentsProspective Undergrads
+Degree Programs
+Courses and Registration
+Advising & Resources
+Services & Labs
+Research & Conferences
+Co-op, Jobs, Career
+Student Life
+Women in CS
+FAQ
+
+
+Grad StudentsProspective Grads
+Graduate Programs
+Graduate Courses
+Awards & Financial Support
+Women in CS
+Resources & Links
+
+
+
+
+News & EventsEvents Calendar
+Awards
+TalksDistinguished Lecture Series
+Faculty Lecture Series
+Postdoc Lecture Series
+
+
+News ArchiveGraduation - May 2012
+Graduation - November 2011
+Graduation - May 2011
+Graduation - November 2010
+Graduation - May 2013
+Graduation - May 2014
+Graduation - May 2015
+Graduation - November 2013
+
+
+
+
+Our DepartmentAbout UsIn Memoriam
+Retrospective Timeline
+
+
+Contact Us / Hours
+EmploymentFaculty & Sessional Positions
+Staff Positions
+Student Positions
+
+
+FacilitiesBuilding Maps
+Offices & Research Labs
+Reading Room
+
+
+Getting Started
+Health & SafetyCS Emergency Procedures
+Emergency Disaster Kits
+First Aid Attendants / Floor Wardens
+
+
+PeopleFaculty & Academic Staff
+Administration & Technical Staff
+Research Staff
+Graduate Students
+Research Lab Contacts
+
+
+Women in CSAbout
+Resources for Women
+Activities in CS
+Statistics
+Conferences
+
+
+
+
+
+
+
+
+
+Home / Arvind Gupta
+
+
+Arvind Gupta
+
+
+
+
+
+
+
+
+
+Professor
+
+
+
+Email:
+
+arvind [dot] gupta [at] ubc [dot] ca
+
+
+
+Phone: 
+
+604-822-8300
+
+
+
+
+
+Curriculum Vitae
+
+
+
+
+ B.Sc. - McMaster University, 1983
+M.Sc. - University of Toronto, 1985
+Ph.D. - University of Toronto, 1990 
+ Interests 
+
+
+Algorithmic Issues in Bioinformatics
+The burgeoning field of bioinformatics has spawned areas of research in both CS and genetics. My primary interest is in the development of new combinatorial techniques to address molecular biology challenges in areas such as proteomics, haplotyping and sequence alignment.
+Constructive Combinatorics
+My research concentrates on graph theoric approaches to addressing constructive logial complexity in graph minors. I have looked at both the sequential and parallel complexities of the algorithms that eminate in this area. My main focus has been on obtaining tight upper and lower bounds and developing new algorithms.
+Biography
+June 2014
+Professor Arvind Gupta was named the 13th President and Vice-Chancellor of the University of British Columbia on March 12, 2014.   A professor of Computer Science at UBC since 2009, he is a well-regarded expert in research and innovation policy with a proven record of accomplishment in building meaningful research collaborations.
+Professor Gupta has spoken frequently on research and innovation policy across Canada with public, private and academic audiences.  He is a regular contributor to the national dialogue through opinion editorials on international collaboration and recruitment, competitiveness, innovation and productivity.
+From 2000 to 2014, he was the CEO and Scientific Director of Mitacs, a national Canadian not-for-profit research organization dedicated to developing the next generation of innovators with vital scientific and business skills in partnership with academia, companies and government.
+Since 2012, Professor Gupta has been a member of the Government of Canada’s Science, Technology and Innovation Council (STIC) an advisory body that provides external policy advice on science and technology issues and produces regular national reports measuring Canada's science and technology performance against international standards of excellence. 
+In 2010, he was appointed to the six-member Jenkin’s expert panel to review federal government support to industrial research and development. The recommendations from this report have had a significant impact on federal innovation policy. 
+Professor Gupta obtained a PhD from the University of Toronto in 1991.  His research expertise is in the field of combinational algorithms with applications to fields such as bioinformatics, which utilizes computer science to understand genetics. He has co-authored over 80 peer-reviewed publications  and supervised 30 graduate students and post-doctoral fellows.
+Professor Gupta resides in Vancouver with his wife Dr. Michelle Pereira.  He has three daughters, one of whom is currently a student at UBC.  
+
+ 
+
+
+
+
+Latest Awards
+
+
+
+
+ Queen Elizabeth II Diamond Jubilee Medal  
+
+ 
+
+
+
+
+
+
+
+
+
+Map & Directions
+Support / Helpdesk
+Login
+My CS Internal
+Sitemap
+RSS
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+         
+      
+
+
+          ICICS/CS Building
+          201-2366 Main Mall
+          Vancouver, B.C.
+          V6T 1Z4   Canada
+          Tel: 604-822-3061 |
+          Fax: 604-822-5485
+          General: help@cs.ubc.ca
+          Undergrad program: undergrad-info@cs.ubc.ca
+          Graduate program: grad-info@cs.ubc.ca
+
+
+
+
+
+
+
+
+ Emergency Procedures | Accessibility | Contact UBC | © Copyright  The University of British Columbia
+
+
+
+
+
+
+<!--//--><![CDATA[//><!--
+google.load("jquery", "1.3.2");
+//--><!]]>
+
+
+
+
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "block_edit": { "hover_links": 1 }, "googleanalytics": { "trackOutbound": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" }, "spamspan": { "m": "spamspan", "u": "u", "d": "d", "h": "h", "t": "t" }, "extlink": { "extTarget": 0, "extClass": "ext", "extSubdomains": 1, "extExclude": "", "extInclude": "", "extCssExclude": "", "extCssExplicit": "", "extAlert": 0, "extAlertText": "This link will take you to an external web site. We are not responsible for their content.", "mailtoClass": "mailto" }, "views": { "ajax_path": "/views/ajax", "ajaxViews": { "views_dom_id:7c2cdfe4d226080403d7fd9572fd229e": { "view_name": "Courses_Taught", "view_display_id": "block_1", "view_args": "193", "view_path": "node/17725", "view_base_path": null, "view_dom_id": "7c2cdfe4d226080403d7fd9572fd229e", "pager_element": 0 } } }, "CToolsUrlIsAjaxTrusted": { "/search/site": true } });
+//--><!]]>
+
+
+
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-8280717-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = "/sites/cs/files/googleanalytics/ga.js?N";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+

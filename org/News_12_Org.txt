@@ -1,0 +1,455 @@
+
+
+ucbheader();
+
+
+Ruslan Salakhutdinov
+ Machine Learning Department 
+
+
+
+Home
+Bio
+Publications
+People
+Teaching
+Software
+FAQ
+Contact
+
+
+
+
+
+
+Ruslan Salakhutdinov
+  Associate Professor
+ Microsoft Faculty Fellow 
+ Sloan Fellow  
+                        Carnegie Mellon University 
+                        rsalakhu[at]cs.cmu.edu
+CV
+ Google Scholar    
+
+
+
+
+
+
+
+
+
+I am a UPMC professor of Computer Science in the  
+ Machine Learning Department,
+ School of Computer Science 
+at  Carnegie Mellon University.
+I work in the field of statistical machine learning (See my 
+CV.)
+
+
+
+My research interests include
+Deep Learning, 
+ Probabilistic Graphical Models, and 
+ Large-scale Optimization.
+
+
+ Prospective students: Please 
+ 
+read this  to ensure that I read your email. 
+
+
+  Recent Research Highlights:  
+
+ 4 part Deep Learning Tutorial at the Simons Institute, Berkeley
+
+Part 1:[Slides (pdf)], 
+Part 2:[Slides (pdf)], 
+Part 3:[Slides (pdf)], 
+Part 4:[Slides (pdf)]. 
+
+
+ Deep Learning Tutorial, MLSS,  Tübingen, Germany
+ 
+Part 1:[Slides (pdf)], 
+Part 2:[Slides (pdf)]. 
+
+
+ 
+I am teaching a 
+  Deep Reinforcement Learning  class this Spring.
+ 
+I was teaching a 
+  Deep Learning  class, Fall 2017.
+
+
+
+
+  Recent Papers:  
+
+ 
+ Neural Models for Reasoning over Multiple Mentions using Coreference 
+ 
+Bhuwan Dhingra, Qiao Jin, Zhilin Yang, William W. Cohen, Ruslan Salakhutdinov
+ 
+NAACL, 2018 (Short Paper)
+
+ 
+ Structured Control Nets for Deep Reinforcement Learning
+ 
+Mario Srouji, Jian Zhang, Ruslan Salakhutdinov
+ 
+arXiv [arXiv], 2018.
+
+ 
+ Global Pose Estimation with an Attention-based Recurrent Network
+ 
+Emilio Parisotto, Devendra Singh Chaplot, Jian Zhang, Ruslan Salakhutdinov
+ 
+arXiv [arXiv], 2018.
+
+ 
+ On Characterizing the Capacity of Neural Networks using Algebraic Topology
+ 
+William H. Guss, Ruslan Salakhutdinov
+ 
+arXiv [arXiv], 2018.
+
+ 
+ Breaking the Softmax Bottleneck: A High-Rank RNN Language Model
+ 
+Zhilin Yang, Zihang Dai, Ruslan Salakhutdinov, William W. Cohen
+ 
+arXiv [arXiv], 
+[code], ICLR 2018, 
+oral. 
+ 
+
+ 
+ Active Neural Localization
+ 
+Devendra Singh Chaplot, Emilio Parisotto, Ruslan Salakhutdinov
+ 
+arXiv [arXiv], ICLR 2018.
+
+ 
+ Neural Map: Structured Memory for Deep Reinforcement Learning
+ 
+Emilio Parisotto, Ruslan Salakhutdinov
+ 
+arXiv [arXiv], ICLR 2018.
+
+ 
+ On Unifying Deep Generative Models
+ 
+Zhiting Hu, Zichao Yang, Ruslan Salakhutdinov, Eric P. Xing
+ 
+arXiv [arXiv], ICLR 2018.
+
+ 
+ A Generic Approach for Escaping Saddle Points
+ 
+Sashank J Reddi, Manzil Zaheer, Suvrit Sra, Barnabas Poczos, Francis Bach, Ruslan Salakhutdinov, Alexander J Smola
+ arXiv [arXiv], AIStats 2018.
+
+ 
+ Gated-Attention Architectures for Task-Oriented Language Grounding
+ 
+Devendra Singh Chaplot, Kanthashree Mysore Sathyendra, Rama Kumar Pasumarthi, Dheeraj Rajagopal, Ruslan Salakhutdinov
+ arXiv [arXiv], AAAI 2018, 
+oral.
+
+ 
+ Knowledge-based Word Sense Disambiguation using Topic Models 
+ 
+Devendra Singh Chaplot, Ruslan Salakhutdinov
+  [pdf], AAAI 2018, 
+oral.
+
+ 
+ A Comparative Study of Word Embeddings for Reading Comprehension
+ 
+Bhuwan Dhingra, Hanxiao Liu, Ruslan Salakhutdinov, William W. Cohen
+ arXiv [arXiv], 2017.
+
+ 
+ Good Semi-supervised Learning that Requires a Bad GAN
+ 
+Zihang Dai, Zhilin Yang, Fan Yang, William W. Cohen, Ruslan Salakhutdinov
+ 
+NIPS 2017, [arXiv].
+
+ 
+ Deep Sets
+ 
+Manzil Zaheer, Satwik Kottur, Siamak Ravanbakhsh, Barnabas Poczos, Ruslan Salakhutdinov, Alexander Smola
+  
+NIPS 2017, 
+oral
+ [arXiv].
+
+ 
+ Geometry of Optimization and Implicit Regularization in Deep Learning
+ 
+Behnam Neyshabur, Ryota Tomioka, Ruslan Salakhutdinov, Nathan Srebro
+ 
+Survey paper, arXiv [arXiv].
+
+ 
+ Deep Conditional Determinantal Point Process for Large-Scale Multi-Label Classification
+ 
+P. Xie, R. Salakhutdinov, L. Mou and E.P. Xing
+ 
+ICCV 2017.
+
+ 
+ Learning Robust Visual-Semantic Embeddings
+ 
+Yao-Hung Hubert Tsai, Liang-Kang Huang, Ruslan Salakhutdinov
+ 
+ICCV 2017, arXiv [arXiv].
+
+ 
+ Improved Variational Autoencoders for Text Modeling using Dilated Convolutions
+ 
+Zichao Yang, Zhiting Hu, Ruslan Salakhutdinov, Taylor Berg-Kirkpatrick
+ 
+ICML 2017, arXiv [arXiv].
+
+ 
+ Controllable Text Generation
+ 
+Zhiting Hu, Zichao Yang, Xiaodan Liang, Ruslan Salakhutdinov, Eric P. Xing
+ 
+ICML 2017, arXiv [arXiv].
+
+ 
+ Semi-Supervised QA with Generative Domain-Adaptive Nets
+ 
+Zhilin Yang, Junjie Hu, Ruslan Salakhutdinov, William W. Cohen
+ 
+ACL 2017, arXiv].
+
+ 
+ Gated-Attention Readers for Text Comprehension 
+ 
+Bhuwan Dhingra, Hanxiao Liu, Zhilin Yang, William W. Cohen, Ruslan Salakhutdinov
+ 
+ACL 2017, [arXiv],
+[Code].
+
+ 
+ The More You Know: Using Knowledge Graphs for Image Classification
+ 
+Kenneth Marino, Ruslan Salakhutdinov, Abhinav Gupta
+ 
+CVPR 2017, [arXiv].
+
+ 
+ Spatially Adaptive Computation Time for Residual Networks
+ 
+Michael Figurnov, Maxwell D. Collins, Yukun Zhu, Li Zhang, Jonathan Huang, Dmitry Vetrov, Ruslan Salakhutdinov
+ 
+CVPR 2017, [arXiv],
+[Code].
+
+ 
+ Transfer Learning for Sequence Tagging with Hierarchical Recurrent Networks
+
+Zhilin Yang, Ruslan Salakhutdinov, William W. Cohen
+ 
+ICLR 2017, [arXiv].  
+
+ 
+ On the Quantitative Analysis of Decoder-Based Generative Models
+ 
+Yuhuai Wu, Yuri Burda, Ruslan Salakhutdinov, Roger Grosse
+ 
+ICLR 2017, [arXiv], 
+ [Code]. 
+
+
+ 
+ Words or Characters? Fine-grained Gating for Reading Comprehension
+ 
+Zhilin Yang, Bhuwan Dhingra, Ye Yuan, Junjie Hu, William W. Cohen, Ruslan Salakhutdinov
+ 
+ICLR 2017, [arXiv].
+
+ 
+ 
+Transfer Deep Reinforcement Learning in 3D Environments: An Empirical Study
+ 
+Devendra Singh Chaplot, Guillaume Lample, Kanthashree Mysore Sathyendra, Ruslan Salakhutdinov
+ 
+Deep Reinforcement Learning Workshop, NIPS 2016
+
+[pdf].
+
+ 
+ 
+Deep Neural Networks with Massive Learned Knowledge
+ 
+Zhiting Hu, Zichao Yang, Ruslan Salakhutdinov, and Eric Xing
+ 
+Conference on Empirical Methods in Natural Language Processing (EMNLP'16).
+
+  [pdf], [supp].
+
+
+ 
+ Iterative Refinement of Approximate Posterior for Training Directed Belief Networks
+ 
+Devon Hjelm, Kyunghyun Cho, Junyoung Chung, Ruslan Salakhutdinov, Vince Calhoun, Nebojsa Jojic
+ 
+NIPS 2016, [arXiv].
+
+ 
+ Path-Normalized Optimization of Recurrent Neural Networks with ReLU Activations
+ 
+Behnam Neyshabur, Yuhuai Wu, Ruslan Salakhutdinov, Nathan Srebro
+ 
+NIPS 2016, [arXiv].
+
+ 
+ 
+Stochastic Variational Deep Kernel Learning
+ 
+Andrew Gordon Wilson, Zhiting Hu, Eric Xing, Ruslan Salakhutdinov
+ 
+NIPS 2016, [arXiv],
+[Code]. 
+
+ 
+ 
+On Multiplicative Integration with Recurrent Neural Networks 
+ 
+Yuhuai Wu, Saizheng Zhang, Ying Zhang, Yoshua Bengio, Ruslan Salakhutdinov
+ 
+NIPS 2016, [arXiv].
+
+ 
+ Encode, Review, and Decode: Reviewer Module for Caption Generation
+ 
+Zhilin Yang, Ye Yuan, Yuexin Wu, Ruslan Salakhutdinov, William W. Cohen
+ 
+NIPS 2016, [arXiv],
+[Code].
+
+
+
+ 
+ Architectural Complexity Measures of Recurrent Neural Networks
+ 
+Saizheng Zhang, Yuhuai Wu, Tong Che, Zhouhan Lin, Roland Memisevic, Ruslan Salakhutdinov, Yoshua Bengio
+ 
+NIPS 2016, [arXiv].
+
+ 
+ Multi-Task Cross-Lingual Sequence Tagging from Scratch
+ 
+Zhilin Yang, Ruslan Salakhutdinov, William Cohen
+ 
+[arXiv].
+
+ 
+ Revisiting Semi-Supervised Learning with Graph Embeddings
+ 
+Zhilin Yang, William Cohen, Ruslan Salakhutdinov
+ 
+ICML 2016, [arXiv],
+[Code].
+
+ 
+ Importance Weighted Autoencoders
+ 
+Yuri Burda, Roger Grosse, Ruslan Salakhutdinov
+ 
+ICLR, 2016, [arXiv].
+Code is available
+[here].
+
+ 
+ Actor-Mimic: Deep Multitask and Transfer Reinforcement Learning
+ 
+Emilio Parisotto, Jimmy Lei Ba, Ruslan Salakhutdinov
+ 
+ICLR, 2016, [arXiv].
+
+ 
+ Generating Images from Captions with Attention 
+ 
+Elman Mansimov, Emilio Parisotto, Jimmy Lei Ba, Ruslan Salakhutdinov
+ 
+ICLR, 2016, 
+oral
+ [arXiv].
+[Generated Samples].
+
+
+ See also
+Bloomberg news,
+Motherboard.
+
+
+ 
+ Data-Dependent Path Normalization in Neural Networks
+ 
+Behnam Neyshabur, Ryota Tomioka, Ruslan Salakhutdinov, Nathan Srebro
+ 
+ICLR, 2016,  [arXiv].
+
+ 
+ Action Recognition using Visual Attention
+ 
+Shikhar Sharma, Ryan Kiros, Ruslan Salakhutdinov
+ 
+ICLR workshop, 2016 [arXiv].
+[Code].
+[Project Website].
+
+ 
+ Deep Kernel Learning
+ 
+Andrew Gordon Wilson, Zhiting Hu, Ruslan Salakhutdinov, Eric Xing
+ 
+AI and Statistics, 2016, [arXiv].
+
+ 
+ Human-level concept learning through probabilistic program induction
+ 
+Brenden Lake, Ruslan Salakhutdinov, and Joshua Tenenbaum (2015),
+ 
+ Science, 350(6266), 1332-1338, 
+[paper],
+[Supporting Info.],
+[visual Turing tests],
+[Omniglot data set],
+[Code]. 
+
+
+
+See also
+New York Times, 
+CBC, 
+Reuters, 
+CBS, 
+MIT Tech Review, 
+Toronto Star, 
+UofT News, 
+MIT News,  
+Washington Post,  
+CIFAR,  
+Business Insider. 
+
+
+
+
+
+
+
+
+ucbfooter();
+        © Carnegie Mellon University 
+    
+

@@ -1,0 +1,4956 @@
+
+
+Ravin Balakrishnan
+Professor & Chair
+Department of Computer Science
+University of Toronto 
+
+
+
+
+
+
+Publications
+Courses
+Students & Postdocs
+Brief Biography
+Professional Activities
+Directions to my office
+
+
+Research/personal contact:
+email: ravin at dgp.toronto.edu
+voice: (416) 978-5359
+  office:  Rm
+  BA5270, 40 St. George St, Toronto
+lab: Dynamic Graphics Project
+ 
+Department chair contact:
+email: chair at cs.toronto.edu
+voice: (416) 978-2980
+
+
+postal mail & courier
+  address:
+Ravin Balakrishnan
+Department of Computer Science
+University of Toronto
+  10 King's College Road, Room 3302
+  Toronto, Ontario
+  Canada M5S 3G4
+Tel (for courier): 416 978-6025
+
+
+
+
+
+
+Publications
+Refereed papers
+
+
+
+
+
+
+ 
+
+
+118.
+
+
+ 
+
+
+Dustin Freeman, Ravin
+  Balakrishnan. (2011). Tangible
+  actions. Proceedings of ITS 2011 –
+  the ACM International Conference on Interactive Tabletops and Surface. p.
+  87-96.
+video
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+117.
+
+
+ 
+
+
+Yannick
+  Thiel, Karan Singh, Ravin Balakrishnan. (2011). Elasticurves:
+  Exploiting stroke dynamics and inertia for the real-time neatening of
+  sketched 2D curves. Proceedings
+  of UIST 2011 – the ACM Symposium on User Interface Software and Technology.
+  p. 383-392.
+video
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+116.
+
+
+ 
+
+
+Jian Zhao, Fanny Chevalier,
+  Emmanuel Pietriga, Ravin Balakrishnan. (2011). Exploratory analysis of
+  time-series with ChronoLenses. IEEE Transactions on Visualization and
+  Computer Graphics, 17(12). p. 2422-2431.
+video
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+115.
+
+
+ 
+
+
+Sajad Shirali-Shahreza, Yashar Ganjali, Ravin Balakrishnan. (2011). Verifying human users in speech-based
+  interactions. Proceedings of the Annual Conference of the
+  International Speech Communication Association (INTERSPEECH). p.
+  1585-1588.
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+114.
+
+
+ 
+
+
+Akhil Mathur, Divya Ramachandran, Ed Cutrell, Ravin Balakrishnan.
+  (2011). An exploratory study on
+  the use of camera phones and pico projectors in
+  rural India. Proceedings of MobileHCI 2011. p. 347-356.
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+113.
+
+
+ 
+
+
+Mohit Jain, Jeremy Birnholtz,
+  Ed Cutrell, Ravin Balakrishnan. (2011). Exploring display techniques
+  for mobile collaborative learning in developing regions. Proceedings of MobileHCI
+  2011. p. 81-90.
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+112.
+
+
+ 
+
+
+Jian Zhao, Fanny
+  Chevalier, Ravin Balakrishnan. (2011). KronoMiner: Using multi-foci navigation for the visual
+  exploration of time-series data. Proceedings of CHI 2011 – the ACM
+  Conference on Human Factors in Computing Systems. p. 1737-1746. 
+video
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+111.
+
+
+ 
+
+
+Chun Yu, Yuanchun Shi, Ravin Balakrishnan, Xiangliang
+Meng, Yue Suo, Mingming Fan, Yongqiang Qin. (2010). The satellite cursor: achieving
+  MAGIC pointing without gaze tracking using multiple cursors. Proceedings of UIST 2010 – the ACM
+  Symposium on User Interface Software and Technology. p. 163-172. 
+video
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+110.
+
+
+ 
+
+
+Daniel
+  Vogel, Ravin Balakrishnan. (2010). Direct pen interaction with a
+  conventional graphical user interface. Human-Computer Interaction.
+  1532-7051, Volume 25, Issue 4. p.
+  324 – 388.
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+109.
+
+
+ 
+
+
+Jeremy
+  Birnholtz, Abhishek Ranjan, Ravin Balakrishnan. (2010). Providing dynamic visual
+  information for collaborative tasks: Experiments with automatic camera
+  control. Human-Computer Interaction. 1532-7051, Volume 25, Issue
+  3. p. 261 – 287.
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+108.
+
+
+ 
+
+
+James
+  Scott, Shahram Izadi, Leila Rezai, Dominika Ruszkowski, Xiaojun
+  Bi, Ravin Balakrishnan. (2010). RearType: Text entry using keys on the back of a device.
+  Proceedings of MobileHCI. p. 171-179.
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+107.
+
+
+ 
+
+
+Abhishek Ranjan, Jeremy Birnholtz, Rorik Henrikson, Ravin Balakrishnan, Dana Lee.
+  (2010). Automatic camera control using
+  unobtrusive vision and audio tracking. Proceedings of GI 2010 – the
+  Graphics Interface Conference. p.
+  47-54.
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+106.
+
+
+ 
+
+
+Daniel
+  Vogel, Ravin Balakrishnan. (2010). Occlusion-aware interfaces.
+  Proceedings of CHI 2010 – the ACM Conference on Human Factors in Computing
+  Systems. p. 263-272.
+CHI
+  2010 Best Paper Award 
+video
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+105.
+
+
+ 
+
+
+Patrick
+  Dubroy, Ravin Balakrishnan. (2010). A study of tabbed browsing among
+  Mozilla Firefox users. Proceedings of CHI 2010 – the ACM Conference on
+  Human Factors in Computing Systems. p. 673-682.
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+104.
+
+
+ 
+
+
+Xiaojun
+  Bi, Seok-Hyung Bae, Ravin Balakrishnan. (2010). Effects of interior bezels of tiled-monitor
+  large displays on visual search, tunnel steering, and target selection. Proceedings
+  of CHI 2010 – the ACM Conference on Human Factors in Computing Systems.
+  p. 65-74.
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+103.
+
+
+ 
+
+
+Jennifer
+  Keelan, Vera Pavri, Ravin Balakrishnan, Kumanan Wilson. (2010). An analysis of the Human Papilloma Virus
+  vaccine debate on MySpace blogs. Vaccine,
+  28(6). p. 1535-1540
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+102.
+
+
+ 
+
+
+Saleema
+Amershi, Meredith Ringel
+  Morris, Neema Moraveji,
+  Ravin Balakrishnan, Kentaro Toyama. (2010). Multiple mouse text entry for single-display
+  groupware.  Proceedings of CSCW 2010 – the ACM Conference on
+  Computer Supported Cooperative Work. p. 169-178. 
+CSCW
+  2010 Best Paper Honorable Mention Award 
+video
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+101.
+
+
+ 
+
+
+Seok-Hyung
+  Bae, Ravin Balakrishnan, Karan Singh. (2009). EverybodyLovesSketch:
+  3D sketching for a broader audience. Proceedings of UIST 2009 – the
+  ACM Symposium on User Interface Software and Technology. p. 59-68.
+video
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+100.
+
+
+ 
+
+
+Scott
+  Saponas, Desney Tan, Dan Morris, Ravin
+  Balakrishnan, Jim Turner, James Landay. (2009). Enabling always-available input with
+  muscle-computer interfaces. Proceedings of UIST 2009 – the ACM
+  Symposium on User Interface Software and Technology. p. 167-176.
+video
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+99.
+
+
+ 
+
+
+Gerry
+  Chu, Tomer Moscovich,
+  Ravin Balakrishnan (2009). Haptic
+  conviction widgets. Proceedings of GI 2009 -- the Graphics Interface
+  Conference. p. 207-210.
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+98.
+
+
+ 
+
+
+Gursharan Singh, Leah Findlater, Kentaro Toyama, Scott Helmer,
+  Rikin Gandhi, Ravin Balakrishnan. Numeric paper forms for NGOs.
+  (2009). Proceedings of ICTD 2009 – the IEEE/ACM International
+  Conference on Information and Communication Technologies and Development. p.
+  406-416.
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+97.
+
+
+ 
+
+
+Gerry
+  Chu, Sambit Satpathy, Kentaro Toyama, Rikin Gandhi,
+  Ravin Balakrishnan. (2009). Featherweight multimedia
+  for information dissemination. Proceedings of ICTD 2009 – the
+  IEEE/ACM International Conference on Information and Communication
+  Technologies and Development. p. 337-347.
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+96.
+
+
+ 
+
+
+Daniel
+  Vogel, Matthew Cudmore, Gery
+  Casiez, Ravin Balakrishnan, Liam Keliher. (2009). Hand occlusion with tablet-sized direct
+  pen input. Proceedings of CHI 2009 – the ACM Conference on Human
+  Factors in Computing Systems. p. 557-566.
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+95.
+
+
+ 
+
+
+Xiaojun
+  Bi, Ravin Balakrishnan. (2009). Comparing
+  usage of a large high-resolution display to single or dual desktop displays
+  for daily work. Proceedings of CHI 2009 – the ACM Conference on Human
+  Factors in Computing Systems. p. 1005-1014.
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+94.
+
+
+ 
+
+
+Clifton Forlines, Ravin
+  Balakrishnan. (2009). Improving visual
+  search with image segmentation. Proceedings of CHI 2009 – the ACM
+  Conference on Human Factors in Computing Systems. p. 1093-1102.
+CHI
+  2009 Best Paper Nominee
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+93.
+
+
+ 
+
+
+Leah
+  Findlater, Ravin Balakrishnan, Kentaro
+  Toyama. (2009). Comparing semiliterate
+  and illiterate users' ability to transition from audio+text
+  to text-only interaction. Proceedings of CHI 2009 – the ACM Conference
+  on Human Factors in Computing Systems. p. 1751-1760.
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+92.
+
+
+ 
+
+
+Ken Hinckley, Morgan Dixon, Raman
+  Sarin, Francois Guimbretiere,
+  Ravin Balakrishnan. (2009). Codex: A dual
+  screen computer. Proceedings of CHI 2009 – the ACM Conference on Human
+  Factors in Computing Systems. p. 1933-1942.
+video
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+91.
+
+
+ 
+
+
+Neema Moraveji, Kori Inkpen, Ed Cutrell, Ravin Balakrishnan. (2009). A mischief of mice: Examining children’s
+  performance in single display groupware systems with 1 to 32 mice. Proceedings
+  of CHI 2009 – the ACM Conference on Human Factors in Computing Systems. p.
+  2157-2166.
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+90.
+
+
+ 
+
+
+Xiang
+  Cao, Michael Massimi, Ravin Balakrishnan. (2008). Flashlight Jigsaw: An exploratory
+  study of an ad-hoc multi-player game on public displays. To appear in the
+  Proceedings of CSCW 2008 – the ACM Conference on Computer Supported
+  Cooperative Work. p. 77-86
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+89.
+
+
+ 
+
+
+Hrvoje Benko, Andrew Wilson, Ravin
+  Balakrishnan. (2008). Sphere:
+  Multi-touch interactions on a spherical display. Proceedings of UIST
+  2008 – the ACM Symposium on User Interface Software and Technology. p.
+  77-86.
+video
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+88.
+
+
+ 
+
+
+Xiaojun
+  Bi, Tomer Moscovich,
+  Gonzalo Ramos, Ravin Balakrishnan, Ken Hinckley. (2008). An exploration of pen rolling for pen-based
+  interaction. Proceedings of UIST 2008 – the ACM Symposium on User
+  Interface Software and Technology. p. 191-200.
+video
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+87.
+
+
+ 
+
+
+Seok-Hyung
+  Bae, Ravin Balakrishnan, Karan Singh. (2008). ILoveSketch:
+  As-natural-as-possible sketching system for creating 3D curve models. Proceedings
+  of UIST 2008 – the ACM Symposium on User Interface Software and Technology.
+  p. 151-160.
+video
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+86.
+
+
+ 
+
+
+Xiang
+  Cao, Andrew Wilson, Ravin Balakrishnan, Ken Hinckley, Scott E. Hudson.
+  (2008). ShapeTouch:
+  Leveraging contact shape on interactive surfaces. Proceedings of
+  TABLETOP 2008 – the IEEE International Workshop on Horizontal Interactive
+  Human Computer Systems. p. 139-146.
+video
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+85.
+
+
+ 
+
+
+Archana
+  Prasad, Indrani Medhi, Kentaro Toyama, Ravin Balakrishnan. (2008). Exploring the feasibility of video mail
+  for illiterate users. Proceedings of AVI 2008 - the Conference on Advanced
+  Visual Interfaces. p.
+  103-110.
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+84.
+
+
+ 
+
+
+Ryan Schmidt, Karan Singh, Ravin Balakrishnan. (2008). Sketching and composing
+  widgets for 3D manipulation. Computer Graphics Forum, 27(2) --
+  Proceedings of Eurographics Conference. p.
+  301-310.
+video
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+83.
+
+
+ 
+
+
+Scott Saponas, Desney Tan, Dan
+  Morris, Ravin Balakrishnan. (2008). Demonstrating
+  the feasibility of using forearm electromyography for muscle-computer
+  interfaces. Proceedings
+  of CHI 2008 – the ACM Conference on Human Factors in Computing Systems. p. 515-524.
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+82.
+
+
+ 
+
+
+Xiang
+  Cao, Jacky Jie Li, Ravin Balakrishnan. (2008). Peephole pointing: Modeling
+  acquisition of dynamically revealed targets. Proceedings of CHI
+  2008 – the ACM Conference on Human Factors in Computing Systems. p.
+  1699-1708.
+CHI
+  2008 Best Paper Nominee
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+81.
+
+
+ 
+
+
+Tovi
+  Grossman, Ravin Balakrishnan. (2008). Collaborative interaction
+  with volumetric displays. Proceedings of CHI 2008 – the ACM
+  Conference on Human Factors in Computing Systems. p. 383-392.
+video
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+80.
+
+
+ 
+
+
+Clifton Forlines, Ravin Balakrishnan. (2008). Evaluating tactile feedback and
+  direct vs. indirect stylus input in pointing and crossing selection tasks.
+  Proceedings
+  of CHI 2008 – the ACM Conference on Human Factors in Computing Systems. p. 1563-1572.
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+79.
+
+
+ 
+
+
+Abhishek Ranjan, Jeremy
+  Birnholtz, Ravin Balakrishnan. (2008). Improving meeting capture by
+  applying television production principles with audio and motion detection.
+  Proceedings of CHI 2008 – the ACM Conference on Human Factors in
+  Computing Systems. p. 227-238.
+video
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+78.
+
+
+ 
+
+
+Pierre
+  Dragicevic, Gonzalo Ramos, Jacobo Bibliowicz, Derek Nowrouzezahrai,
+  Ravin Balakrishnan, Karan Singh. (2008). Video browsing by direct
+  manipulation. Proceedings of CHI 2008 – the ACM Conference on
+  Human Factors in Computing Systems. p. 237-246.
+short
+  "teaser" video   longer video
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+77.
+
+
+ 
+
+
+Géry Casiez,
+  Daniel Vogel, Ravin Balakrishnan, Andy Cockburn. (2008). The impact of control-display gain on user
+  performance in pointing tasks. Human Computer Interaction, 23(3). p.
+  215-250.
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+76.
+
+
+ 
+
+
+Xiang
+  Cao, Clifton Forlines, Ravin Balakrishnan. (2007). Multi-user interaction
+  using handheld projectors. Proceedings of UIST 2007 – the ACM Symposium
+  on User Interface Software and Technology. p. 43-52.
+video
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+75.
+
+
+ 
+
+
+Shengdong Zhao, Pierre
+  Dragicevic, Mark Chignell, Ravin Balakrishnan, Patrick Baudisch.
+  (2007). earPod:
+  Eyes-free menu selection using touch input and reactive audio feedback. Proceedings
+  of CHI 2007 – the ACM Conference on Human Factors in Computing Systems. p.
+  1395-1404.
+video
+Selected press coverage (local
+  cache): MIT Technology Review, May
+  2007. 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+74.
+
+
+ 
+
+
+Clifton
+  Forlines, Chia Shen, Daniel Wigdor, Ravin Balakrishnan. (2007). Direct-touch vs. mouse input for
+  tabletop displays. Proceedings of CHI 2007 – the ACM Conference on
+  Human Factors in Computing Systems. p. 647-656.
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+73.
+
+
+ 
+
+
+Gonzalo Ramos, Ravin
+  Balakrishnan. (2007). Pressure
+  marks. Proceedings of CHI 2007 – the ACM Conference on Human Factors
+  in Computing Systems. p. 1375-1384.
+video
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+72.
+
+
+ 
+
+
+Gonzalo Ramos, Andy Cockburn,
+  Ravin Balakrishnan, Michel Beaudoiun-Lafon. (2007).
+  Pointing lenses: facilitating
+  stylus input through visual-and motor-space magnification. Proceedings
+  of CHI 2007 – the ACM Conference on Human Factors in Computing Systems. p.
+  757-766.
+video
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+71.
+
+
+ 
+
+
+Abhishek Ranjan, Jeremy Birnholtz, Ravin Balakrishnan. (2007). Dynamic shared visual spaces:
+  Experimenting with automatic camera control in a remote repair task. Proceedings
+  of CHI 2007 – the ACM Conference on Human Factors in Computing Systems. p.
+  1177-1186.
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+70.
+
+
+ 
+
+
+Daniel
+  Wigdor, Chia Shen, Clifton Forlines, Ravin Balakrishnan. (2007). Perception of elementary
+  graphical elements in tabletop and multi-surface environments. Proceedings
+  of CHI 2007 – the ACM Conference on Human Factors in Computing Systems. p.
+  473-482.
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+69.
+
+
+ 
+
+
+Jeremy
+  Birnholtz, Tovi Grossman, Clarissa Mak, Ravin Balakrishnan. (2007). An exploratory study of input
+  configuration and group process in a negotiation task using a large display.
+  Proceedings of CHI 2007 – the ACM Conference on Human Factors in Computing
+  Systems. p. 91-100
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+68.
+
+
+ 
+
+
+Tovi
+  Grossman, Nicholas Kong, Ravin Balakrishnan. (2007). Modeling pointing at targets of
+  arbitrary shapes. Proceedings of CHI 2007 – the ACM Conference on
+  Human Factors in Computing Systems. p. 463-472.
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+67.
+
+
+ 
+
+
+Tovi
+  Grossman, Daniel Wigdor, Ravin Balakrishnan. (2007). Exploring and reducing
+  the effects of orientation on text readability in volumetric displays. Proceedings
+  of CHI 2007 – the ACM Conference on Human Factors in Computing Systems. p.
+  483-492.
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+66.
+
+
+ 
+
+
+Tovi
+  Grossman, Pierre Dragicevic, Ravin Balakrishnan. (2007). Strategies for accelerating on-line
+  learning of hotkeys. Proceedings of CHI 2007 – the ACM Conference on
+  Human Factors in Computing Systems. p. 1591-1600.
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+65.
+
+
+ 
+
+
+Jia Sheng, Ravin Balakrishnan, Karan Singh. (2006). An interface for 3D sculpting via
+  physical proxy. Proceedings of GRAPHITE 2006 – International
+  Conference on Computer Graphics and Interactive Techniques in Australasia and
+  Southeast Asia. p. 213-220.
+video
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+64.
+
+
+ 
+
+
+Abhishek Ranjan, Jeremy Birnholtz, Ravin Balakrishnan. (2006). An exploratory analysis of partner
+  action and camera control in a video-mediated collaborative task. Proceedings
+  of CSCW 2006 – the ACM Conference on Computer Supported Cooperative Work.
+  p. 403-412.
+CSCW 2006 Best Paper
+  Honorable Mention Award 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+63.
+
+
+ 
+
+
+Clifton
+  Forlines, Chia Shen, Daniel Wigdor, Ravin Balakrishnan. (2006). Exploring the effects of group size
+  and display configuration on visual search. Proceedings of CSCW 2006 –
+  the ACM Conference on Computer Supported Cooperative Work. p. 11-20.
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+62.
+
+
+ 
+
+
+Xiang
+  Cao, Ravin Balakrishnan. (2006). Interacting with dynamically
+  defined information spaces using a handheld projector and a pen. Proceedings
+  of UIST 2006 – the ACM Symposium on User Interface Software and Technology.
+  p. 225-234.
+video
+presentation at UIST 2006
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+61.
+
+
+ 
+
+
+Daniel
+  Wigdor, Darren Leigh, Clifton Forlines, Samuel Shipman, John Barnwell, Ravin
+  Balakrishnan, Chia Shen. (2006). Under
+  the table interaction. Proceedings of UIST 2006 – the ACM Symposium on
+  User Interface Software and Technology. p. 259-268
+video
+presentation at UIST 2006
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+60.
+
+
+ 
+
+
+Anastasia Bezerianos,
+  Pierre Dragicevic, Ravin Balakrishnan. (2006). Mnemonic rendering: An
+  image-based approach for exposing hidden changes in dynamic displays. Proceedings
+  of UIST 2006 – the ACM Symposium on User Interface Software and Technology.
+  p. 159-168.
+UIST
+  2006 Best Student Paper Award
+One
+  of 3 papers invited to a UIST reprise session at ACM SIGGRAPH 2007
+video
+presentation at UIST 2006
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+59.
+
+
+ 
+
+
+Tovi
+  Grossman, Ravin Balakrishnan. (2006). The design and evaluation of
+  selection techniques for 3d volumetric displays. Proceedings of UIST
+  2006 – the ACM Symposium on User Interface Software and Technology. p.
+  3-12.
+video
+presentation at UIST 2006
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+58.
+
+
+ 
+
+
+Clifton
+  Forlines, Daniel Vogel, Ravin Balakrishnan. (2006). HybridPointing:
+  Fluid switching between absolute and relative pointing with a direct input
+  device. Proceedings of UIST 2006 – the ACM Symposium on User Interface
+  Software and Technology. p. 211-220.
+video
+presentation at UIST 2006
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+57.
+
+
+ 
+
+
+Tovi
+  Grossman, Ravin Balakrishnan. (2006). An evaluation of depth
+  perception on volumetric displays. Proceedings of AVI 2006 - the
+  Conference on Advanced Visual Interfaces. p. 193-200.
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+56.
+
+
+ 
+
+
+Daniel Wigdor, Chia Shen, Clifton
+  Forlines, Ravin Balakrishnan. (2006). Table-centric interactive
+  spaces for real-time collaboration. Proceedings of AVI 2006 – the
+  Conference on Advanced Visual Interfaces. p. 103-107. 
+poster
+video
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+55.
+
+
+ 
+
+
+Anand Agarawala, Ravin Balakrishnan. (2006). Keepin' it real:
+  Pushing the desktop metaphor with physics, piles and the pen. Proceedings
+  of CHI 2006 - the ACM Conference on Human Factors in Computing Systems.
+  p. 1283-1292.
+video. This
+  was the most
+  viewed science & technology video on YouTube, ever
+  (with over 3.3M views as of May 2009).
+20 second "CHI Madness"
+  hip-hop summary video
+Selected press coverage (local
+  cache): CBC, June 2006, Digital Image Fest, June 2006 
+  (video)
+Anand's
+TED
+  Talk
+This
+  work is was productized as BumpTop.
+  The company was acquired by Google in 2010.
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+54.
+
+
+ 
+
+
+Daniel
+  Wigdor, Chia Shen, Clifton Forlines, Ravin Balakrishnan. (2006). Effects of display position and
+  control space orientation on user preference and performance. Proceedings
+  of CHI 2006 - the ACM Conference on Human Factors in Computing Systems. p.
+  309-318.
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+53.
+
+
+ 
+
+
+Tovi Grossman, Ken Hinckley, Patrick
+  Baudisch, Maneesh Agrawala, Ravin Balakrishnan. (2006). Hover widgets: Using the tracking
+  state to extend the capabilities of pen-operated devices. Proceedings
+  of CHI 2006 - the ACM Conference on Human Factors in Computing Systems. p.
+  861-870.
+video
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+52.
+
+
+ 
+
+
+Abhishek Ranjan, Ravin Balakrishnan,
+  Mark Chignell. (2006). Searching
+  in audio: The utility of transcripts, dichotic presentation, and time-compression.
+  Proceedings of CHI 2006 - the ACM Conference on Human Factors in Computing
+  Systems. p. 721-730.
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+51.
+
+
+ 
+
+
+Michael Wu, Chia Shen, Kathy Ryall, Clifton Forlines, Ravin Balakrishnan. (2006). Gesture registration, relaxation,
+  and reuse for multi-point direct-touch surfaces. Proceedings of TableTop 2006 - the IEEE International Workshop on
+  Horizontal Interactive Human Computer Systems. p. 183.190. 
+video
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+50.
+
+
+ 
+
+
+Daniel
+  Vogel, Ravin Balakrishnan. (2005). Distant freehand pointing and clicking
+  on very large high resolution displays. Proceedings of UIST 2005 - the
+  ACM Symposium on User Interface Software and Technology. p. 33-42.
+video
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+49.
+
+
+ 
+
+
+Shahzad
+  Malik, Abhishek Ranjan,
+  Ravin Balakrishnan. (2005). Interacting
+  with large displays from a distance with vision-tracked multi-finger gestural
+  input. Proceedings of UIST 2005 - the ACM Symposium on User Interface
+  Software and Technology. p. 43-52.
+One
+  of 3 papers invited to a UIST reprise session at ACM SIGGRAPH 2006
+video
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+48.
+
+
+ 
+
+
+Gonzalo
+  Ramos, Ravin Balakrishnan. (2005). Zliding: Fluid zooming and sliding for high precision
+  parameter manipulation. Proceedings of UIST 2005 - the ACM Symposium
+  on User Interface Software and Technology. p. 143-152.
+video
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+47.
+
+
+ 
+
+
+Clifton
+  Forlines, Ravin Balakrishnan, Paul Beardsley, Jeroen
+  van Baar, Ramesh Raskar.
+  (2005). Zoom-and-Pick: Facilitating
+  visual zooming and precision pointing with interactive handheld projectors.
+  Proceedings of UIST 2005 - the ACM Symposium on User Interface Software
+  and Technology. p. 73-82.
+video
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+46.
+
+
+ 
+
+
+Michael
+  McGuffin, Ravin Balakrishnan. (2005). Interactive visualization of
+  genealogical graphs. Proceedings of InfoVis
+  2005 – the IEEE Symposium on Information Visualization. p. 17-24.
+video
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+45.
+
+
+ 
+
+
+Theophanis Tsandilas, Ravin Balakrishnan.
+  (2005). An evaluation of techniques for
+  reducing spatial interference in single display groupware. Proceedings
+  of ECSCW 2005 - the European Conference on Computer Supported Cooperative
+  Work. p. 221-240.
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+44.
+
+
+ 
+
+
+Daniel
+  Wigdor, Ravin Balakrishnan. (2005). Empirical investigation into the
+  effect of orientation on text readability in tabletop displays. Proceedings
+  of ECSCW 2005 - the European Conference on Computer Supported Cooperative
+  Work. p. 205-224.
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+43.
+
+
+ 
+
+
+Anastasia
+  Bezerianos, Ravin Balakrishan.
+  (2005). Canvas Portals: View
+  and space management on large displays. IEEE Computer Graphics and
+  Applications, 25(4). p. 34-43
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+42.
+
+
+ 
+
+
+Michael
+  McGuffin, Ravin Balakrishnan. (2005). Fitts'
+  law and expanding targets: Experimental studies and designs for user
+  interfaces. ACM Transactions on Computer-Human Interaction, 12(4).
+  p. 388-422.
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+41.
+
+
+ 
+
+
+Xiang Cao, Ravin Balakrishnan.
+  (2005). Evaluation of an online adaptive
+  gesture interface with command prediction. Proceedings of GI 2005 –
+  the Graphics Interface Conference. p. 187-194.
+GI
+  2005 Best Student Paper Award
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+40.
+
+
+ 
+
+
+Tovi Grossman, Ravin
+  Balakrishnan. (2005). The Bubble Cursor:
+  Enhancing target acquisition by dynamic resizing of the cursor’s activation
+  area. Proceedings of CHI 2005 – the ACM Conference on Human Factors in
+  Computing Systems. p. 281-290.
+CHI
+  2005 Best Paper Award
+video
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+39.
+
+
+ 
+
+
+Anastasia Bezerianos,
+  Ravin Balakrishnan. (2005). The Vacuum:
+  Facilitating the manipulation of distant objects. Proceedings of CHI
+  2005 – the ACM Conference on Human Factors in Computing Systems. p.
+  361-370.
+video
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+38.
+
+
+ 
+
+
+Tovi Grossman, Ravin
+  Balakrishnan. (2005). A
+  probabilistic approach to modeling two-dimensional pointing. ACM
+  Transactions on Computer-Human Interaction,12(3). p.
+  435-459.
+online appendix
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+37.
+
+
+ 
+
+
+Ravin
+  Balakrishnan. (2004). "Beating"
+  Fitts' law: Virtual enhancements for pointing
+  facilitation. International Journal of Human-Computer Studies, 61(6). p.
+  857-874.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+36.
+
+
+ 
+
+
+Tovi Grossman, Daniel Wigdor,
+  Ravin Balakrishnan. (2004). Multi-finger
+  gestural interaction with 3-D volumetric displays. Proceedings of UIST
+  2004 – the ACM Symposium on User Interface Software and Technology. p.
+  61-70.
+UIST
+  2004 Best Paper Award
+One
+  of 3 papers invited to a UIST reprise session at ACM SIGGRAPH 2005
+video
+Selected press coverage (local
+  cache): MIT Tech Review, Feb 2005,
+  Toronto Star, 20 Jan 2003
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+35.
+
+
+ 
+
+
+Daniel Vogel, Ravin Balakrishnan.
+  (2004). Interactive public ambient
+  displays: transitioning from implicit to explicit, public to personal,
+  interaction with multiple users. Proceedings of UIST 2004 – the ACM
+  Symposium on User Interface Software and Technology. p. 137-146.
+video
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+34.
+
+
+ 
+
+
+Shengdong Zhao, Ravin
+  Balakrishnan. (2004). Simple vs.
+  compound mark hierarchical marking menus. Proceedings of UIST 2004 –
+  the ACM Symposium on User Interface Software and Technology. p. 33-42.
+video
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+33.
+
+
+ 
+
+
+Karan Singh, Ravin Balakrishnan.
+  (2004). Visualizing 3D
+  scenes using non-linear projections and data mining of previous camera
+  movements. Proceedings of Afrigraph 2004 –
+  the ACM African Graphics Conference. p. 41-48.
+video
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+32.
+
+
+ 
+
+
+Michael McGuffin, Gord Davison,
+  Ravin Balakrishnan. (2004). Expand-ahead:
+  A space-filling strategy for browsing trees. Proceedings of InfoVis 2004 – the IEEE Symposium on Information
+  Visualization. p. 119-126.
+video
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+31.
+
+
+ 
+
+
+Wael Aboelsaadat, Ravin Balakrishnan. (2004). An empirical comparison of transparency
+  on one and two layer displays. Proceedings of HCI 2004 – the British
+  HCI Conference. p. 53-67.
+   
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+30.
+
+
+ 
+
+
+Michael Tsang, Nigel
+  Morris, Ravin Balakrishnan. (2004). Temporal thumbnails: rapid
+  visualization of time-based viewing data. Proceedings of AVI 2004 –
+  the Conference on Advanced Visual Interfaces. p. 175-178.
+longer
+  (8 pages) unpublished version of the paper 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+29.
+
+
+ 
+
+
+Steven Tsang, Ravin Balakrishnan,
+  Karan Singh, Abhishek Ranjan.
+  (2004). A suggestive
+  interface for image guided 3D sketching. Proceedings of CHI 2004 – the
+  ACM Conference on Human Factors in Computing Systems. p. 591-598.
+video
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+28.
+
+
+ 
+
+
+Gonzalo Ramos, Matthew Boulos, Ravin Balakrishnan. (2004). Pressure widgets. Proceedings
+  of CHI 2004 – the ACM Conference on Human Factors in Computing Systems. p.
+  487-494.
+Selected press coverage (local cache):
+  MIT Tech Review, June 2004
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+27.
+
+
+ 
+
+
+Tovi Grossman, Ravin
+  Balakrishnan. (2004). Pointing
+  at trivariate targets in 3D environments. Proceedings
+  of CHI 2004 – the ACM Conference on Human Factors in Computing Systems. p.
+  447-454.
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+26.
+
+
+ 
+
+
+Daniel Wigdor, Ravin
+  Balakrishnan. (2004). A
+  comparison of consecutive and concurrent input text entry techniques for
+  mobile phones. Proceedings of CHI 2004 – the ACM Conference on Human
+  Factors in Computing Systems. p. 81-88.
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+25.
+
+
+ 
+
+
+Michael Wu, Ravin Balakrishnan.
+  (2003). Multi-finger and whole hand
+  gestural interaction techniques for multi-user tabletop displays. Proceedings
+  of UIST 2003 – the ACM Symposium on User Interface Software and Technology. p.
+  193-202. 
+video
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+24.
+
+
+ 
+
+
+Daniel Wigdor, Ravin
+  Balakrishnan. (2003). TiltText: Using tilt for text input to mobile phones.
+  Proceedings of UIST 2003 – ACM Symposium on User Interface Software and
+  Technology. p. 81-90. 
+Selected press coverage (local
+  cache): MIT Tech Review, Nov 2003
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+23.
+
+
+ 
+
+
+Gonzalo Ramos, Ravin
+  Balakrishnan. (2003). Fluid
+  interaction techniques for the control and annotation of digital video. Proceedings
+  of UIST 2003 – the ACM Symposium on User Interface Software and Technology. p.
+  105-114. 
+video
+Selected press coverage (local
+  cache): Varsity, 4 Nov 2002
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+22.
+
+
+ 
+
+
+Xiang Cao, Ravin Balakrishnan.
+  (2003). VisionWand:
+  Interaction techniques for large displays using a passive wand tracked in 3D.
+  Proceedings of UIST 2003 – the ACM Symposium on User Interface Software
+  and Technology. p. 173-182. 
+One
+  of 3 papers invited to a "Best of UIST" reprise session at ACM
+  SIGGRAPH 2004
+video
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+21.
+
+
+ 
+
+
+Michael McGuffin, Liviu Tancau, Ravin
+  Balakrishnan. (2003). Using
+  deformations for browsing volumetric data. Proceedings of Vis 2003 –
+  the IEEE Visualization Conference. p. 401-408.
+4min video
+  demonstrating key aspects of the research
+complete 8min video
+  demonstrating all the techniques developed in the research
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+20.
+
+
+ 
+
+
+George
+  W. Fitzmaurice, Azam Khan, William Buxton, Gordon
+  Kurtenbach, Ravin Balakrishnan. (2003). Sentient data access via a diverse
+  society of devices. ACM Queue, November 2003. p. 53-62.
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+19.
+
+
+ 
+
+
+Tovi Grossman, Ravin
+  Balakrishnan, Karan Singh. (2003). An interface for creating and
+  manipulating curves using a high degree-of-freedom input device.
+  Proceedings of CHI 2003 – the ACM Conference on Human Factors in Computing
+  Systems. p. 185-192.
+3min video demonstrating basic
+  aspects of the research system
+complete 15min video
+  demonstrating the entire research system
+Selected press coverage (local
+  cache): UofT
+  News 14 Apr 2003, NewsFactor 21 Apr 2003, Varsity, 24 Sep 2002
+interview/demo on Discovery
+  Channel's Daily Planet
+interview/demo
+  on CityPulse24
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+18.
+
+
+ 
+
+
+Nicholas Burtnyk,
+  Azam Khan, George W. Fitzmaurice, Ravin
+  Balakrishnan, Gordon Kurtenbach. (2002). StyleCam:
+  Interactive stylized 3D navigation using integrated spatial and temporal
+  controls. Proceedings of UIST 2002 – the ACM Symposium on User
+  Interface Software and Technology. p. 101-110. 
+video
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+17.
+
+
+ 
+
+
+Michael McGuffin, Ravin
+  Balakrishnan. (2002). Acquisition
+  of expanding targets. Proceedings of CHI 2002 – the ACM Conference on
+  Human Factors in Computing Systems. p. 57-64. 
+demo
+  of prototypes (java applets)
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+16.
+
+
+ 
+
+
+Tovi Grossman, Ravin
+  Balakrishnan, Gordon Kurtenbach, George W. Fitzmaurice, Azam
+  Khan, William Buxton. (2002). Creating
+  principal 3D curves with digital tape drawing. Proceedings of CHI 2002
+  – the ACM Conference on Human Factors in Computing Systems. p. 121-128.
+video
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+15.
+
+
+ 
+
+
+Tovi Grossman, Ravin
+  Balakrishnan, Gordon Kurtenbach, George W. Fitzmaurice, Azam
+  Khan, William Buxton. (2001). Interaction techniques
+  for 3D modeling on large displays. Proceedings of I3D 2001 – the ACM
+  Symposium on Interactive 3D Graphics. p. 17-23. 
+video
+additional video
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+14.
+
+
+ 
+
+
+Ravin Balakrishnan, George W.
+  Fitzmaurice, Gordon Kurtenbach. (2001). User interfaces for
+  volumetric displays. IEEE Computer, March 2001. p. 37-45. 
+video
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+13.
+
+
+ 
+
+
+William Buxton, George W.
+  Fitzmaurice, Ravin Balakrishnan, Gordon Kurtenbach. (2000). Large displays in automotive
+  design. IEEE Computer Graphics and Applications, 2(4). p. 68-75. 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+12.
+
+
+ 
+
+
+Ravin Balakrishnan, Ken Hinckley.
+  (2000). Symmetric bimanual
+  interaction. Proceedings of CHI 2000 – the ACM Conference on Human
+  Factors in Computing Systems. p. 33-40. 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+11.
+
+
+ 
+
+
+George W. Fitzmaurice, Ravin
+  Balakrishnan, Gordon Kurtenbach. (1999). Sampling,
+  synthesis, and input devices. Communications of the ACM, August 1999,
+  42(8). p. 54-63.
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+10.
+
+
+ 
+
+
+Ravin Balakrishnan, Ken Hinckley.
+  (1999). The role of kinesthetic
+  reference frames in two-handed input performance. Proceedings of UIST
+  1999 – the ACM Symposium on User Interface Software and Technology. p.
+  171-178. 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+9.
+
+
+ 
+
+
+Ravin Balakrishnan, George W. Fitzmaurice,
+  Gordon Kurtenbach, William Buxton. (1999). Digital tape drawing. Proceedings of
+  UIST 1999 – the ACM Symposium on User Interface Software and Technology.
+  p. 161-169. 
+video
+additional video 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+8.
+
+
+ 
+
+
+Ravin Balakrishnan, Gordon
+  Kurtenbach. (1999). Exploring bimanual
+  camera control and object manipulation in 3D graphics interfaces.
+  Proceedings of CHI 1999 – the ACM Conference on Human Factors in Computing
+  Systems. p. 53-63. 
+video demonstrating an example bimanual
+  camera control and painting/sculpting interface (Azam
+  Khan, Gordon Kurtenbach, Ravin Balakrishnan, Bill Buxton)
+additional video (Azam Khan, Gordon Kurtenbach, Ravin Balakrishnan, Bill
+  Buxton)
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+7.
+
+
+ 
+
+
+George W. Fitzmaurice, Ravin
+  Balakrishnan, Gordon Kurtenbach, William Buxton. (1999). An exploration into supporting artwork
+  orientation in the user interface. Proceedings of CHI 1999 – the ACM
+  Conference on Human Factors in Computing Systems. p. 167-174. 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+6.
+
+
+ 
+
+
+Ravin Balakrishnan, George W.
+  Fitzmaurice, Gordon Kurtenbach, Karan Singh. (1999). Exploring interactive curve and surface
+  manipulation using a bend and twist sensitive input strip. Proceedings
+  of I3D 1999 – the ACM Symposium on Interactive 3D Graphics. p. 111-118.
+
+color plate images 
+video
+additional video
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+5.
+
+
+ 
+
+
+Ravin Balakrishnan, Pranay Patel. (1998). The
+  PadMouse: Facilitating selection and spatial
+  positioning for the non-dominant hand. Proceedings of CHI 1998 – the
+  ACM Conference on Human Factors in Computing Systems. p. 9-16. 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+4.
+
+
+ 
+
+
+Ravin Balakrishnan, Thomas Baudel, Gordon Kurtenbach, George W. Fitzmaurice. (1997).
+  The Rockin'Mouse:
+  Integral 3D manipulation on a plane. Proceedings of CHI 1997 –
+  the ACM Conference on Human Factors in Computing Systems. p. 311-318. 
+video
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+3.
+
+
+ 
+
+
+Ravin Balakrishnan, I. Scott MacKenzie. (1997). Performance
+  differences in the fingers, wrist, and forearm in computer input control.
+  Proceedings of CHI 1997 – the ACM Conference on Human Factors in Computing
+  Systems. p. 303-310. 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+2.
+
+
+ 
+
+
+Colin Ware, Ravin Balakrishnan.
+  (1994). Target acquisition in fishtank VR: The
+  effects of lag and frame rate. Proceedings of GI 1994 – the Graphics
+  Interface Conference. p. 1-7. 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+1.
+
+
+ 
+
+
+Colin Ware, Ravin Balakrishnan.
+  (1994). Reaching for objects in VR displays:
+  Lag and frame rate. ACM Transactions on Computer-Human Interaction,
+  1(4). p. 331-356. 
+
+
+
+Conference abstracts, posters, technical reports,
+theses, and other tree wasters.
+Jeremy Birnholtz, Abhishek
+Ranjan, Ravin Balakrishnan. (2008). Error and coupling: Extending common
+ground to improve the provision of visual information for collaborative tasks.
+Conference of the International Communication Association, Montreal, Canada,
+May 22-26, 2008.
+ 
+Jeremy Birnholtz, Abhishek
+Ranjan, Ravin Balakrishnan. (2007). Using motion tracking data to
+augment video recordings in experimental social science research.
+Proceedings of the Third International Conference on e-Social Science. 
+ 
+Igor Mordatch, Patrick Coleman, Karan Singh,
+Ravin Balakrishnan. (2007). Interface
+techinques for 3D control of spatial keyframing. Poster in ACM SIGGRAPH Conference.
+ 
+Daniel Wigdor, Chia Shen, Clifton Forlines, Ravin Balakrishnan. (2006). Table-centric interactive
+spaces for real-time collaboration: a video demonstration. Video Proceedings
+of CSCW 2006 – the ACM Conference on Computer Supported Cooperative Work. 
+ 
+Daniel Wigdor, Chia Shen, Clifton Forlines, Ravin Balakrishnan. (2006). Table-centric interactive
+spaces for real-time collaboration: Solutions, evaluation, and application
+scenarios. Proceedings of CollabTech 2006.
+Gonzalo Ramos, Ravin
+Balakrishnan. (2004). Visual features and
+interference in pressure widgets. Technical Report, DGP Lab, University
+of Toronto, DGP-TR-2004-003.
+Anastasia Bezerianos, Ravin Balakrishnan. (2004). Interaction and visualization techniques for
+very large scale high resolution displays. Technical Report, DGP Lab,
+University of Toronto, DGP-TR-2004-002.
+video
+Ravin Balakrishnan. (2001).
+Issues in bimanual interaction for computer graphics. Ph.D. Thesis.
+Department of Computer Science, University of Toronto. 
+Ravin Balakrishnan. (1997).
+The evolution and evaluation of a 3D input device. M.Sc.
+Thesis. Department of Computer Science, University of Toronto. 
+Ravin Balakrishnan, Colin
+Ware, Tim Smith. (1994). Virtual handtool with force-feedback. Extended Abstracts of
+CHI 1994 – the ACM Conference on Human Factors in Computing Systems. p.
+83-84.
+Ravin Balakrishnan, Przemyslaw Pochec. (1992). A testbed for surface orientation detection algorithms. APICS
+Computer Science Conference. Halifax, N.S. 
+
+
+
+Courses
+Current courses:
+none
+Courses I've taught in the past:
+CSC2604, “Topics in Human Centered
+and Interdisciplinary Computing”, Fall 2013 (Grad).
+CSC2524, “Topics in Interactive
+Computing”, Winter 2013 (Grad).
+CSC2524, "Topics in Interactive Computing", Fall 2010 (Grad)
+CSC490 "Capstone Design Course", Fall
+2006 (Undergrad)
+CSC2524, "Topics in Interactive Computing", Fall 2006 (Grad)
+CSC490 "Capstone Design Course", Sep 2005 - Apr 2006
+(Undergrad)
+CSC2524, "Topics in Interactive Computing", Spring 2006 (Grad)
+CSC490 "Capstone Design Course", Sep 2004 - Apr 2005
+(Undergrad)
+CSC428/CSC2514, "Human Computer Interaction", Fall 2004 (Crosslisted
+Grad/Undergrad)
+CSC2524, "Topics in Interactive Computing", Fall 2004 (Grad)
+"Capstone Design Course", Sep 2003 - Apr 2004 (Undergrad)
+CSC428/CSC2514, "Human Computer Interaction", Fall 2003 (Crosslisted
+Grad/Undergrad)
+CSC2524, "Topics in Interactive Computing", Fall 2003 (Grad)
+CSC428/CSC2514, "Human Computer Interaction", Fall 2002 (Crosslisted
+Grad/Undergrad)
+CSC2524, "Topics in Interactive Computing", Fall 2002 (Grad)
+CSC318, "The Design of Interactive Computational Media",
+Spring 2002 (Undergrad)
+CSC428/CSC2514, "Human Computer Interaction", Fall 2001 (Crosslisted
+Grad/Undergrad)
+CSC258, "Computer Organization", Summer 2000 (Undergrad)
+CSC258, "Computer Organization", Spring 2000 (Undergrad)
+CSC258, "Computer Organization", Fall 1999 (Undergrad)
+CSC108, "Introduction to Computer Programming", Summer 1999
+(Undergrad)
+CSC258, "Computer Organization", Spring 1999 (Undergrad)
+CSC340, "Information Systems Analysis and Design", Fall 1998
+(Undergrad)
+CSC258, "Computer Organization", Summer 1998 (Undergrad)
+CSC340, "Information Systems Analysis and Design", Fall 1997
+(Undergrad)
+CSC104, "The How and Why of Computing", Spring
+1997 (Undergrad)
+CSC258,
+"Computer Organization", Summer 1995 (Undergrad)
+
+
+
+Students & Postdoctoral Fellows
+Current graduate students:
+Aakar Gupta Ph.D.
+Rorik Henrikson Ph.D.
+Sajad Shirali-Shahreza. Ph.D.
+co-advised with Yashar Ganjali.
+Alumni
+Fanny Chevalier. Postdoctoral
+fellow, Jan 2012 – Nov 2013. co-advised with Karan
+Singh and Sara Diamond.
+Thomas Pietrzak.
+Postdoctoral fellow, Jan 2011 - Sep 2011
+William Soukoreff. Postdoctoral fellow, May 2010 - Nov 2011.
+Seok-Hyung Bae.
+Postdoctoral fellow, Sep 2007 - Feb 2010. co-advised
+with Karan Singh.
+Tomer
+Moscovich Postdoctoral fellow, Feb 2007-June 2008
+Jeremy Birnholtz
+Postdoctoral fellow, Aug 2005-July 2007. co-advised
+with colleagues in NECTAR.
+Pierre Dragicevic
+Postdoctoral fellow, Feb 2006-Apr 2007.
+Géry Casiez Postdoctoral
+fellow, Feb-Aug 2005.
+ 
+Jian Zhao Ph.D. Jun
+2015
+Dustin Freeman Ph.D. May
+2015
+Xiaojun Bi Ph.D. Jun
+2011.
+Daniel Vogel Ph.D. Apr 2010.
+Clifton Forlines Ph.D. Nov
+2008.
+Abhishek
+Ranjan Ph.D. Oct 2008.
+Xiang Cao Ph.D. Oct 2008.
+Tovi Grossman Ph.D. Apr
+2008.
+Daniel Wigdor Ph.D.
+Apr 2008.
+Gonzalo Ramos Ph.D. Jan
+2008.
+Anastasia Bezerianos
+Ph.D. Sep 2007.
+Michael McGuffin Ph.D.
+May 2007.
+ 
+Rinat Abdrashitov. M.Sc. Jan 2015. co-advised
+with Karan Singh.
+Jonathan Deber M.Sc. May, 2013.
+Stephanie Santosa M.Sc. May 2013. co-advised with Karan Singh.
+Aakar Gupta M.Sc. Jan
+2012.
+Rorik Henrikson M.Sc. Jan 2012.
+Navkar Samdaria
+M.Sc. Jan 2012.
+Mohit
+Jain M.Sc. Jan 2011.
+Akhil
+Mathur M.Sc. Jan 2011.
+Dominika
+Ruszkowski M.Sc. Aug 2010.
+Dustin Freeman M.Sc. Aug
+2010.
+Patrick Dubroy
+M.Sc. May 2009.
+Azam
+Khan M.Sc. Sep 2008.
+Michael Jurka M.Sc. Jan 2008.
+Gerry Chu M.Sc. Dec
+2007.
+Tristan Campbell M.Sc. Oct 2006.
+Steven Tsang M.Sc. Aug 2006. co-advised with
+Karan Singh
+Anand Agarawala M.Sc.
+Jan 2006.
+Abhishek
+Ranjan M.Sc. Jan 2005.
+Jia Sheng M.Sc. Jan 2005. co-advised
+with Karan Singh
+Daniel Vogel M.Sc. Jan 2005
+Wael Aboelsaadat M.Sc.
+Jan 2004.
+Xiang Cao M.Sc. Jan 2004. co-advised with Allan Jepson
+Tovi Grossman M.Sc. Jan
+2004.
+Daniel Wigdor M.Sc. Jan
+2004.
+Yan (Grace) Wang M.Sc. Dec 2003.
+Michael McGuffin 
+M.Sc. Aug 2002. co-advised with Gordon Kurtenbach
+ 
+Sameer Vohra. Undergraduate research assistant, summer 2007 (NSERC
+USRA). co-advised with Tomer
+Moscovich
+Curren Pangler.
+Undergraduate research assistant, summer 2007 (NSERC USRA). co-advised
+with Tomer Moscovich
+Nicholas Kong.
+Undergraduate research assistant, summer 2005, summer 2006 (NSERC USRA), summer
+2007 (NSERC USRA). co-advised with Tovi Grossman
+Matthew Boulos. Undergraduate research
+assistant, summer 2003 (NSERC USRA), summer 2004 (NSERC USRA). co-advised with Gonzalo Ramos
+Vikas Jain. Undergraduate research assistant, summer
+2003. co-advised with Tovi Grossman
+Jeffrey Magder. Undergraduate research
+assistant, summer 2002 (NSERC USRA)
+Abhishek
+Ranjan. Undergraduate research assistant, summer
+2002
+Tovi Grossman.
+Undergraduate research assistant, summer 2000, summer 2001, summer 2002 (NSERC
+USRA)
+
+
+
+Brief Biography
+Ravin Balakrishnan is a
+Professor at the Department of Computer
+Science, University of Toronto where
+he co-directs the Dynamic Graphics Project
+(DGP) laboratory, and is currently serving as the department’s chair. His
+research interests are in Human Computer Interaction (HCI), Information and
+Communications Technology for Development, and Interactive Computer Graphics.
+He earned his Ph.D. in Computer Science from the University of Toronto, working
+with Bill Buxton, while concurrently a
+part-time researcher at Alias|wavefront (now part of
+Autodesk). He was elected to the ACM
+CHI Academy in 2011, is the recipient of an Alfred
+P. Sloan Research Fellowship
+(2007), an Ontario Premier's Research Excellence Award (2003), the Bell
+University Laboratories Associate Chair in HCI at the University of Toronto
+(2002-2006), a Canada Research Chair (2006-2016) and multiple best paper type
+awards at the top conferences in his field (ACM CHI, CSCW, UIST). In addition
+to working with students and colleagues at Toronto, he collaborates with
+researchers at leading industrial laboratories and universities worldwide,
+including stints as a visiting researcher at Mitsubishi
+Electric Research Laboratories (MERL) (2005-2007), a visiting professor at
+the University of Paris &
+INRIA (2006), and a visiting researcher at Microsoft Research's Redmond,
+Beijing,
+Bangalore
+and Cambridge
+labs while on sabbatical from the University of Toronto during the 2007-2008
+academic year. He was a co-founder of Bump
+Technologies Inc., which was acquired by Google in 2010, and is involved in
+two other startups that are commercializing research
+conducted in his lab: Arcestra & Conceptualiz. He has also consulted for
+various leading companies as an expert witness in patent infringement matters
+in multiple countries. Further information, including publications and videos
+demonstrating some of his research, can be obtained from www.dgp.toronto.edu/~ravin
+
+
+
+Professional Activities
+Journal, conference and workshop organization
+ACM Transactions on Computer-Human
+Interaction. Associate Editor, 2010-present.
+IEEE
+Transactions on Visualization and Computer Graphics. Associate Editor,
+2008-2011.
+ACM UIST 2009 Symposium on
+User Interface Software and Technology. Sponsorship Chair
+IEEE 3D User Interfaces
+2009. Conference Co-Chair
+ACM UIST 2008 Symposium on
+User Interface Software and Technology. Sponsorship Co-Chair
+Human-Computer Interaction journal.
+Co-guest editor of Special Issue on Ubiquitous Multi Display Environments, Volune 24, Issues 1 & 2, 2009. (Guest Editors'
+Introduction)
+ACM UIST 2007 Symposium on
+User Interface Software and Technology. Program Chair & Sponsorship
+Co-Chair
+Ubicomp
+2005 Workshop on "The Spaces in-between: Seamful
+vs. Seamless Interactions". Co-organizer.
+Graphics Interface 2004 Conference. Conference and Program Co-Chair
+Graphics Interface 2002 Conference. Posters and Demonstrations Chair
+International Input Research
+Workshop, 2000, Ribeaucourt, France. Organizing
+Committee.
+Conference and workshop program committees
+ACM CHI
+Conference on Human Factors in Computing Systems, Associate Chair for
+Papers (2002, 2003, 2004, 2005, 2006, 2009, 2010, 2011, 2014, 2015) 
+ACM CHI
+Conference on Human Factors in Computing Systems, Short Papers Program
+Committee (2001)
+ACM UIST
+Symposium on User Interface Software and Technology, Papers Program Committee
+(2003, 2004, 2005, 2006, 2010, 2015)
+ACM
+SIGGRAPH Conference on Computer Graphics and Interactive Techniques (2010)
+International
+Projector-Camera Systems Workshop (PROCAMS), Program Committee (2008, 2009).
+ACM
+SIGGRAPH International Conference on Virtual-Reality Continuum and its
+Applications in Industry (VRCAI), Program Committee (2008).
+International Conference on Intelligent User Interfaces (IUI), Workshop on
+Intelligent User Interfaces for Developing Regions, Program Committee (2008).
+Graphics
+Interface Conference, Papers Program Committee (2002)
+ACM VRST
+Symposium on Virtual Reality Software and Technology, Papers Program Committee
+(2003)
+IEEE InfoVis Symposium on Information Visualization, Papers
+Program Committee (2006)
+ACM I3D
+Symposium on Interactive 3D Graphics and Games, Papers Program Committee (2006)
+NordiCHI
+Conference, Papers Program Committee (2004)
+8th Eurographics Workshop on Virtual Environments, Barcelona,
+Spain, Papers Program Committee (2002)
+ 
+Meetings, seminars, etc.
+Seminars on research and related skills for grad
+students (Jan-Apr 2007), University of Toronto.
+ 
+
+
+
+Directions to my office
+My office is in room BA5270
+on the 5th floor of the Bahen Centre for Information
+Technology (BCIT), 40 St. George Street, on the downtown St. George Campus of
+the University of Toronto.
+If you are taking the subway:
+Get off at Queens Park
+station, and walk west along College Street till you reach St. George Street.
+Turn right onto St. George Street. BCIT is the second (newer) building on your
+left (see map below).
+If you are driving:
+From College Street, turn
+onto Huron Street heading north, then take the first right into the entrance to
+the underground parking lot for BCIT.
+
+
+
+
+
+View Larger Map 
+ 
+

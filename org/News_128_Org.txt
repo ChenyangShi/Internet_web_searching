@@ -1,0 +1,191 @@
+
+
+
+
+Skip to main navigation Skip to Content
+
+Computer Science
+University of Toronto
+
+
+U of T Portal
+Student Support
+Contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+Why Study CS at U of T
+Career Options
+History of DCS
+Giving to DCS
+Computer Science at UofT Mississauga
+Computer Science at UofT Scarborough
+Contact 
+Employment Opportunities for Faculty/Lecturers
+How to Find Us
+
+
+Undergraduate
+
+Prospective Undergraduates 
+Current Undergraduates 
+
+
+Graduate
+
+Prospective Graduate students 
+Current Graduate students 
+
+
+Research
+
+Research Areas 
+Partner with us
+
+
+People
+
+Faculty
+Staff
+In Memoriam
+Alumni and Friends
+Honours & Awards
+Women in Computer Science
+Graduate Student Society
+Undergraduate Student Union
+Undergraduate Artificial Intelligence Group
+Undergraduate Theory Group
+
+
+News & Events
+
+News
+Events
+@DCS Update
+Alumni
+Donate
+
+
+
+
+//IDs to be active: <!-- 
+ipjInitUnorderedListMenu("sectionMenuElementID_0",0);
+//-->
+<!-- 
+ipjInitUnorderedListMenuItemsActive("sectionMenuElementID_0");
+//-->
+
+
+
+				You are viewing: > Home > News & Events > Events > Department of Computer Science Lecture: Mar 28
+
+
+
+
+About 
+Undergraduate 
+Graduate 
+Research 
+People 
+News & Events 
+
+
+//IDs to be active: <!-- 
+ipjInitUnorderedListMenu("sectionMenuElementID_1",0);
+//-->
+<!-- 
+ipjInitUnorderedListMenuItemsActive("sectionMenuElementID_1");
+//-->
+
+
+Department of Computer Science Lecture: Mar 28
+
+
+
+<!--
+function InstanceOrSeries(instanceLink, seriesLink)
+{
+}
+//-->
+
+
+
+
+
+
+
+Event date: Tuesday, March 28, 2017, at 11:00 AM
+
+
+
+
+
+
+Location: Bahen Centre, 40 St. George Street, Rm 1200
+
+
+
+
+
+
+
+Speaker: Ishtiaque Ahmed, Cornell University
+
+Title: Understanding People and Designing Technology for Sustainable Development
+Abstract:
+ The top Sustainable Development Goals of United Nations, including poverty alleviation, literacy, and gender equality, are closely tied to the problem of exclusion from core economic, social, and cultural infrastructures. As a potential tool for sustainable development, technology has the responsibility to make these infrastructures more inclusive. However, to date, many of the world's biggest technological advances have primarily benefited only a small fraction of the developed world. The goal of my research is to leverage ethnographic methods to understand the underserved populations in low-income regions, and design and develop appropriate technologies to bring sustainable positive change in their lives.
+ In this talk, I will describe my general research approach that combines ethnography and computing. I will focus on two projects to explain how understanding the communities through a deep ethnography can result in effective technologies. The first is "Suhrid", an accessible community-sourced mobile phone interface for a low-literate rickshaw driver community. The second is "Protibadi", a crowd-supported mobile phone application for women to combat public sexual harassment. Both projects will demonstrate a set of ethnographic tools and techniques for understanding different economic, social, and cultural values of a community and how those can play a crucial role in designing novel technologies.
+ In addition, I will briefly discuss my ongoing work on privacy right, refugee problem, technology repair, and e-waste to show how ethnographic studies have opened up novel spaces for Design and other creative interactions mediated by computing technologies. Through these projects, I will also explain how "voice", which I define by better access, visibility, and freedom, can empower marginalized communities combat the problem of exclusion, and contribute towards sustainable development. 
+Biography: 
+Syed Ishtiaque Ahmed is a Ph.D. Candidate in the Department of Information Science at Cornell University where he is advised by Prof. Steven J. Jackson. He then taught at BUET for two years as a Lecturer, where in 2009, he founded the first Human-Computer Interaction research group in Bangladesh, which he continues to lead. In 2010, Ishtiaque started an open-source digital map making movement in Bangladesh. In 2011, Ishtiaque was awarded the International Fulbright Science and Technology Fellowship for doing his PhD at Cornell University. His PhD research lies in the intersection of Human-Computer Interaction (HCI) and Information and Communication Technologies for Development (ICTD). He has worked with different marginalized communities in Bangladesh and India including low-literate rickshaw drivers, victims of sexual harassment, mobile phone repairers, garments factory workers, and evicted slum dwellers. He connects ethnography and technology design to address the development-related challenges associated with those communities. In 2016, Ishtiaque co-created the first "Innovation Lab"
+in Bangladesh. He has also received generous support for his research from National Science Foundation (NSF), Intel Science and Technology Center for Social Computing, OpenStreetMap Foundation, and Microsoft Research, among others.
+For Additional information contact Steve Easterbrook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+All rights reserved copyright Computer Science, University of Toronto | Site Map
+
+
+ Cufon.now(); 
+
+
+
+
+<!--
+//ip startup script
+ipjInitIronPointFormHandling();
+//-->
+
+ipjMoveViewstateFromFooter()

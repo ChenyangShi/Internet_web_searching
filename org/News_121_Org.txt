@@ -1,0 +1,64 @@
+
+
+
+Roger Grosse
+
+
+ Home 
+Group
+Publications
+Writings
+Teaching
+
+
+
+
+
+About me
+
+I am an Assistant Professor of Computer Science at the University of Toronto, focusing on machine learning. Previously, I was a postdoc at Toronto, after having received my Ph.D. at MIT, studying under Bill Freeman and Josh Tenenbaum. Before that, I did my undergraduate degree in symbolic systems and MS in computer science at Stanford University.
+I am a co-creator of Metacademy, a web site which helps you formulate personalized learning plans for machine learning and related topics. It’s based on a dependency graph of the core concepts. I also recently taught an undergraduate neural networks course at the University of Toronto.
+Some research highlights (see publications page for a complete list):
+
+Compositional structure search. Suppose you have a dataset and you want to know what kind of structure is in it. One way to do this is to define a large, open-ended class of model structures and automatically search it to find one which fits the data well.
+	
+Many unsupervised learning algorithms can be viewed as matrix decompositions. By automatically searching for a matrix decomposition structure that fits a dataset well, we discover representations of a variety of domains in terms of semantically meaningful features.
+We can do a similar search over Gaussian process models of time series data. By finding a highly structured kernel, you can often get an interpretable decomposition of a time series into meaningful components. The Automatic Statistician does this and produces a written report with the structure it’s found.
+
+
+
+Evaluating models and algorithms. In some cases it’s surprisingly hard to measure how well your model or algorithm is performing. I’ve worked to develop rigorous quantitiative evaluation techniques for these difficult cases:
+	
+It’s notoriously hard to evaluate log-likelihoods of Markov random fields, and to make matters worse, the most widely used methods are overly optimistic (so your model may be much worse than you think!). We introduce the reverse AIS estimator, a technique which computes a stochastic lower bound on the log-likelihood of an approximate model. In combination with the traditional upper bounds, you can pinpoint the log-likelihood quite accurately.
+Marginal likelihood estimators are hard to evaluate since they just return a scalar value, and you don’t have a good independent estimate of the value (otherwise you wouldn’t need to run the algorithm!). Bidirectional Monte Carlo gives a way to provably estimate marginal likelihoods for simulated data by sandwiching the true value between stochastic lower and upper bounds which converge in the limit of infinite computation. In some cases, this can also bound the KL divergence of approximate samples from the true posterior.
+
+
+
+The geometry of learning and inference. Information geometry is a subfield of statistics which treats probability distributions as points on a manifold. This lets you formulate learning algorithms that are invariant to the parameterization of the model.
+	
+Natural gradient descent is a second-order optimization method which uses the Fisher matrix (i.e. the covariance of the log-likelihood gradients) to approximate the curvature. Unfortunately, the exact method is impractical because the Fisher matrix may have millions of rows and columns!  We’ve taken the strategy of approximating the Fisher matrix compactly and tractably using structured probabilistic models of the gradient computation. This seems to work well for optimizing restricted Boltzmann machines, fully connected networks, and convolutional networks.
+Annealed importance sampling (AIS) is one of the most powerful existing methods for estimating partition functions. To use it, one must specify a sequence of distributions bridging from a tractable one to the target one. Past work has nearly always used geometric averages of the distributions, but we show that moment averages can work much better both theoretically and practically. The techniques of information geometry give a nice way to understand these sequences of distributions and analyze their performance.
+
+
+
+Learning mid-level representations. The human brain analyzes the sensory world by building a hierarchy of representations, where each layer captures increasingly high-level and abstract structure. One interpretation is that the role of each layer is to take structure which is only implicit in lower layers and make it explicit. With this inspiration, my research has focused on learning mid-level representations which make explicit various features of the environment. This work draws upon techniques from a number of areas, especially deep learning, Bayesian statistics, and image processing. Specific topics I’ve worked on include:
+	
+Shift-invariant sparse coding learns a compact code for auditory data where the learned features reveal pitches (for music), and fundamental frequency and formants (for speech).
+Convolutional deep belief networks learn to represent images in terms of a hierarchy of edge fragments, object parts, and objects.
+Intrinsic images are a representation of images in terms of shading and reflectance components. These provide information about shape and material properties, respectively.
+
+
+Contact
+Department of Computer Science
+University of Toronto
+Office: Pratt 290F
+6 King’s College Rd.
+Toronto, ON M5S 3G4, Canada
+Phone: 416-978-7391
+e-mail: rgrosse_at_cs_toronto_edu
+Updated 7-29-16
+
+
+
+
+

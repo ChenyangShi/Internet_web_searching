@@ -1,0 +1,177 @@
+
+
+
+
+ 
+
+
+
+photo by Louis Fabian Bachrach
+Ronald M. Baecker 
+Professor of Computer Science Director of the Technologies for Aging Gracefully Lab Bell Chair in Human-Computer Interaction, University of Toronto 
+
+Biography
+Publications
+Research Team
+Research Sponsors
+Contact Information
+
+Download CV (PDF)
+
+
+
+
+
+Biography
+Ronald Baecker is Director of the Technologies for Aging Gracefully Laboratory (TAGlab), Professor of 
+      Computer Science, and Bell Universities Laboratories Chair in Human-Computer 
+      Interaction.
+The focus of TAGlab activities is R&D in support of aging throughout the life course including cognition, communication, and social interaction. Collaborators include individuals from Baycrest, Columbia Medical School, Sunnybrook Health Sciences Centre, and Toronto Rehabilitation Institute.
+He is also Affiliate Scientist with the Kunin-Lunenfeld Applied 
+        Research Unit of Baycrest (formerly, Baycrest Centre for Geriatric Care), Adjunct Scientist with Toronto Rehabilitation Institute,  and founder  of the  Knowledge Media Design Institute at the University of Toronto. He has been named one of the 60 
+      Pioneers of Computer Graphics by ACM SIGGRAPH, has been elected to the CHI Academy by ACM SIGCHI, 
+      and has been given the Canadian Human 
+        Computer Communications Society Achievement Award in May 2005. His B.Sc., M.Sc., and 
+      Ph.D. are from the Massachusetts Institute of Technology.
+Professor Baecker is an active researcher, lecturer, and consultant on 
+      human-computer interaction and user interface design, user support, software 
+      visualization, multimedia, computer-supported cooperative work and learning, the 
+      Internet, entrepreneurship and strategic planning in the software industry, and 
+      the role of information technology in business. He has published over 175 papers and
+      articles on topics in these areas. He is also the author or co-author of two
+      published videotapes and of four books: 
+
+
+"Reading in Human-Computer Interaction: A Multidisciplinary Approach", 
+"Human Factors in Typography for More Readable Programs", 
+"Readings in Groupware and Computer-Supported Cooperative Work: Facilitating Human-Human Collabortation", and 
+"Reading in Human-Computer Interaction: Towards the Year 2000". 
+
+He is the co-holder of 2 patents. Professor Baecker was the founder, CEO, and Chairman of HCR Corporation, a
+      Toronto-based UNIX contract R&D and technology development and marketing
+      firm, sold in 1990 to a U.S. competitor.  He was also the founder of Expresto Software Corp, a firm specializing
+      in structured visual communication explaining software and other complex
+      technology. Expresto Software was sold in 2002 to Caseware International.  
+      Another entrepreneurial venture was a virtual non-profit foundation within the University of Toronto to distribute and support the open source ePresence Interactive Media rich media webcasting and archiving system, which then led to the formation of a start-up delivering ePresence products, services, and solutions, recently sold to Desire2Learn. Most recently, he was instrumental in the founding of MyVoice.
+
+Research Team
+Current Graduate Students:
+
+Jessica David, Ph.D.
+Carrie Demmans Epp, Ph.D.
+Pif Edwards, Ph.D.
+Mike Massimi, Ph.D.
+Matt Medland, M.A.Sc. Candidate
+Velian Pandeliev, M.Sc.
+Golnoosh Poorshahid, M.Sc.
+
+Research Staff:
+
+Alison Benjamin, Research Associate, TAGlab
+Rachelle Campigotto, Research Associate, TAGlab
+Garry Ing, Research Associate, TAGlab
+Liam Kaufman, Research Associate, TAGlab
+Deborah Ptak, Research Associate, TAGlab
+
+Collaborators: 
+
+  Sandra Black, Ph.D.; Director, Neurosciences Research Program, Sunnybrook Research Institute
+Jeremy Birnholtz, Pd. D; Assistant Professor, Cornell University
+  Adam M. Brickman, Ph.D.; Postdoctoral Fellow, Taub Institute for Research on Alzheimer's 
+       Disease and the Aging Brain, Columbia University
+Martha Ladly, Lead Researcher, Mobile Experience Lab; Associate Professor, Experience Design, Ontario College of Art and Design (OCAD)
+ Elsa 
+         Marziali, Ph.D.; Professor, Faculty of Social Work and Medicine 
+         (Psychiatry); Director, Katz Centre; Norman and Honey Schipper Chair in Gerontological 
+       Social Work; University of Toronto
+ Brian 
+         Richards, Ph.D.; Psychologist, Behavioural Neurology Program; 
+         Coordinator, Memory Link Program; Baycrest 
+       Centre
+  Elizabeth Rochon, Ph.D.; Associate Professor, Graduate Department of Speech-Language Pathology, University of Toronto
+Joshua Steinerman, M.D.; Postdoctoral Clinical Fellow, Department of Neurology, Columbia   University Medical Centre; Founding Scientist, ProGevity Neuroscience.
+  Yaakov Stern, Ph.D.; Professor of Clinical Neuropsychology, Taub Institute for Research on Alzheimer's 
+       Disease and the Aging Brain, Columbia University
+Gary Turner, MD; Stroke Rehabilitation Scientist, Sunnybrook Health Sciences Centre
+Greg Van Alstyne, Director of Research, Strategic Innovation Lab (sLab); Associate Professor, Ontario College of Art and Design (OCAD)
+
+Recent  Theses:
+
+Velian Pandeliev, M.Sc.: A Portal for the Online Evaluation of Serious Games, July 2011
+Xavier Snelgrove, B.A.Sc.: Design and Evaluation of an Accessible System for the Collaborative Reading of Digital Books, May 2011
+Liam Kaufman, B.Sc.: OYSTER: Organize Your Studies Efficiently and Rapidly, May 2011
+Nick Shim, M.Sc.: A Study of Social Interaction in Online Games for Seniors, September 2010
+Michael Wu, 
+      Ph.D.: Memory Aids as Collaboration Technology, June 2010
+Miller Peterson, M.Sc.: A Study of Media for LEctures Recordings, December 2009
+Cosmin Munteanu, Ph.D.: Useful Transcriptions of Webcast Lectures, March 2009(co-supervisor)
+Kent Fenwick, Pd.D.: Design of a Context-aware Name Reminder System, September 2009
+Mike Massimi, M.Sc.: 
+        Participatory Design of Mobile Phone Software for Seniors, January 2007
+ Tira Cohene, M.Sc.: The Design of Interactive Life Story Multimedia for an Individual and 
+Family Affected by Alzheimer’s Disease, April 2005
+ David Fono, M.Sc.: 
+      Structuring and Supporting Persistent Chat Conversation, October 2006
+Jonathan Hoss, 
+B.A.Sc.: Open Source Technology Transfer Strategies: An Analysis of Open Source 
+Business Models Used to Incubate and Commercialize University Software Projects,  
+April 2005
+ Joanna McGrenere, 
+Ph.D.: The Design and Evaluation of Multiple Interfaces: A Solution for 
+Complex Software, February 2002 (co-supervisor)
+Meredith 
+Noble, B.A.Sc.: Needs Analysis and Preliminary Prototyping for a Context-aware 
+Name Recollection Tool, April 2005
+ Russ Shick, 
+M.Sc.: A Study of Student Conversation in Text and Audio During Webcast Lectures, 
+July 2005
+Krista 
+Strickland, M.Sc.: A Study of Multimedia Lecture Archives for Mobile and Desktop 
+Computers, January 2005
+Maryam Tohidi, 
+        M.Sc.: The Role of Multiple Prototypes in Usability Testing and Inspection 
+        (co-supervisor), January 2006
+Michael Wu, M.Sc.: The 
+      Participatory Design of an Orientation Aid for People with Amnesia, July 2004. 
+
+
+Research Sponsors
+
+NSERC
+ Alzheimer's Association
+Google Research
+ Microsoft Research (MSR)
+The Connaught Fund, University of Toronto
+GRAND Network Centre of Excellence (GRAND NCE)
+
+
+Contact
+Technologies for Aging Gracefully Lab
+  Department of Computer Science
+      Bahen Centre for Information Technology
+
+      40 St. George St., Room 7228
+      Toronto, Ontario
+    M5S 2E4
+
+    Email: ron@taglab.ca
+Tel: 416-978-6983
+
+Fax: 416-946-7132
+    
+
+- back to top - 
+
+
+
+
+
+
+September 2011
+
+ 
+
+
+
+
+
